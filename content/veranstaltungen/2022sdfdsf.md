@@ -7,5 +7,6 @@ featuredImage: static/img/blog/chris9.jpg
 images:
   - i: /static/img/veranstaltungen/chris2.jpg
   - i: /static/img/veranstaltungen/chris7.jpg
+  - i: /img/chris5.jpg
 ---
 dfgdfg
