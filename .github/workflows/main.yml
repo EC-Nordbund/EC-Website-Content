@@ -19,7 +19,7 @@ jobs:
       # Dispatch an `merge-content` event to the `target_repo`
       - name: Repository Dispatch
         env:
-          target_repo: 'EC-Nordbund/EC-Webiste'
+          target_repo: 'EC-Nordbund/EC-Website'
         # You may pin to the exact commit or the version.
         # uses: peter-evans/repository-dispatch@ce5485de42c9b2622d2ed064be479e8ed65e76f4
         uses: peter-evans/repository-dispatch@v1.1.3
