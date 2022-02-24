@@ -18,7 +18,7 @@ jobs:
         env:
           dest: 'root@ec-nordbund.de:/samba_share/server-content'
         run: |
-          echo "${{  }}" > deploy_key
+          echo "${{secrets.DEPLOY_KEY}}" > deploy_key
           chmod 600 ./deploy_key
           rsync -chav --delete \
             -e 'ssh -i ./deploay_key -o StrictHostKeyChecking=no' \
