@@ -14,7 +14,7 @@ long: 10.8752533
 minAlter: 13
 maxAlter: 99
 warteliste:
-  allgemein: false
+  allgemein: true
   männlich: false
   weiblich: false
 juleica: false
