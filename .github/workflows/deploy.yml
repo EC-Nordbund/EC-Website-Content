@@ -16,7 +16,7 @@ jobs:
 
       - name: Deploy to ec-nordbund.de
         env:
-          dest: 'root@ec-nordbund.de:/samba_share/server-content'
+          dest: 'deployer@ec-nordbund.de:/samba_share/server-content'
         run: |
           echo "${{secrets.DEPLOY_KEY}}" > deploy_key
           chmod 600 ./deploy_key
