@@ -65,6 +65,9 @@ folders:
           - filename: '/download/Dokumente/Karlsminde/Preisliste_2021.pdf'
             title: Preisliste_2021.pdf
             description: ''
+          - filename: '/download/Dokumente/Karlsminde/Preisliste 2022 Karlsminde.pdf'
+            title: Preisliste_2022.pdf
+            description: ''
     files:
       - filename: '/download/Dokumente/Datenschutzerklärung Anmeldung v1.pdf'
         title: Datenschutzerklärung Anmeldung v1.pdf
