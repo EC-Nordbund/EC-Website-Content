@@ -14,8 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-
       # Dispatch an `merge-content` event to the `target_repo`
       - name: Repository Dispatch
         env:
