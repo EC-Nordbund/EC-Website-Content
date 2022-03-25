@@ -9,8 +9,8 @@ veranstaltungsort: Erfurt
 strasse: 
 plz: 6792
 ort: Erfurt
-lat: 50.9854728
-long: 10.8752533
+lat: 50.97461
+long: 11.02847
 minAlter: 13
 maxAlter: 99
 warteliste:
