@@ -46,7 +46,7 @@ anmeldung:
     - type: text
       label: Code für unter 18 Jährige (s.o.)
       name: key
-  disabled: false
+  disabled: true
   startAt: "2021-11-14T12:00:00Z"
 ---
 
