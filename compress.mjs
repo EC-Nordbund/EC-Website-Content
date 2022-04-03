@@ -152,7 +152,7 @@ async function run(folder) {
   let c = 0
 
 
-  files.forEach(async file => {
+  files.sort(()=>Math.random()-0.5).slice(1, 15).forEach(async file => {
     const input = readFileSync(file)
 
     try {
