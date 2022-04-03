@@ -16,7 +16,7 @@ jobs:
         node-version: 16.x
         cache: 'pnpm'
     - run: node ./compress.mjs
-    - name: Update submodules index
-        uses: stefanzweifel/git-auto-commit-action@v4.13.1
-        with:
-          commit_message: compress images
+    - name: Commit
+      uses: stefanzweifel/git-auto-commit-action@v4.13.1
+      with:
+        commit_message: compress images
