@@ -1,0 +1,13 @@
+{
+  "name": "ec-website-content",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "Hier liegt der Content unser [Website](ec-nordbund.de)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EC-Nordbund/EC-Website-content.git"
+  },
+  "dependencies": {
+    "@squoosh/lib": "0.4.1"
+  }
+}

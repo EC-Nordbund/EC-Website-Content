@@ -1,0 +1,27 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@squoosh/lib': 0.4.1
+
+dependencies:
+  '@squoosh/lib': 0.4.1
+
+packages:
+
+  /@squoosh/lib/0.4.1:
+    resolution: {integrity: sha512-qAO4AXEpSnurikGFZwsG7DGi7QHBIaDpbumcDyUvJNOd652ksZSVXmFHwlEikc7hy0RQ9LczIURqfSDo/5oc5Q==}
+    engines: {node: ' ^12.5.0 || ^14.0.0 || ^16.0.0 '}
+    deprecated: This version has bugs and other unintended breaking changes
+    dependencies:
+      wasm-feature-detect: 1.2.11
+      web-streams-polyfill: 3.2.0
+    dev: false
+
+  /wasm-feature-detect/1.2.11:
+    resolution: {integrity: sha512-HUqwaodrQGaZgz1lZaNioIkog9tkeEJjrM3eq4aUL04whXOVDRc/o2EGb/8kV0QX411iAYWEqq7fMBmJ6dKS6w==}
+    dev: false
+
+  /web-streams-polyfill/3.2.0:
+    resolution: {integrity: sha512-EqPmREeOzttaLRm5HS7io98goBgZ7IVz79aDvqjD0kYXLtFZTc0T/U6wHTPKyIjb+MdN7DFIIX6hgdBEpWmfPA==}
+    engines: {node: '>= 8'}
+    dev: false
