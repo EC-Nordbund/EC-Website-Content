@@ -146,13 +146,13 @@ export function toDo(folder) {
 
 
 async function run(folder) {
-  const files = await toDo(folder)
+  const files = (await toDo(folder)).sort(()=>Math.random()-0.5).slice(1, 15)
 
   console.log(files.join('\n'))
   let c = 0
 
 
-  files.sort(()=>Math.random()-0.5).slice(1, 15).forEach(async file => {
+  files.forEach(async file => {
     const input = readFileSync(file)
 
     try {
