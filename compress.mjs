@@ -146,7 +146,7 @@ export function toDo(folder) {
 
 
 async function run(folder) {
-  const files = (await toDo(folder)).sort(()=>Math.random()-0.5).slice(1, 15)
+  const files = (await toDo(folder)).sort(()=>Math.random()-0.5).slice(0, 30)
 
   console.log(files.join('\n'))
   let c = 0
