@@ -5,7 +5,7 @@ import { cpus } from "os";
 
 const imagePool = new ImagePool(cpus().length);
 
-const normalScalars = [2, 3, 5, 6, 8, 10];
+const normalScalars = [1.5, 2, 3, 5, 6, 8, 10];
 
 const extra = {
   'png': {
