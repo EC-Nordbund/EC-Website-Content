@@ -1,0 +1,23 @@
+name: Compress Images
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: pnpm/action-setup@35ab4267a1a21c8e8cb1c087cf1642e891ff57bd
+      with:
+        version: 6.27.1
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.x
+        cache: 'pnpm'
+    - run: pnpm i
+    - run: node ./compress.mjs
+    - name: Commit
+      uses: stefanzweifel/git-auto-commit-action@v4.13.1
+      with:
+        commit_message: compress images
