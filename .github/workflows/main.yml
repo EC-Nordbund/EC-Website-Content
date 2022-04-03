@@ -1,4 +1,4 @@
-name: Compress Images
+name: CI
 
 on: [push, workflow_dispatch]
 
