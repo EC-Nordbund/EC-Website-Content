@@ -4,7 +4,7 @@ title: Christival
 begin: "2022-05-25"
 ende: "2022-05-29"
 description: Wir fahren zum Christival!
-featuredImage: /veranstaltungen/Chris/Chris1.png
+featuredImage: veranstaltungen/Chris/Chris1.png
 veranstaltungsort: Erfurt
 strasse: 
 plz: 6792
@@ -19,14 +19,14 @@ warteliste:
   weiblich: false
 juleica: false
 images:
-  - /veranstaltungen/Chris/Chris2
-  - /veranstaltungen/Chris/Chris3
-  - /veranstaltungen/Chris/Chris4
-  - /veranstaltungen/Chris/Chris5
-  - /veranstaltungen/Chris/Chris6
-  - /veranstaltungen/Chris/Chris7
-  - /veranstaltungen/Chris/Chris8
-  - /veranstaltungen/Chris/Chris9
+  - veranstaltungen/Chris/Chris2
+  - veranstaltungen/Chris/Chris3
+  - veranstaltungen/Chris/Chris4
+  - veranstaltungen/Chris/Chris5
+  - veranstaltungen/Chris/Chris6
+  - veranstaltungen/Chris/Chris7
+  - veranstaltungen/Chris/Chris8
+  - veranstaltungen/Chris/Chris9
 tags:
   - Christival
   - ab 14 Jahren

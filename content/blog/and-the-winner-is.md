@@ -2,14 +2,14 @@
 title: "And the winner is"
 published: 2017-11-24T15:00:58
 description: "Hallenfußball deluxe...\n#WirSindDerNordbund #Entschieden #AK-Sport #Glueckwunsch"
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # And the winner is
 
 Elmshorn!
 
-<img loading="lazy" src="/old/1-Platz_Elmshorn.jpg" alt>
+<img loading="lazy" src="old/1-Platz_Elmshorn.jpg" alt>
 
 Auch in diesem Jahr war unser Turnier ein voller Erfolg.
 
@@ -27,4 +27,4 @@ Und weil er doch vergeht, bleibt nur noch zu sagen, dass ein neuer Hallenturnier
 
 Hier noch ein paar Impressionen vom Tag&#8230;
 
-<img loading="lazy" src="/old/Andacht-2.jpg" alt> <img loading="lazy" src="/old/Aufwaermen.jpg" alt> <img loading="lazy" src="/old/Barteheide_Ratzeburg-2.jpg" alt> <img loading="lazy" src="/old/Barteheide_Ratzeburg-3_Tor.jpg" alt> <img loading="lazy" src="/old/Elmshorn_Luebeck-2.jpg" alt> <img loading="lazy" src="/old/Luebeck_Mannschftsfoto.jpg" alt> <img loading="lazy" src="/old/Pokale.jpg" alt> <img loading="lazy" src="/old/Zuschauer-1.jpg" alt> <img loading="lazy" src="/old/Zuschauer-2.jpg" alt>
+<img loading="lazy" src="old/Andacht-2.jpg" alt> <img loading="lazy" src="old/Aufwaermen.jpg" alt> <img loading="lazy" src="old/Barteheide_Ratzeburg-2.jpg" alt> <img loading="lazy" src="old/Barteheide_Ratzeburg-3_Tor.jpg" alt> <img loading="lazy" src="old/Elmshorn_Luebeck-2.jpg" alt> <img loading="lazy" src="old/Luebeck_Mannschftsfoto.jpg" alt> <img loading="lazy" src="old/Pokale.jpg" alt> <img loading="lazy" src="old/Zuschauer-1.jpg" alt> <img loading="lazy" src="old/Zuschauer-2.jpg" alt>

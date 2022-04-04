@@ -2,7 +2,7 @@
 title: "Das gab es so auch noch nie"
 published: 2017-04-17T11:36:58
 description: ""
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Das gab es so auch noch nie
@@ -13,6 +13,6 @@ zu Ostern noch freie Plätze für das PfingstCamp – das ist neu. Aber in diese
 
 Unser Suchspiel zu Ostern: Irgendwo auf dieser Seite haben wir noch eine Anmeldung versteckt. Jetzt schnell draufklicken und die letzten freien Plätze sichern.
 
-<img loading="lazy" src="/old/Flyer-001.jpg" alt><img loading="lazy" src="/old/Flyer-002.jpg" alt>
+<img loading="lazy" src="old/Flyer-001.jpg" alt><img loading="lazy" src="old/Flyer-002.jpg" alt>
 
-<img loading="lazy" src="/old/PfingstCamp.png" alt>
+<img loading="lazy" src="old/PfingstCamp.png" alt>

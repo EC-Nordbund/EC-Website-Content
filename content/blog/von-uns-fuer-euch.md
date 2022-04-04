@@ -2,7 +2,7 @@
 title: "von uns für euch"
 published: 2019-02-11T09:29:26
 description: ""
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # von uns für euch
@@ -16,7 +16,7 @@ Danke für diese Premiere bei uns im Norden!
 
 *Philine Kröger, EC-Elmshorn*
 
-* <img loading="lazy" src="/old/quer-5-1.jpg" alt>
-* <img loading="lazy" src="/old/quer-1.jpg" alt>
-* <img loading="lazy" src="/old/quer-3.jpg" alt>
-* <img loading="lazy" src="/old/hoch-1.jpg" alt>
+* <img loading="lazy" src="old/quer-5-1.jpg" alt>
+* <img loading="lazy" src="old/quer-1.jpg" alt>
+* <img loading="lazy" src="old/quer-3.jpg" alt>
+* <img loading="lazy" src="old/hoch-1.jpg" alt>

@@ -2,7 +2,7 @@
 title: "Lagerfeuer, Monopoly und Nachtworkshops  Das war das PfingstCamp"
 published: 2017-06-09T11:11:42
 description: "Lagerfeuer, Monopoly und Nachtworkshops... - Das war das PfingstCamp...\n#meinEC #Karlsminde #wirsindderNordbund #sinnvollLeben"
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Lagerfeuer, Monopoly und Nachtworkshops  Das war das PfingstCamp
@@ -19,6 +19,6 @@ Du zweifelst noch? Dann überzeuge dich doch selbst und sei im nächsten Jahr Te
 
 &nbsp;
 
-<img loading="lazy" src="/old/PfingstCamp.png" alt>
+<img loading="lazy" src="old/PfingstCamp.png" alt>
 
-<img loading="lazy" src="/old/IMG_7335.jpg" alt> <img loading="lazy" src="/old/IMG_7380.jpg" alt> <img loading="lazy" src="/old/IMG_7481.jpg" alt> <img loading="lazy" src="/old/IMG_7543.jpg" alt> <img loading="lazy" src="/old/IMG_7567.jpg" alt> <img loading="lazy" src="/old/IMG_7640.jpg" alt> <img loading="lazy" src="/old/IMG_7663.jpg" alt> <img loading="lazy" src="/old/IMG_7679.jpg" alt> <img loading="lazy" src="/old/IMG_7694.jpg" alt> <img loading="lazy" src="/old/IMG_7758.jpg" alt> <img loading="lazy" src="/old/IMG_7772.jpg" alt> <img loading="lazy" src="/old/IMG_7889.jpg" alt> <img loading="lazy" src="/old/IMG_7965.jpg" alt> <img loading="lazy" src="/old/IMG_7993.jpg" alt> <img loading="lazy" src="/old/IMG_8035.jpg" alt> <img loading="lazy" src="/old/IMG_8044.jpg" alt>
+<img loading="lazy" src="old/IMG_7335.jpg" alt> <img loading="lazy" src="old/IMG_7380.jpg" alt> <img loading="lazy" src="old/IMG_7481.jpg" alt> <img loading="lazy" src="old/IMG_7543.jpg" alt> <img loading="lazy" src="old/IMG_7567.jpg" alt> <img loading="lazy" src="old/IMG_7640.jpg" alt> <img loading="lazy" src="old/IMG_7663.jpg" alt> <img loading="lazy" src="old/IMG_7679.jpg" alt> <img loading="lazy" src="old/IMG_7694.jpg" alt> <img loading="lazy" src="old/IMG_7758.jpg" alt> <img loading="lazy" src="old/IMG_7772.jpg" alt> <img loading="lazy" src="old/IMG_7889.jpg" alt> <img loading="lazy" src="old/IMG_7965.jpg" alt> <img loading="lazy" src="old/IMG_7993.jpg" alt> <img loading="lazy" src="old/IMG_8035.jpg" alt> <img loading="lazy" src="old/IMG_8044.jpg" alt>

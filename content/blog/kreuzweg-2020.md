@@ -2,13 +2,13 @@
 title: "Kreuzweg 2020"
 published: 2020-04-07T19:41:07
 description: ""
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Kreuzweg 2020
 
 
-<video controls src="/old/Kreuzweg-MQ.m4v"></video>
+<video controls src="old/Kreuzweg-MQ.m4v"></video>
 <div aria-hidden="true">
 
 Erlebe den letzten Weg Jesu ans Kreuz neu und ganz persönlich. 

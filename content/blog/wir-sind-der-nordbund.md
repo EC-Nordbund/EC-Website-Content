@@ -2,12 +2,12 @@
 title: "Wir sind der Nordbund"
 published: 2017-03-28T16:05:12
 description: ""
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Wir sind der Nordbund
 
-<img loading="lazy" src="/old/Wir-sind-der-Nordbund.png" alt>
+<img loading="lazy" src="old/Wir-sind-der-Nordbund.png" alt>
 
 Herzlich willkommen auf unserer neuen Homepage. Wir hoffen, du fühlst dich wohl und findest dich zurecht.
 

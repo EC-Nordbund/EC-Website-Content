@@ -2,12 +2,12 @@
 title: "Tag 11  #40days"
 published: 2018-02-26T07:00:12
 description: "Tag 11 - #40days\n#WirsindderNordbund #my40days #gotteswort #meinEC #ecjugend"
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Tag 11  #40days
 
-<img loading="lazy" src="/old/40DAYS_02-26_IN-tag-11.jpg" alt>
+<img loading="lazy" src="old/40DAYS_02-26_IN-tag-11.jpg" alt>
 
 Johannes 13,34+35 
 Ich gebe euch ein neues Gebot: 
