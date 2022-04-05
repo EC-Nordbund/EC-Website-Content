@@ -6,6 +6,8 @@ featuredImage: blog/hero-image.webp
 ---
 ![](blog/chris2.jpg)
 
+![](blog/chris1.webp)
+
 dasdasd
 
 ![test](img_20220307_063527.jpg "Titel")
