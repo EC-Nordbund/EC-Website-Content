@@ -10,7 +10,7 @@ jobs:
       uses: Sibz/github-status-action@v1
       with: 
         authToken: ${{secrets.GITHUB_TOKEN}}
-        context: 'Deploy'
+        context: 'deploy'
         description: Deployed at https://preview.ec-nordbund.de/${{github.ref_name}}
         target_url: https://preview.ec-nordbund.de/${{github.ref_name}}
         state: 'success'
