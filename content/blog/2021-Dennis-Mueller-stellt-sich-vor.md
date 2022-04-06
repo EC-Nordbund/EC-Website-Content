@@ -2,9 +2,9 @@
 title: 'Dennis stellt sich vor'
 published: 2021-03-13T14:00:00
 description: 'Der neu gewählte 1. Vorsitzende des EC-Nordbund ergreift zum ersten mal auf unserer Website das Wort und stellt sich vor.'
-featuredImage: /blog/2021/neuer-vorsitzender-dennis-mueller.jpg
+featuredImage: blog/2021/neuer-vorsitzender-dennis-mueller.jpg
 images:
- - /blog/2021/neuer-vorsitzender-dennis-mueller
+ - blog/2021/neuer-vorsitzender-dennis-mueller
 ---
 
 # Moin Ihr Lieben,
@@ -12,7 +12,7 @@ images:
 ich möchte die Gelegenheit nutzen, mich auf diesem Wege vorzustellen.  
 Am 06.03.2021 wurde ich von der Vertreterversammlung des EC-Nordbunds zum neuen 1. Vorsitzenden gewählt und ich freue mich auf die kommenden Herausforderungen und neuen Aufgaben.
 
-![Dennis Müller lächelnd vor großem EC-Logo](/blog/2021/neuer-vorsitzender-dennis-mueller.jpg "Foto: Dennis Müller")
+![Dennis Müller lächelnd vor großem EC-Logo](blog/2021/neuer-vorsitzender-dennis-mueller.jpg "Foto: Dennis Müller")
 <!-- TODO: <ec-image-container :images="images"></ec-image-container> -->
 
 Kurz zu meiner Person und wo ich herkomme. Ich bin im wunderschönen Niedersachsen in der Nähe von Hannover geboren und bin 22 Jahre alt. Von Kind auf bin ich mit meinen Eltern in die Landeskirchliche Gemeinschaft gegangen. Nach dem Abitur zog es mich in den Norden und ich habe eine kleine Wohnung in Lübeck gefunden. 2019 schloss ich meine Ausbildung zum Kaufmann für Verkehrsservice bei der Deutschen Bahn erfolgreich ab.

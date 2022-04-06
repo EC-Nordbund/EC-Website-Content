@@ -5,7 +5,7 @@ begin: '2022-11-12'
 ende: '2022-11-12'
 description: >-
   Wenige Wochen nach den Sommerferien treffen sich alle EC-Mitarbeiter für einen MitarbeiterTag an einem Ort. So ist es guter Brauch bei uns im Nordbund. Aber gute Angebote muss man nutzen und so legen wir diesen Tag mit dem Impulstag des Gemeinschaftsverbandes zusammen, denn auch der VG will einen Tag investieren, um möglichst vielfältige Angebote zur Weiterbildung zu schaffen. 
-featuredImage: /veranstaltungen/MaTag/MaTag4.jpg
+featuredImage: veranstaltungen/MaTag/MaTag4.jpg
 veranstaltungsort: Bürgerhalle Kaltenkirchen
 strasse: Flottkamp 34
 plz: 24568
@@ -20,12 +20,12 @@ warteliste:
   weiblich: false
 juleica: true
 images:
-  # - /veranstaltungen/MaTag/MaTag1
-  # - /veranstaltungen/MaTag/MaTag2
-  - /veranstaltungen/MaTag/MaTag2
-  # - /veranstaltungen/MaTag/MaTag4
-  - /veranstaltungen/MaTag/MaTag4
-  # - /veranstaltungen/MaTag/MaTag6
+  # - veranstaltungen/MaTag/MaTag1
+  # - veranstaltungen/MaTag/MaTag2
+  - veranstaltungen/MaTag/MaTag2
+  # - veranstaltungen/MaTag/MaTag4
+  - veranstaltungen/MaTag/MaTag4
+  # - veranstaltungen/MaTag/MaTag6
 tags:
   - Seminar
   - JuLeiCa-Fortbildung

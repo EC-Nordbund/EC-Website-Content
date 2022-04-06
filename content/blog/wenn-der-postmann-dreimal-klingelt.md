@@ -2,12 +2,12 @@
 title: "Wenn der Postmann dreimal klingelt"
 published: 2017-09-19T10:10:52
 description: "Wenn der Postmann dreimal klingelt...\n#FeiertJesusV #entschieden #WirSindDerNordbund"
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Wenn der Postmann dreimal klingelt
 
-<img loading="lazy" src="/old/DSC_1304.jpg" alt> <img loading="lazy" src="/old/DSC_1307.jpg" alt>
+<img loading="lazy" src="old/DSC_1304.jpg" alt> <img loading="lazy" src="old/DSC_1307.jpg" alt>
 
 Heute kam ganz unerwartet &#8211; weil viel früher als gedacht &#8211; eine kleine Paketlieferung aus 16 Kartons an.
 

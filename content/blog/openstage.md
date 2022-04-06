@@ -2,7 +2,7 @@
 title: "OpenStage"
 published: 2018-02-20T19:22:51
 description: "OpenStage\n#WirsindderNordbund #OpenStage #kollegenhighlight #FeierAbend"
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # OpenStage
@@ -13,4 +13,4 @@ Die hauptamtlichen Mitarbeiter des VG treffen sich zur Arko in Kiel. Unser Vorst
 
 Unser Beitrag für einen gelungenen kollegialen Abend&#8230;
 
-<img loading="lazy" src="/old/DSC_1912.jpg" alt>
+<img loading="lazy" src="old/DSC_1912.jpg" alt>

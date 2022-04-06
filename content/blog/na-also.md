@@ -2,7 +2,7 @@
 title: "Na also"
 published: 2017-04-10T23:35:02
 description: ""
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Na also
@@ -19,4 +19,4 @@ Coole Überraschung als wir nach Hause kamen: Das ganze Lager im bunten Meer von
 
 #Lieblingsstreich #meinEC
 
-<img loading="lazy" src="/old/DSC_3844.jpg" alt> <img loading="lazy" src="/old/DSC_3851.jpg" alt>
+<img loading="lazy" src="old/DSC_3844.jpg" alt> <img loading="lazy" src="old/DSC_3851.jpg" alt>

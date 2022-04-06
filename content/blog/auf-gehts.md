@@ -2,12 +2,12 @@
 title: "Auf gehts"
 published: 2018-01-10T08:46:15
 description: "Geiler Start in den Tag.\n#WirsindderNordbund #Entschieden #ECBewegung #geilesFruehstueck #ECVersprechen #Lichtstrahlen"
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Auf gehts
 
-<img loading="lazy" src="/old/DSC_17391.jpg" alt>
+<img loading="lazy" src="old/DSC_17391.jpg" alt>
 
 Das ist mal ein Frühstück: Die Kinder aus dem Haus, lecker Toast und heißer Marshmallow-Kakao aus der neuen **Tasse mit EC-Versprechen** (bald im Fan-Shop).
 

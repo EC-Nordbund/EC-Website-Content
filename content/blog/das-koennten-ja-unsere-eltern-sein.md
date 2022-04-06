@@ -2,12 +2,12 @@
 title: "Das könnten ja unsere Eltern sein "
 published: 2017-04-12T11:21:50
 description: ""
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Das könnten ja unsere Eltern sein 
 
-<img loading="lazy" src="/old/DSC_38691.jpg" alt>
+<img loading="lazy" src="old/DSC_38691.jpg" alt>
 
 &#8230; aber es sind unsere Brüder und Schwestern.
 

@@ -5,7 +5,7 @@ begin: '2021-11-13'
 ende: '2021-11-13'
 description: >-
   Der Mitarbeitertag fällt aus!
-featuredImage: /veranstaltungen/MaTag/MaTag6.jpg
+featuredImage: veranstaltungen/MaTag/MaTag6.jpg
 veranstaltungsort: Gymnasium Kaltenkirchen
 strasse: Flottkamp 34
 plz: 24568
@@ -20,12 +20,12 @@ warteliste:
   weiblich: false
 juleica: true
 images:
-  # - /veranstaltungen/MaTag/MaTag1
-  # - /veranstaltungen/MaTag/MaTag2
-  - /veranstaltungen/MaTag/MaTag3
-  # - /veranstaltungen/MaTag/MaTag4
-  - /veranstaltungen/MaTag/MaTag5
-  # - /veranstaltungen/MaTag/MaTag6
+  # - veranstaltungen/MaTag/MaTag1
+  # - veranstaltungen/MaTag/MaTag2
+  - veranstaltungen/MaTag/MaTag3
+  # - veranstaltungen/MaTag/MaTag4
+  - veranstaltungen/MaTag/MaTag5
+  # - veranstaltungen/MaTag/MaTag6
 tags:
   - Seminar
   - JuLeiCa-Fortbildung

@@ -2,7 +2,7 @@
 title: "So einfach kannst du uns unterstützen"
 published: 2020-10-11T21:45:06
 description: "So kannst du uns ganz unkompliziert unterstützen."
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # So einfach kannst du uns unterstützen

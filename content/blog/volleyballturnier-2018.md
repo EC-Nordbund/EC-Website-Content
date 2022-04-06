@@ -2,7 +2,7 @@
 title: "Volleyballturnier 2018"
 published: 2018-04-01T23:12:19
 description: ""
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Volleyballturnier 2018
@@ -35,22 +35,22 @@ In der ersten Gruppenphase ging es also darum, ob man um Platz 1-4, oder 5-8 spi
 
 <dl>
   <dt>
-    <a href="/old/IMG_2435.jpg"><img src="/old/IMG_2435.jpg" alt loading="lazy"></a>
+    <a href="old/IMG_2435.jpg"><img src="old/IMG_2435.jpg" alt loading="lazy"></a>
   </dt></dl><dl>
   <dt>
-    <a href="/old/IMG_2525.jpg"><img src="/old/IMG_2525.jpg" alt loading="lazy"></a>
+    <a href="old/IMG_2525.jpg"><img src="old/IMG_2525.jpg" alt loading="lazy"></a>
   </dt></dl><dl>
   <dt>
-    <a href="/old/IMG_2566.jpg"><img src="/old/IMG_2566.jpg" alt loading="lazy"></a>
+    <a href="old/IMG_2566.jpg"><img src="old/IMG_2566.jpg" alt loading="lazy"></a>
   </dt></dl> <dl>
   <dt>
-    <a href="/old/IMG_2584.jpg"><img src="/old/IMG_2584.jpg" alt loading="lazy"></a>
+    <a href="old/IMG_2584.jpg"><img src="old/IMG_2584.jpg" alt loading="lazy"></a>
   </dt></dl><dl>
   <dt>
-    <a href="/old/IMG_2607.jpg"><img src="/old/IMG_2607.jpg" alt loading="lazy"></a>
+    <a href="old/IMG_2607.jpg"><img src="old/IMG_2607.jpg" alt loading="lazy"></a>
   </dt></dl><dl>
   <dt>
-    <a href="/old/IMG_2630.jpg"><img src="/old/IMG_2630.jpg" alt loading="lazy"></a>
+    <a href="old/IMG_2630.jpg"><img src="old/IMG_2630.jpg" alt loading="lazy"></a>
   </dt>
     <dd>
     Die Sieger

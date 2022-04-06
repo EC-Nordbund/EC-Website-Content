@@ -2,7 +2,7 @@
 title: "#decm2017  SundayReport"
 published: 2017-06-11T21:35:27
 description: "SundayReport von den #decm2017 ist mit den Ergebnissen und Mannschaftsfotos online\nWir hatten eine Menge Spaß am Sport! :D\n\n#meinEC #wirsindderNordbund #decm2017\n\nHoffentlich sind alle mittlerweile gut Zuhause angekommen :)"
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # #decm2017  SundayReport
@@ -18,11 +18,11 @@ Nach den letzten Spielen haben wir ein spannendes Volleyballfinale (ja, wir war
 
 ---
 
-### **Das Fußballteam hat es auf den 6. Platz geschafft.**<img loading="lazy" src="/old/19025098_10154933538577730_7204239167095091427_o.jpg" alt>
+### **Das Fußballteam hat es auf den 6. Platz geschafft.**<img loading="lazy" src="old/19025098_10154933538577730_7204239167095091427_o.jpg" alt>
 
 ---
 
-### **Das Volleyballteam hat es auf den 16. Platz geschafft.**<img loading="lazy" src="/old/18955034_10154933536887730_8933523124673833243_o.jpg" alt>
+### **Das Volleyballteam hat es auf den 16. Platz geschafft.**<img loading="lazy" src="old/18955034_10154933536887730_8933523124673833243_o.jpg" alt>
 
 ---
 

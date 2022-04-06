@@ -4,12 +4,12 @@ title: Roundnet-Turnier
 begin: '2022-09-10'
 ende: '2022-09-10'
 description: Weitere Informationen folgen...
-featuredImage: /veranstaltungen/Sport/RN1.jpg
+featuredImage: veranstaltungen/Sport/RN1.jpg
 lat: 0
 long: 0
 images:
-  - /veranstaltungen/Sport/RN2
-  - /veranstaltungen/Sport/RN1
+  - veranstaltungen/Sport/RN2
+  - veranstaltungen/Sport/RN1
 warteliste:
   allgemein: false
   männlich: false

@@ -2,12 +2,12 @@
 title: "und täglich grüßt das Murmeltier"
 published: 2017-03-31T16:26:25
 description: ""
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # und täglich grüßt das Murmeltier
 
-<img loading="lazy" src="/old/DSC_3790.jpg" alt> <img loading="lazy" src="/old/Volker-Riewesell-01.jpg" alt> <img loading="lazy" src="/old/Volker-Riewesell-02.jpg" alt><img loading="lazy" src="/old/Sieger-Alt-Neumünster.jpg" alt>
+<img loading="lazy" src="old/DSC_3790.jpg" alt> <img loading="lazy" src="old/Volker-Riewesell-01.jpg" alt> <img loading="lazy" src="old/Volker-Riewesell-02.jpg" alt><img loading="lazy" src="old/Sieger-Alt-Neumünster.jpg" alt>
 
 Es ist doch wirklich nicht zu fassen: Da wird nach 12 Jahren das EC-Volleyballturnier wiederbelebt und das erste Turnier gewinnt die Generation von damals&#8230;
 

@@ -2,7 +2,7 @@
 title: "Zwei großartige Dinge!"
 published: 2018-05-22T10:52:41
 description: ""
-featuredImage: /blog-default.png
+featuredImage: blog-default.png
 ---
 
 # Zwei großartige Dinge!
