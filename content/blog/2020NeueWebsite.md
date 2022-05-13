@@ -4,9 +4,6 @@ published: 2020-10-28T12:00:00
 description: 'Unsere neue Website ist da! Hier erfährst du, was du wissen musst!'
 featuredImage: blog/2020/experience_design.jpg
 ---
-
-> Dies ist nur zum testen und wird produktiv nicht angezeigt
-
 # Unsere neue Website
 
 Lange geplant - jetzt ist sie da! Die neue Version unserer Website!
