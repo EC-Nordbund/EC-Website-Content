@@ -1,6 +1,6 @@
 ---
-begin: 2022-11-12
-ende: 2022-11-12
+begin: '2022-11-12'
+ende: '2022-11-12'
 featuredImage: veranstaltungen/MaTag/MaTag4.jpg
 juleica: true
 veranstaltungsort: Bürgerhalle Kaltenkirchen
