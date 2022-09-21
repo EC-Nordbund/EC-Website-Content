@@ -30,8 +30,6 @@ Vielen Dank an alle die da waren, wir freuen uns schon auf das nächste Jahr.
 
 ![](blog/4.jpg)
 
-![](blog/5.jpg)
-
 ![](blog/6.jpeg)
 
 ![](blog/7.jpeg)
