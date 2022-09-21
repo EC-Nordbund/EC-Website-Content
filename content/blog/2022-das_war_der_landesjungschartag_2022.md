@@ -5,6 +5,8 @@ description: Spiel, Spaß, Teamwork und Wimpel... am 27.08.22 ging es rund beim
   Landesjungschartag in Sparrieshoop.
 featuredImage: blog/10.jpg
 ---
+# Das war der Landesjungschartag 2022
+
 Spiel, Spaß, Teamwork und Wimpel... am 27.08.22 ging es rund beim Landesjungschartag in Sparrieshoop. \
 Schon lange liefen die Vorbereitungen der Mitarbeiter aus Sparrieshoop und Elmshorn. Sei es das Vorbereiten der Stationsspiele, den Ablauf der Plenumsveranstaltungen oder die Musik. 
 
