@@ -18,10 +18,10 @@ Nachdem dann alle Gruppen die Spiele bewältigt hatten, ging es weiter mit vier 
 
 Um 15 Uhr trafen sich dann alle Jungscharen zur Siegerehrung der Gewinner von den Stationsspielen.  \
 Doch bevor endlich bekannt gegeben wurde, wer das Rennen dieses Jahr gemacht hat, gab es noch eine Vorführung vom Tanzworkshop.  \
-Dann war es endlich soweit die Siegerehrung ging los. Es war sehr aufregend und spannend, doch am Ende triumphierte die Jungschar aus Lübeck auf dem 3. Platz, die Jungschar aus Brande-Hörnerkirchen auf dem 2. Platz und die Jungschar aus Bargteheide durfte sich über den 1. Platz freuen und den neu entworfenen Wimpel zum ersten Mal mit nach Hause nehmen.  \
-Vielen Dank an alle die da waren, wir freuen uns schon auf das nächste Jahr.
-
+Dann war es endlich soweit die Siegerehrung ging los. Es war sehr aufregend und spannend, doch am Ende triumphierte die Jungschar aus Lübeck auf dem 3. Platz, die Jungschar aus Brande-Hörnerkirchen auf dem 2. Platz und die Jungschar aus Bargteheide durfte sich über den 1. Platz freuen und den neu entworfenen Wimpel zum ersten Mal mit nach Hause nehmen.\
+\
 Allem im allem war es ein schöner, erfolgreicher und verletzungsfreier Tag. Den wir trotz schlechter Wetterprognosen bei strahlendem Sonnenschein genießen durften.  \
+\
 Vielen Dank an alle die da waren, wir freuen uns schon auf das nächste Jahr.
 
 ![](blog/1.jpg)
