@@ -25,7 +25,9 @@ Um das Haus zu bauen habt ihr bis zum 26.11.2022 Zeit, denn im Anschluss an unse
 
 Wir bitten jedes Team um eine Anmeldung über folgendes Formular bis zum 05.11.2022, um an der Challenge teilzunehmen. Alle weiteren [Teilnahmebedingungen](#Teilnhamebedingung) stehen weiter unten.
 
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=lDZs0n-42k-MGH7D3WERTGAikpWg1d9EkFOBg9FDTk5UM0UzNThKWE8ySzhSNVFFMEVIOFlOMllZWiQlQCN0PWcu&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<div style="background: hsl(0, 0%, 92%); padding: 1em; display: grid; justify-content: center;">\
+<iframe width="640px" height= "640px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=lDZs0n-42k-MGH7D3WERTGAikpWg1d9EkFOBg9FDTk5UM0UzNThKWE8ySzhSNVFFMEVIOFlOMllZWiQlQCN0PWcu&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>\
+</div>
 
 ## Teilnahmebedingung
 
