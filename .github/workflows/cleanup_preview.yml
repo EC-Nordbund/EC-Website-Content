@@ -12,4 +12,4 @@ jobs:
           echo "${{secrets.DEPLOY_KEY}}" > deploy_key
           chmod 600 ./deploy_key
       - name: Delete Deploy
-        run: ssh -i ./deploy_key -o StrictHostKeyChecking=no deployer@ec-nordbund.de "rm -r /samba_share/preview.ec-nordbund.de/${{ github.event.ref }}"
+        run: ssh -i ./deploy_key -o StrictHostKeyChecking=no deployer@ec-nordbund.de "rm -r /webpage/preview.ec-nordbund.de/${{ github.event.ref }}"
