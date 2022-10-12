@@ -36,4 +36,4 @@ Wir bitten jedes Team um eine Anmeldung über folgendes Formular bis zum 05.11.2
 * Das Haus muss einen klar weihnachtlichen Bezug erkennen lassen.
 * Das ganze darf nicht schwerer als 5kg sein.
 * Die maximale Größe beträgt 30cm x 30cm x 30cm.
-* Das Haus muss freistehend sein: Also von alleine halten und darf von keinen nicht essbaren Elementen gestützt werden.
+* Das Haus muss freistehend sein: Also von alleine halten und darf von keinen nicht essbaren Elementen gestützt werden. 
