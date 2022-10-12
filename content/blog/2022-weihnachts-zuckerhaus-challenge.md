@@ -6,11 +6,11 @@ description: Frei nach dem Motto "Wer brauch denn schon Lebkuchen" sind alle
   der Challenge zu stellen ein Lebkuchenhaus ohne Lebkuchen zu bauen.
 featuredImage: blog/zuckerhaus-01.jpeg
 ---
-# Weihnachts-Zuckerhaus-Challenge
+# Weihnachts-Zuckerhaus-Challenge 😋
 
-Frei nach dem Motto "Wer brauch denn schon Lebkuchen" sind alle Teen- und Jugendkreis (oder ähnliche Gruppen) im EC-Nordbund aufgefordert sich der Challenge zu stellen ein Lebkuchenhaus ohne Lebkuchen zu bauen.
+Frei nach dem Motto "Wer brauch denn schon Lebkuchen" sind alle Teen- und Jugendkreis im EC-Nordbund aufgefordert sich der Challenge zu stellen, ein Lebkuchenhaus ohne Lebkuchen zu bauen.
 
-Hä, geht doch gar nicht! – doch, der Teenkreis Kaltenkirchen macht's vor:
+"Hä, geht doch gar nicht!" – doch, der Teenkreis Kaltenkirchen macht's vor:
 
 ![Ein Haus aus verschiedenen Zuckerprodukten zwischen Kerzen und kleinen Zimmerpflanzen auf einem Tisch mit einem blauen Hintergrund.](blog/zuckerhaus-01.jpeg "Zuckerhaus Demo vom Teenkreis Kaltenkirchen")
 
@@ -35,7 +35,7 @@ Wir bitten jedes Team um eine Anmeldung über folgendes Formular bis zum 05.11.2
 * Die Gruppe muss ihr Haus fristgerecht bist zum 05.11.2022 angemeldet haben.
 * Die Baukosten sind von jedem Team selbst zu stemmen. 😉
 * Es dürfen nur essbare Materialien verbaut werden.
-* Das Haus muss einen klar weihnachtlichen Bezug erkennen lassen.
+* Das Haus muss einen klar weihnachtlichen Bezug erkennen lassen. 🎅
 * Das ganze darf nicht schwerer als 5kg sein.
 * Die maximale Größe beträgt 30cm x 30cm x 30cm.
 * Das Haus muss freistehend sein: Also von alleine halten und darf von keinen nicht essbaren Elementen gestützt werden.
