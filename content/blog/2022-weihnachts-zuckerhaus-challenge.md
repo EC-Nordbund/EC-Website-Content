@@ -29,6 +29,8 @@ Wir bitten jedes Team um eine Anmeldung über folgendes Formular **bis zum 05.11
 <iframe width="640px" height="640px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=lDZs0n-42k-MGH7D3WERTGAikpWg1d9EkFOBg9FDTk5UM0UzNThKWE8ySzhSNVFFMEVIOFlOMllZWiQlQCN0PWcu&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 </div>
 
+
+
 ## Teilnahmebedingung
 
 * Es muss ein **Haus** sein, das von einer **Gruppe** (Teenkreis, Jugendkreis, Freizeit, ...) **aus Hamburg oder Schleswig-Holstein** gemeinsam erbaut wurde.
