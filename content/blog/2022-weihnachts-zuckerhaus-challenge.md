@@ -2,8 +2,8 @@
 title: Mach mit bei der Weihnachts-Zuckerhaus-Challenge!
 published: 2022-10-14T13:12:86
 description: Frei nach dem Motto "Wer brauch denn schon Lebkuchen" sind alle
-  Teen- und Jugendkreisim EC-Nordbund aufgefordert sich der Challenge zu stellen
-  ein Lebkuchenhaus ohne Lebkuchen zu bauen.
+  Teen- und Jugendkreis im EC-Nordbund aufgefordert sich der Challenge zu
+  stellen ein Lebkuchenhaus ohne Lebkuchen zu bauen.
 featuredImage: blog/zuckerhaus-01.jpeg
 ---
 # Weihnachts-Zuckerhaus-Challenge 😋
