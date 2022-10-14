@@ -3,7 +3,7 @@ title: Mach mit bei der Weihnachts-Zuckerhaus-Challenge!
 published: 2022-10-14T13:12:86
 description: >-
   Frei nach dem Motto "Wer brauch denn schon Lebkuchen" sind alle Teen- und
-  Jugendkreis im EC-Nordbund aufgefordert sich der Challenge zu stellen ein
+  Jugendkreise im EC-Nordbund aufgefordert sich der Challenge zu stellen ein
   Lebkuchenhaus ohne Lebkuchen zu bauen.
 
 
@@ -12,7 +12,7 @@ featuredImage: blog/zuckerhaus-01.jpeg
 ---
 # Weihnachts-Zuckerhaus-Challenge 😋
 
-Frei nach dem Motto "Wer brauch denn schon Lebkuchen" sind alle Teen- und Jugendkreis im EC-Nordbund aufgefordert sich der Challenge zu stellen, ein Lebkuchenhaus ohne Lebkuchen zu bauen.
+Frei nach dem Motto "Wer brauch denn schon Lebkuchen" sind alle Teen- und Jugendkreise im EC-Nordbund aufgefordert sich der Challenge zu stellen, ein Lebkuchenhaus ohne Lebkuchen zu bauen.
 
 Hä, geht doch gar nicht – doch! Der Teenkreis Kaltenkirchen macht's vor:
 
@@ -20,7 +20,7 @@ Hä, geht doch gar nicht – doch! Der Teenkreis Kaltenkirchen macht's vor:
 
 ## Lebkuchenhaus – Lebkuchen = Zuckerhaus
 
-Zucker gibt es in unerdenklich vielen Formen, Farben und Konsistenzen – aber welches Kombination eignet sich am besten, um ein weihnachtlichen Haus draus zu bauen?\
+Zucker gibt es in unerdenklich vielen Formen, Farben und Konsistenzen – aber welche Kombination eignet sich am besten, um ein weihnachtliches Haus draus zu bauen?\
 Das gilt es im Rahmen der Challenge für dein Team herauszufinden.
 
 Um das Haus zu bauen habt ihr bis zum **26.11.2022** Zeit, denn im Anschluss an unser [Hallenfußballturnier](https://www.ec-nordbund.de/veranstaltungen/2022sHallenFBall) treffen wir uns eh zu einem **überregionalem Jugendgottesdienst in Kaltenkirchen**. Dort sind alle Zuckerhaus-Architekten und Baumeister aufgefordert, ihr Haus zu präsentieren. Dazu muss es real anwesend sein. **Eine Fotodokumentation alleine reicht nicht aus.** Das beste Haus wird prämiert. (Genaue Bewertungskriterien werden vorher nicht bekanntgegeben 😉)
