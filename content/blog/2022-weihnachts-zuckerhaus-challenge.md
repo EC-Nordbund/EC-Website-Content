@@ -2,15 +2,15 @@
 title: Mach mit bei der Weihnachts-Zuckerhaus-Challenge!
 published: 2022-10-12T20:42:01
 description: Frei nach dem Motto "Wer brauch denn schon Lebkuchen" sind alle
-  Teen- und Jugendkreis (oder ähnliche Gruppen) im EC-Nordbund aufgefordert sich
-  der Challenge zu stellen ein Lebkuchenhaus ohne Lebkuchen zu bauen.
+  Teen- und Jugendkreisim EC-Nordbund aufgefordert sich der Challenge zu stellen
+  ein Lebkuchenhaus ohne Lebkuchen zu bauen.
 featuredImage: blog/zuckerhaus-01.jpeg
 ---
 # Weihnachts-Zuckerhaus-Challenge 😋
 
 Frei nach dem Motto "Wer brauch denn schon Lebkuchen" sind alle Teen- und Jugendkreis im EC-Nordbund aufgefordert sich der Challenge zu stellen, ein Lebkuchenhaus ohne Lebkuchen zu bauen.
 
-"Hä, geht doch gar nicht!" – doch, der Teenkreis Kaltenkirchen macht's vor:
+Hä, geht doch gar nicht – doch! Der Teenkreis Kaltenkirchen macht's vor:
 
 ![Ein Haus aus verschiedenen Zuckerprodukten zwischen Kerzen und kleinen Zimmerpflanzen auf einem Tisch mit einem blauen Hintergrund.](blog/zuckerhaus-01.jpeg "Zuckerhaus Demo vom Teenkreis Kaltenkirchen")
 
@@ -20,7 +20,6 @@ Zucker gibt es in unerdenklich vielen Formen, Farben und Konsistenzen – aber w
 Das gilt es im Rahmen der Challenge für dein Team herauszufinden.
 
 Um das Haus zu bauen habt ihr bis zum **26.11.2022** Zeit, denn im Anschluss an unser [Hallenfußballturnier](https://www.ec-nordbund.de/veranstaltungen/2022sHallenFBall) treffen wir uns eh zu einem **überregionalem Jugendgottesdienst in Kaltenkirchen**. Dort sind alle Zuckerhaus-Architekten und Baumeister aufgefordert, ihr Haus zu präsentieren. Dazu muss es real anwesend sein. **Eine Fotodokumentation alleine reicht nicht aus.** Das beste Haus wird prämiert. (Genaue Bewertungskriterien werden vorher nicht bekanntgegeben 😉)
-
 
 Folgende **Teilnahmebedingungen** gibt es bei dieser Challenge:
 
