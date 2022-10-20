@@ -33,7 +33,7 @@ Folgende **Teilnahmebedingungen** gibt es bei dieser Challenge:
 * Es dürfen **nur essbare Materialien** verbaut werden.
 * Das Haus muss einen klar **weihnachtlichen Bezug** erkennen lassen. 🎅
 * Das ganze darf **nicht schwerer als 5kg** sein.
-* Die **maximale Größe** ergibt sich aus der maximalen **Fläche von zwei Basisbibeln und der **Höhe von sechs flach gestapelten Basisbibeln**.
+* Die **maximale Größe** ergibt sich aus der maximalen **Fläche von zwei Basisbibeln** und der **Höhe von sechs flach gestapelten Basisbibeln**.
 * Das Haus muss **freistehend** sein: Also von alleine halten und darf von keinen nicht essbaren Elementen gestützt werden.
 
 ## Anmeldung
