@@ -7,7 +7,7 @@ description: >-
   Lebkuchenhaus ohne Lebkuchen zu bauen.
 
 
-  Anemeldeschluss: 05.11.2022
+  Anmeldeschluss: 05.11.2022
 featuredImage: blog/zuckerhaus-01.jpeg
 ---
 # Weihnachts-Zuckerhaus-Challenge 😋
