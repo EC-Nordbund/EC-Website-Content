@@ -7,7 +7,7 @@ description: >-
   Lebkuchenhaus ohne Lebkuchen zu bauen.
 
 
-  Anemeldeschluss: 05.11.2022
+  Anmeldeschluss: 05.11.2022
 featuredImage: blog/zuckerhaus-01.jpeg
 ---
 # Weihnachts-Zuckerhaus-Challenge 😋
@@ -23,7 +23,9 @@ Hä, geht doch gar nicht – doch! Der Teenkreis Kaltenkirchen macht's vor:
 Zucker gibt es in unerdenklich vielen Formen, Farben und Konsistenzen – aber welche Kombination eignet sich am besten, um ein weihnachtliches Haus draus zu bauen?\
 Das gilt es im Rahmen der Challenge für dein Team herauszufinden.
 
-Um das Haus zu bauen habt ihr bis zum **26.11.2022** Zeit, denn im Anschluss an unser [Hallenfußballturnier](https://www.ec-nordbund.de/veranstaltungen/2022sHallenFBall) treffen wir uns eh zu einem **überregionalem Jugendgottesdienst in Kaltenkirchen**. Dort sind alle Zuckerhaus-Architekten und Baumeister aufgefordert, ihr Haus zu präsentieren. Dazu muss es real anwesend sein. **Eine Fotodokumentation alleine reicht nicht aus.** Das beste Haus wird prämiert. (Genaue Bewertungskriterien werden vorher nicht bekanntgegeben 😉)
+
+Um das Haus zu bauen habt ihr bis zum **26.11.2022** Zeit, denn im Anschluss an unser [Hallenfußballturnier](https://www.ec-nordbund.de/veranstaltungen/2022sHallenFBall) treffen wir uns eh zu einem **überregionalem Jugendgottesdienst in Kaltenkirchen**. Dort sind alle Zuckerhaus-Architekten und Baumeister aufgefordert, ihr Haus zu präsentieren. Dazu muss es real anwesend sein. **Eine Fotodokumentation alleine reicht nicht aus.** Das beste Haus wird prämiert. Die Kriterien sind **Aussehen, Stabilität und Zuckergehalt**.
+
 
 Folgende **Teilnahmebedingungen** gibt es bei dieser Challenge:
 
@@ -33,7 +35,7 @@ Folgende **Teilnahmebedingungen** gibt es bei dieser Challenge:
 * Es dürfen **nur essbare Materialien** verbaut werden.
 * Das Haus muss einen klar **weihnachtlichen Bezug** erkennen lassen. 🎅
 * Das ganze darf **nicht schwerer als 5kg** sein.
-* Die **maximale Größe** beträgt 30cm x 30cm x 30cm.
+* Die **maximale Größe** ergibt sich aus der maximalen **Fläche von zwei Basisbibeln** und der **Höhe von sechs flach gestapelten Basisbibeln**.
 * Das Haus muss **freistehend** sein: Also von alleine halten und darf von keinen nicht essbaren Elementen gestützt werden.
 
 ## Anmeldung
