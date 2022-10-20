@@ -1,8 +1,8 @@
 ---
 veranstaltungsID: -1
 title: Hallenfußball-Turnier
-begin: '2022-12-03'
-ende: '2022-12-03'
+begin: '2022-11-26'
+ende: '2022-11-26'
 description: Weitere Informationen folgen...
 featuredImage: veranstaltungen/Sport/HFB1.jpg
 lat: 0
