@@ -23,9 +23,9 @@ Hä, geht doch gar nicht – doch! Der Teenkreis Kaltenkirchen macht's vor:
 Zucker gibt es in unerdenklich vielen Formen, Farben und Konsistenzen – aber welche Kombination eignet sich am besten, um ein weihnachtliches Haus draus zu bauen?\
 Das gilt es im Rahmen der Challenge für dein Team herauszufinden.
 
+
 Um das Haus zu bauen habt ihr bis zum **26.11.2022** Zeit, denn im Anschluss an unser [Hallenfußballturnier](https://www.ec-nordbund.de/veranstaltungen/2022sHallenFBall) treffen wir uns eh zu einem **überregionalem Jugendgottesdienst in Kaltenkirchen**. Dort sind alle Zuckerhaus-Architekten und Baumeister aufgefordert, ihr Haus zu präsentieren. Dazu muss es real anwesend sein. **Eine Fotodokumentation alleine reicht nicht aus.** Das beste Haus wird prämiert. Die Kriterien sind **Aussehen, Stabilität und Zuckergehalt**.
-Um das Haus zu bauen habt ihr bis zum **26.11.2022** Zeit, denn im Anschluss an unser [Hallenfußballturnier](https://www.ec-nordbund.de/veranstaltungen/2022sHallenFBall) treffen wir uns eh zu einem **überregionalem Jugendgottesdienst in Kaltenkirchen**. Dort sind alle Zuckerhaus-Architekten und Baumeister aufgefordert, ihr Haus zu präsentieren. Dazu muss es real anwesend sein. **Eine Fotodokumentation alleine reicht nicht aus.** Das beste Haus wird prämiert. Die Kriterien sind **Aussehen, Stabilität und Zuckergehalt**.
-Um das Haus zu bauen habt ihr bis zum **26.11.2022** Zeit, denn im Anschluss an unser [Hallenfußballturnier](https://www.ec-nordbund.de/veranstaltungen/2022sHallenFBall) treffen wir uns eh zu einem **überregionalem Jugendgottesdienst in Kaltenkirchen**. Dort sind alle Zuckerhaus-Architekten und Baumeister aufgefordert, ihr Haus zu präsentieren. Dazu muss es real anwesend sein. **Eine Fotodokumentation alleine reicht nicht aus.** Das beste Haus wird prämiert. Die Kriterien sind **Aussehen, Stabilität und Zuckergehalt**.
+
 
 Folgende **Teilnahmebedingungen** gibt es bei dieser Challenge:
 
