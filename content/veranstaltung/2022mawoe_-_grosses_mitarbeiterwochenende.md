@@ -1,0 +1,50 @@
+---
+veranstaltungsID: ""
+title: MaWoE - Großes Mitarbeiterwochenende
+begin: 2023-02-24
+ende: 2023-02-26
+description: Egal, ob du Mitarbeiter bist, oder nicht. Ob du es werden willst,
+  oder davon bisher noch nichts weißt. Du bist eingeladen Teil unserer Bewegung
+  zu sein, wenn wir uns neu erfinden…
+featuredImage: veranstaltungen/mawe-19.jpg
+juleica: true
+veranstaltungsort: Erholungs- und Bildungszentrum Wittensee
+lat: "54.36979371773461"
+long: "9.74764222802808"
+strasse: An See 7
+plz: "24794"
+ort: Bünsdorf
+minAlter: false
+maxAlter: false
+tags: []
+warteliste:
+  allgemein: false
+  männlich: false
+  weiblich: false
+preise:
+  - label: Normal
+    begin: ""
+    ende: 2023-02-03
+    preis: 60
+  - label: Last-Minute
+    begin: 2023-02-04
+    preis: 66
+anmeldung:
+  hatErlaubnisBoot: true
+  hatErlaubnisFahrrad: true
+  hatErlaubnisSchwimmen: true
+  hatErlaubnisSichEntfernen: true
+  hatFreizeitleitung: true
+  hatErlaubnisKlettern: true
+  hatFahrgemeinschaft: true
+  visible: false
+  hatEssen: true
+  startAt: ""
+  hatGesundheit: true
+  disabled: false
+---
+Herzlich willkommen zum MaWoE 2023 – unserem großen BegegnungsWochenende.\
+Egal, ob du Mitarbeiter bist, oder nicht. Ob du es werden willst, oder davon bisher noch nichts weißt. Du bist eingeladen Teil unserer Bewegung zu sein, wenn wir uns neu erfinden…\
+Das Leben von jungen Menschen ist immer in Bewegung. Deshalb muss auch ein Jugendverband ständig im Wandel sein. Es ist höchste Zeit, dass wir gucken, wie unsere Jugendarbeit zukünftig funktionieren soll. Was ist uns wichtig, Was ist bisher unser Herzstück und was soll uns auch zukünftig wichtig sein. Wie können wir geistliche Heimat für junge Menschen sein oder werden, wie wachsen junge Christen in ihrer persönlichen Beziehung zu Gott und wo könnte dein Platz im EC-Nordbund sein?\
+Im letzten Jahr haben wir dazu schon viele Impulse gesammelt. Sei mit dabei, wenn diese Impulse jetzt Früchte tragen.\
+Als Verantwortliche im EC-Nordbund würden wir uns wünschen, dass möglichst alle aus unseren Reihen (ob Mitglied oder nicht) an diesem Wochenende am Start sind. Denn gemeinsam macht es immer mehr Spaß und am meisten sind wir, wenn am wenigsten fehlen. Also sag unbedingt alles andere an diesem Wochenende ab und melde dich gleich [hier](https://www.ec-nordbund.de/#anmeldung) zum MitarbeiterWochenEnde 2023 an, denn du wirst dich ärgern, wenn du dieses Wochenende verpasst. Versprochen!
