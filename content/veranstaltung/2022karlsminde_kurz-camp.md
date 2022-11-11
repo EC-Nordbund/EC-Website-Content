@@ -6,8 +6,8 @@ ende: 2022-11-21
 description: Kurz und knackig Karlsminde erleben! Vier Tage Spaß, Action und Geschichten.
 featuredImage: veranstaltungen/dsc0019.jpg
 images:
-  - veranstaltungen/img_9774.jpg
   - veranstaltungen/img_0120.jpg
+  - veranstaltungen/img_9774.jpg
   - veranstaltungen/dsc_0402.jpg
 juleica: false
 veranstaltungsort: EC-Ferienlager Karlsminde
