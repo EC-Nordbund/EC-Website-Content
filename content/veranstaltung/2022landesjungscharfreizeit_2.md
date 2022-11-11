@@ -7,10 +7,10 @@ description: Sommer. Ferien. Karlsminde.
 featuredImage: veranstaltungen/dsci0359.jpg
 images:
   - veranstaltungen/dsc_0402.jpg
-  - veranstaltungen/35.jpg
+  - veranstaltungen/35.webp
   - veranstaltungen/img_0120.jpg
+  - veranstaltungen/img_9774.webp
   - veranstaltungen/img_0232.jpg
-  - veranstaltungen/img_9774.jpg
 juleica: false
 veranstaltungsort: Karlsminde
 lat: "54.5"
