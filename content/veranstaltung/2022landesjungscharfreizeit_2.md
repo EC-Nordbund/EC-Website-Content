@@ -45,6 +45,8 @@ anmeldung:
   disabled: false
   jahrgangMin: 2010
 ---
+## Sommer. Ferien. Karlsminde.
+
 Hurra, es sind Sommerferien und da geht es natürlich auf Landesjungscharfreizeit nach Karlsminde.\
 Mach dich bereit auf zehn Tage voller Spaß und Action! Denn auf dich wartet ein spannendes Programm: von A wie Abenteuer über B wie Boot fahren oder basteln, F wie Fußball spielen, S wie singen oder schwimmen, W wie in den Wald gehen bis Z wie Zuhören, was Gott uns alles zu sagen hat.
 
@@ -52,3 +54,5 @@ Alle weiteren Informationen erhaltet ihr im Freizeitbrief, der rechtzeitig vor F
 
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2023 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+
+**Kosten:** **Der Preis für diese Freizeit steht leider noch nicht endgültig fest. Bitte hab noch etwas Geduld.**
