@@ -43,10 +43,14 @@ anmeldung:
   disabled: false
   jahrgangMin: 2011
 ---
-Kurz und Knackig Karlsminde erleben! Vier Tage Freizeit mit Spiel, Spaß und spannenden Bibel-Geschichten.
+## Kurz und Knackig Karlsminde erleben! 
+
+Vier Tage Freizeit mit Spiel, Spaß und spannenden Bibel-Geschichten.
 
 Boot fahren, Geländespielen, Lagerfeuerabenden, Ausflügen zum Strand oder in den Wald, malen und basteln, Fußball spielen oder einfach nur toben - all das und noch vieles mehr erwartet dich in unserem Ferienlager Karlsminde. Währenddessen lernen wir verschiedene Menschen kennen, die gemeinsam mit Gott spannende Abenteuer erlebt haben.
 Du siehst selbst: hier kommt jeder auf seine Kosten. Also melde dich schnell an und sei dieses Jahr beim KarlsmindeKurzCamp dabei!
 
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2023 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+
+**Kosten: Der Preis für diese Freizeit steht leider noch nicht endgültig fest. Bitte hab noch etwas Geduld.**
