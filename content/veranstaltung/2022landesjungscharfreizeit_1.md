@@ -6,10 +6,10 @@ ende: 2023-07-25
 description: Sommer. Ferien. Karlsminde.
 featuredImage: veranstaltungen/dsci0359.jpg
 images:
-  - veranstaltungen/dsci0331.jpg
   - veranstaltungen/dsc_0136.jpg
-  - veranstaltungen/dsc_0402.jpg
-  - veranstaltungen/dsci0333.jpg
+  - veranstaltungen/dsci0333.webp
+  - veranstaltungen/dsc_0165.jpg
+  - veranstaltungen/dsci0331.webp
 juleica: false
 veranstaltungsort: EC-Ferienlager Karlsminde
 lat: "54.5"
