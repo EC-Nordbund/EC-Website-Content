@@ -38,7 +38,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2022-11-13T15:00:00+01:00
+  startAt: 2022-11-20T15:00:00+01:00
   hatGesundheit: true
   disabled: false
   jahrgangMin: 2010
