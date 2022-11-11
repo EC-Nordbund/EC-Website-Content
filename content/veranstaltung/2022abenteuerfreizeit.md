@@ -38,6 +38,8 @@ anmeldung:
   disabled: false
   jahrgangMin: 2010
 ---
+## Langeweile abgemeldet!
+
 Gemeinsam werden wir eine Woche lang Geländespiele spielen, bauen, schnitzen, Fußball spielen und toben. Wir wollen unsere Kräfte messen, Grenzen kennenlernen und gemeinsam Herausforderungen meistern. Natürlich wird auch der Zimmermann Jesus dabei sein und wir werden erleben, was er echten Männern zu bieten hat. 
 
 Du siehst selbst: Auf unserer Freizeit für echte Männer unter 13 erwarten dich dieses Jahr wieder jede Menge Spaß und Abenteuer. Also schnell anmelden und einen Platz im Abenteuercamp sichern!
