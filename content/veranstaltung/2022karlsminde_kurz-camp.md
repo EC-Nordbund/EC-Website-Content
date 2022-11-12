@@ -2,7 +2,7 @@
 veranstaltungsID: ""
 title: Karlsminde Kurz-Camp
 begin: 2023-04-18
-ende: 2022-11-21
+ende: 2023-04-21
 description: Kurz und knackig Karlsminde erleben! Vier Tage Spaß, Action und Geschichten.
 featuredImage: veranstaltungen/dsc0019.jpg
 images:
