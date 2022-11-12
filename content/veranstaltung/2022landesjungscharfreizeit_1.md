@@ -14,6 +14,7 @@ juleica: false
 veranstaltungsort: EC-Ferienlager Karlsminde
 lat: "54.5"
 long: "9.9484807"
+strasse: Karlsminde
 plz: "24369"
 ort: Klein Waabs
 minAlter: false
