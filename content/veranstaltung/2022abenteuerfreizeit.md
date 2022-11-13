@@ -5,6 +5,8 @@ begin: 2023-10-23
 ende: 2023-10-27
 description: Langeweile abgemeldet!
 featuredImage: veranstaltungen/af-41.jpg
+images:
+  - veranstaltungen/af-60.jpg
 juleica: false
 veranstaltungsort: Hartenholm
 lat: "53.918538"
