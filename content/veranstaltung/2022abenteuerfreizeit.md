@@ -8,6 +8,7 @@ featuredImage: veranstaltungen/af-41.jpg
 images:
   - veranstaltungen/af-60.jpg
   - veranstaltungen/af-14.jpg
+  - veranstaltungen/af-61.jpg
 juleica: false
 veranstaltungsort: Hartenholm
 lat: "53.918538"
