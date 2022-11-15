@@ -9,6 +9,9 @@ description: Für Teens müssen Traditionen mit Leben gefüllt sein. Und das ist
   muss es kennen lernen. Das EC-Ferienlager in Karlsminde ist auch in diesem
   Jahr der Treffpunkt für Teens aus dem Nordbund.
 featuredImage: veranstaltungen/20220605_221732.jpg
+images:
+  - veranstaltungen/20220605_215602.jpg
+  - veranstaltungen/dsc00116.jpg
 juleica: false
 veranstaltungsort: EC-Ferienlager Karlsminde
 lat: "54.49988438312953"
@@ -26,14 +29,14 @@ warteliste:
 preise:
   - label: Frühbucher
     ende: 2022-11-30
-    preis: 53
+    preis: 62
   - label: Normal
     begin: 2022-12-01
     ende: 2023-03-30
-    preis: 59
+    preis: 69
   - label: Last-Minute
     begin: 2023-03-31
-    preis: 65
+    preis: 74
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
