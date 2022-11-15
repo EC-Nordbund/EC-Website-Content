@@ -26,7 +26,17 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-preise: []
+preise:
+  - label: Frühbucher
+    ende: 2022-11-30
+    preis: 110
+  - label: Normal
+    preis: 120
+    begin: 2022-12-01
+    ende: 2023-08-18
+  - label: Last-Minute
+    begin: 2023-08-18
+    preis: 134
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
@@ -51,7 +61,3 @@ Du siehst selbst: Auf unserer Freizeit für echte Männer unter 13 erwarten dich
 
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2023 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
-
-
-
-**Kosten: Der Preis für diese Freizeit steht leider noch nicht endgültig fest. Bitte hab noch etwas Geduld.**
