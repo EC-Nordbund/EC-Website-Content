@@ -2,7 +2,7 @@
 veranstaltungsID: ""
 title: Landesjungscharfreizeit 2
 begin: 2023-08-13
-ende: 2022-11-23
+ende: 2023-08-23
 description: Sommer. Ferien. Karlsminde.
 featuredImage: veranstaltungen/dsci0359.jpg
 images:
