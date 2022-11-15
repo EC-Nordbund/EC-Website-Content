@@ -31,9 +31,9 @@ preise:
     ende: 2022-11-30
     preis: 110
   - label: Normal
-    preis: 120
+    preis: 121
     begin: 2022-12-01
-    ende: 2023-08-18
+    ende: 2023-08-17
   - label: Last-Minute
     begin: 2023-08-18
     preis: 134
