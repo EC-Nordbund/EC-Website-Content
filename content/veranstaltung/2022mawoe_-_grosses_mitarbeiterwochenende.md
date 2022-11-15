@@ -7,6 +7,11 @@ description: Egal, ob du Mitarbeiter bist, oder nicht. Ob du es werden willst,
   oder davon bisher noch nichts weißt. Du bist eingeladen Teil unserer Bewegung
   zu sein, wenn wir uns neu erfinden…
 featuredImage: veranstaltungen/mawe-19.jpg
+images:
+  - veranstaltungen/20220304_210046.jpg
+  - veranstaltungen/20220304_210504.jpg
+  - veranstaltungen/mawe-08.jpg
+  - veranstaltungen/whatsapp_image_2022-03-09_at_13.22.40_1_.jpeg
 juleica: true
 veranstaltungsort: Erholungs- und Bildungszentrum Wittensee
 lat: "54.36979371773461"
