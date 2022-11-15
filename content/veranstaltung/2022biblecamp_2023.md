@@ -9,6 +9,11 @@ description: "Wer Sehnsucht danach hat, biblische Zusammenhänge tiefer zu
   zuletzt auch optisch zu erkennen: In der Mitte des BibleCamps strahlt unsere
   entschiedene Christusbeziehung (EC)."
 featuredImage: veranstaltungen/img_6570.jpg
+images:
+  - veranstaltungen/img_6428.jpg
+  - veranstaltungen/img_6448.jpg
+  - veranstaltungen/img_6454.jpg
+  - veranstaltungen/img_6460.jpg
 juleica: true
 veranstaltungsort: Jugendlager der Nordschleswigschen Gemeinde
 lat: "55.09592165781632"
