@@ -28,7 +28,17 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-preise: []
+preise:
+  - label: Frühbucher
+    ende: 2022-11-30
+    preis: 260
+  - label: Normal
+    begin: 2022-12-01
+    ende: 2023-05-19
+    preis: 286
+  - label: Last-Minute
+    begin: 2023-05-20
+    preis: 315
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: false
