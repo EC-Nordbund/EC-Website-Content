@@ -9,6 +9,12 @@ description: Im EC bauen wir auf ehrenamtliche Mitarbeiter. Da ist es auch
   Anregungen, Informationen, Spiele und Übungen an die Hand geben, um eine
   Gruppe noch besser verantwortlich (mit-)leiten zu können.
 featuredImage: veranstaltungen/dsc_6789.jpg
+images:
+  - veranstaltungen/20220410_114846.jpg
+  - veranstaltungen/20220410_141651.jpg
+  - veranstaltungen/dsc_6779.jpg
+  - veranstaltungen/dsc_1755.jpg
+  - veranstaltungen/dsc_1749.jpg
 juleica: true
 veranstaltungsort: Erholungs- und Bildungszentrum Wittensee
 lat: "54.36979371773461"
