@@ -7,7 +7,6 @@ description: Langeweile abgemeldet!
 featuredImage: veranstaltungen/af-41.jpg
 images:
   - veranstaltungen/af-60.jpg
-  - veranstaltungen/af-14.jpg
   - veranstaltungen/af-61.jpg
   - veranstaltungen/af-21.jpg
 juleica: false
