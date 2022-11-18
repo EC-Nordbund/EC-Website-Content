@@ -1,6 +1,6 @@
 ---
 veranstaltungsID: ""
-title: PfingstCamp 2023
+title: PfingstCamp
 begin: 2023-05-26
 ende: 2023-05-29
 description: Für Teens müssen Traditionen mit Leben gefüllt sein. Und das ist
@@ -45,9 +45,9 @@ anmeldung:
   hatFreizeitleitung: true
   hatErlaubnisKlettern: true
   hatFahrgemeinschaft: true
-  visible: false
+  visible: true
   hatEssen: true
-  startAt: ""
+  startAt: 2022-11-20T15:00:00+01:00
   hatGesundheit: true
   disabled: false
 ---
