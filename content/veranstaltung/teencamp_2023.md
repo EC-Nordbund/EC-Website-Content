@@ -1,6 +1,6 @@
 ---
 veranstaltungsID: ""
-title: TeenCamp 2023
+title: TeenCamp
 begin: 2023-07-29
 ende: 2023-08-08
 description: Diesmal wird es nass. Wir machen uns wieder auf den Weg nach
@@ -44,9 +44,9 @@ anmeldung:
   hatFreizeitleitung: true
   hatErlaubnisKlettern: true
   hatFahrgemeinschaft: true
-  visible: false
+  visible: true
   hatEssen: true
-  startAt: ""
+  startAt: 2022-11-20T15:00:00+01:00
   hatGesundheit: true
   disabled: false
 ---
