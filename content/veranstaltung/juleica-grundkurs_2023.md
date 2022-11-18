@@ -1,6 +1,6 @@
 ---
 veranstaltungsID: ""
-title: Juleica-Grundkurs 2023
+title: Juleica-Grundkurs
 begin: 2023-04-16
 ende: 2023-04-23
 description: Im EC bauen wir auf ehrenamtliche Mitarbeiter. Da ist es auch
@@ -48,9 +48,9 @@ anmeldung:
   hatFreizeitleitung: true
   hatErlaubnisKlettern: true
   hatFahrgemeinschaft: true
-  visible: false
+  visible: true
   hatEssen: true
-  startAt: ""
+  startAt: 2022-11-20T15:00:00+01:00
   hatGesundheit: true
   disabled: false
 ---
