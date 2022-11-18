@@ -62,7 +62,3 @@ Du siehst selbst: hier kommt jeder auf seine Kosten. Also melde dich schnell an 
 
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2023 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
-
-
-
-**Kosten: Der Preis für diese Freizeit steht leider noch nicht endgültig fest. Bitte hab noch etwas Geduld.**
