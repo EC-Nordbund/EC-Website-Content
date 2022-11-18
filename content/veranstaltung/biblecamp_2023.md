@@ -1,6 +1,6 @@
 ---
 veranstaltungsID: ""
-title: BibleCamp 2023
+title: BibleCamp
 begin: 2023-10-13
 ende: 2023-10-19
 description: "Wer Sehnsucht danach hat, biblische Zusammenhänge tiefer zu
@@ -48,9 +48,9 @@ anmeldung:
   hatFreizeitleitung: true
   hatErlaubnisKlettern: true
   hatFahrgemeinschaft: true
-  visible: false
+  visible: true
   hatEssen: true
-  startAt: ""
+  startAt: 2022-11-20T15:00:00+01:00
   hatGesundheit: true
   disabled: false
 ---
