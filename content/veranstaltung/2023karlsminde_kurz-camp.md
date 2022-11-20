@@ -62,3 +62,5 @@ Du siehst selbst: hier kommt jeder auf seine Kosten. Also melde dich schnell an 
 
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2023 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+
+Das Kalmi-Kurz-Camp hat eine Mindestteilnehmerzahl von 20 Kindern.
