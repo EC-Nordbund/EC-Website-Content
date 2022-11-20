@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: ""
+veranstaltungsID: 489
 title: Abenteuerfreizeit
 begin: 2023-10-23
 ende: 2023-10-27

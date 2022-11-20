@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: ""
+veranstaltungsID: 488
 title: BibleCamp
 begin: 2023-10-13
 ende: 2023-10-19

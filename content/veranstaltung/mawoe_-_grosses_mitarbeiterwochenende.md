@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: ""
+veranstaltungsID: 480
 title: MaWoE - Großes Mitarbeiterwochenende
 begin: 2023-02-24
 ende: 2023-02-26

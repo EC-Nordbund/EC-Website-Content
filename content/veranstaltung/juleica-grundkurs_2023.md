@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: ""
+veranstaltungsID: 481
 title: Juleica-Grundkurs
 begin: 2023-04-16
 ende: 2023-04-23

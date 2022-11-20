@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: ""
+veranstaltungsID: 484
 title: Landesjungscharfreizeit 1
 begin: 2023-07-15
 ende: 2023-07-25

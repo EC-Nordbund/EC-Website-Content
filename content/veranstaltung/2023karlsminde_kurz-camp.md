@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: ""
+veranstaltungsID: 482
 title: Karlsminde Kurz-Camp
 begin: 2023-04-18
 ende: 2023-04-21
