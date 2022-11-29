@@ -16,8 +16,6 @@ long: "10.07579"
 strasse: Jugendwaldheim
 plz: "24628"
 ort: Hartenholm
-minAlter: false
-maxAlter: false
 tags:
   - Freizeit
   - Jahrgang 2010 bis 2014

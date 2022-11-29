@@ -18,8 +18,6 @@ long: "9.9484807"
 strasse: Karlsminde
 plz: "24369"
 ort: Klein Waabs
-minAlter: false
-maxAlter: false
 tags:
   - Karlsminde
   - Freizeit

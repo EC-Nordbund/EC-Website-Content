@@ -19,8 +19,6 @@ long: "9.74764222802808"
 strasse: An See 7
 plz: "24794"
 ort: Bünsdorf
-minAlter: false
-maxAlter: false
 tags: []
 warteliste:
   allgemein: false

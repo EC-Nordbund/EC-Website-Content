@@ -23,7 +23,6 @@ strasse: An See 7
 plz: "24794"
 ort: Bünsdorf
 minAlter: 16
-maxAlter: false
 tags: []
 warteliste:
   allgemein: false

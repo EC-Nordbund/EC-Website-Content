@@ -17,7 +17,6 @@ strasse: Lindvägen 51
 plz: "57993"
 ort: Grönskåra, Schweden
 minAlter: 18
-maxAlter: false
 tags: []
 warteliste:
   allgemein: false

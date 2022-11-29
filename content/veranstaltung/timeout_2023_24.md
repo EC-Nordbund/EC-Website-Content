@@ -20,7 +20,6 @@ strasse: Lyngvejen 33
 plz: "6792"
 ort: Rømø, Dänemark
 minAlter: 18
-maxAlter: false
 tags: []
 warteliste:
   allgemein: false
