@@ -25,8 +25,11 @@ warteliste:
   männlich: false
   weiblich: false
 preise:
+  - label: Frühbucher
+    ende: 2022-12-31
+    preis: 54
   - label: Normal
-    begin: ""
+    begin: 2023-01-01
     ende: 2023-02-03
     preis: 60
   - label: Last-Minute
