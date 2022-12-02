@@ -32,6 +32,9 @@ preise:
   - label: Last-Minute
     begin: 2023-02-04
     preis: 66
+  - label: Frühbucher
+    ende: 2022-12-31
+    preis: 54
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
