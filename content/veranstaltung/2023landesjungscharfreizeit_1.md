@@ -22,7 +22,7 @@ tags:
   - Freizeit
   - Jahrgang 2010 bis 2014
 warteliste:
-  allgemein: false
+  allgemein: true
   männlich: false
   weiblich: false
 preise:
