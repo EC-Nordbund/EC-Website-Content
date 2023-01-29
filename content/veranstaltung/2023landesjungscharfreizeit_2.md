@@ -24,7 +24,7 @@ tags:
   - Jahrgang 2010 bis 2014
 warteliste:
   allgemein: false
-  männlich: false
+  männlich: true
   weiblich: false
 preise:
   - label: Frühbucher
