@@ -30,10 +30,10 @@ preise:
     preis: 54
   - label: Normal
     begin: 2023-01-01
-    ende: 2023-02-03
+    ende: 2023-02-11
     preis: 60
   - label: Last-Minute
-    begin: 2023-02-04
+    begin: 2023-02-12
     preis: 66
 anmeldung:
   hatErlaubnisBoot: true
