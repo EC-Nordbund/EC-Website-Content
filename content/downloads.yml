@@ -59,14 +59,17 @@ folders:
         description: 'Alles über das EC-Ferienlager Karlsminde'
         folders: {}
         files:
-          - filename: 'download/Dokumente/Karlsminde/Preisliste_2020.pdf'
-            title: Preisliste_2020.pdf
-            description: ''
-          - filename: 'download/Dokumente/Karlsminde/Preisliste_2021.pdf'
-            title: Preisliste_2021.pdf
-            description: ''
-          - filename: 'download/Dokumente/Karlsminde/Preisliste 2022 Karlsminde.pdf'
-            title: Preisliste_2022.pdf
+          # - filename: 'download/Dokumente/Karlsminde/Preisliste 2020.pdf'
+          #   title: Preisliste 2020
+          #   description: ''
+          # - filename: 'download/Dokumente/Karlsminde/Preisliste 2021.pdf'
+          #   title: Preisliste 2021
+          #   description: ''
+          # - filename: 'download/Dokumente/Karlsminde/Preisliste 2022.pdf'
+          #   title: Preisliste 2022
+          #   description: ''
+          - filename: 'download/Dokumente/Karlsminde/Preisliste 2023.pdf'
+            title: Preisliste 2023
             description: ''
     files:
       - filename: 'download/Dokumente/Datenschutzerklärung Anmeldung v1.pdf'
