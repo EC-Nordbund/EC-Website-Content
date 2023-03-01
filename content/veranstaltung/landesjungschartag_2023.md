@@ -12,7 +12,7 @@ veranstaltungsort: Neumünster
 lat: "54.077490"
 long: "9.990410"
 minAlter: 8
-maxAlter: 16
+maxAlter: 12
 tags: []
 warteliste:
   allgemein: false
