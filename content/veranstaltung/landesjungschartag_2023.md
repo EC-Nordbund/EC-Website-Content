@@ -7,6 +7,17 @@ description: "Ihr wollt den Wimpel? - Dann holt ihn euch! Der LandesJungscharTag
   mit Liedern, einer Geschichte aus der Bibel und vielem mehr! Spaß und Spannung
   garantiert."
 featuredImage: veranstaltungen/ljt-2022_foto-tobkrah.jpg
+images:
+  - veranstaltungen/10_1_.jpg
+  - veranstaltungen/9_3_.jpg
+  - veranstaltungen/8_1_.jpeg
+  - veranstaltungen/7_1_.jpeg
+  - veranstaltungen/6_1_.jpeg
+  - veranstaltungen/5_1_.jpg
+  - veranstaltungen/4_1_.jpg
+  - veranstaltungen/3_1_.jpg
+  - veranstaltungen/2_1_.jpg
+  - veranstaltungen/1_1_.jpg
 juleica: false
 veranstaltungsort: Neumünster
 lat: "54.077490"
