@@ -1,6 +1,6 @@
 ---
 title: "PAC-MAN: Großes Mitarbeiter-Wochenende am Wittensee"
-published: 2023-03-06T18:22:84
+published: 2023-03-06T18:33:82
 description: "Zu Beginn des Jahres fand unser traditionelles
   Mitarbeiter-Wochenende, wie immer am Wittensee statt. Zum wiederholten Male
   wurde kein externer Referent geladen, das Wochenende wurde erneut vom gesamten
