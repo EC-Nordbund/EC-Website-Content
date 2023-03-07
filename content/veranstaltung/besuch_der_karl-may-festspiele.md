@@ -3,7 +3,7 @@ title: Besuch der Karl-May-Festspiele
 begin: 2023-07-07
 ende: 2023-07-07
 description: Gemeinsam mit deiner Jungschar-Gruppe geht's auf nach Bad Segeberg
-  zu de Karl-May-Festspielen!
+  zu den Karl-May-Festspielen!
 featuredImage: veranstaltungen/karl-may_foto-franzp.sauerteig_auf_pixabay.jpg
 juleica: false
 veranstaltungsort: Bad Segeberg
