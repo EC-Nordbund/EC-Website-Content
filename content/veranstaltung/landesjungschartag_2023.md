@@ -7,9 +7,7 @@ description: "Ihr wollt den Wimpel? - Dann holt ihn euch! Der LandesJungscharTag
   mit Liedern, einer Geschichte aus der Bibel und vielem mehr! Spaß und Spannung
   garantiert."
 featuredImage: veranstaltungen/1_1_.webp
-images:
-  - veranstaltungen/3_1_.webp
-  - veranstaltungen/7_1_.webp
+images: []
 juleica: false
 veranstaltungsort: Neumünster
 lat: "54.077490"
