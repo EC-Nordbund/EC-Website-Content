@@ -26,18 +26,18 @@ Vielen Dank an alle die da waren, wir freuen uns schon auf das nächste Jahr.
 
 ![](blog/1.jpg)
 
-![](blog/2.jpg)
+![]()
 
 ![](blog/3.jpg)
 
-![](blog/4.jpg)
+![]()
 
 ![](blog/6.jpeg)
 
 ![](blog/7.jpeg)
 
-![](blog/8.jpeg)
+![]()
 
 ![](blog/9.jpg)
 
-![](blog/10.jpg)
+![]()
