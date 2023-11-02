@@ -68,7 +68,7 @@ Alle weiteren Informationen erhaltet ihr im Freizeitbrief, der rechtzeitig vor F
 <v-alert type="info" text tile outlined>
 <h2>Karlsminde und die Ostseesturmflut:<i>Der Wiederaufbau läuft ...</i></h2>
 
-Unser Ferienlager Karlsminde hat bei der Ostseesturmflut im Oktober großen Schaden genommen. Jetzt gibt es viel zu tun: Aufräumen, Planen, Reparieren, Ersetzen,  ... Wie der Wiederaufbau vorangeht oder welche Überraschungen auf uns warten, kann heute noch keiner sagen. Aber: Unser Ziel ist, dass im Sommer 2024 unsere Landesjungscharfreizeiten in Karlsminde stattfinden können! Bist du dabei?
+Unser Ferienlager Karlsminde hat im Oktober 2023 bei der Sturmflut großen Schaden genommen. Jetzt gibt es viel zu tun: Aufräumen, Planen, Reparieren, Ersetzen,  ... Wie der Wiederaufbau vorangeht oder welche Überraschungen auf uns warten, kann heute noch keiner sagen. Aber: Unser Ziel ist, dass im Sommer 2024 unsere Landesjungscharfreizeiten in Karlsminde stattfinden können! Bist du dabei?
 
 </v-alert>
 
