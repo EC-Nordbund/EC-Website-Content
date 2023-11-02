@@ -18,7 +18,7 @@ plz: "24628"
 ort: Hartenholm
 tags:
   - Freizeit
-  - Jahrgang 2010 bis 2014
+  - Jahrgang 2011 bis 2015
 warteliste:
   allgemein: false
   männlich: false
