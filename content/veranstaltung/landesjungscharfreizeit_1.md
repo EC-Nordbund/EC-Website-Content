@@ -63,4 +63,12 @@ Alle weiteren Informationen erhaltet ihr im Freizeitbrief, der rechtzeitig vor F
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2023 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
 
-Bla
+<div class="foerdergelder-hinweis">
+<v-alert type="info" text tile outlined>
+<h2>Karlsminde und die Ostseesturmflut:<i>Der Wiederaufbau läuft ...</i></h2>
+
+Unser Ferienlager Karlsminde hat bei der Ostseesturmflut im Oktober großen Schaden genommen. Jetzt gibt es viel zu tun: Aufräumen, Planen, Reparieren, Ersetzen,  ... Wie der Wiederaufbau vorangeht oder welche Überraschungen auf uns warten, kann heute noch keiner sagen. Aber: Unser Ziel ist, dass im Sommer 2024 unsere Landesjungscharfreizeiten in Karlsminde stattfinden können! Bist du dabei?
+
+</v-alert>
+
+</div>
