@@ -1,0 +1,64 @@
+---
+veranstaltungsID: 485
+title: Landesjungscharfreizeit 2
+begin: 2024-08-19
+ende: 2024-08-29
+description: Sommer. Ferien. Karlsminde.
+featuredImage: veranstaltungen/dsci0123.jpg
+images:
+  - veranstaltungen/a_dsc_0045.jpg
+  - veranstaltungen/a_dsc_0059.jpg
+  - veranstaltungen/img_0120.jpg
+  - veranstaltungen/a_img_1446.jpg
+  - veranstaltungen/a_img_1603.jpg
+juleica: false
+veranstaltungsort: Karlsminde
+lat: "54.5"
+long: "9.9484807"
+strasse: Karlsminde
+plz: "24369"
+ort: Klein Waabs
+tags:
+  - Karlsminde
+  - Freizeit
+  - Jahrgang 2011 bis 2015
+warteliste:
+  allgemein: false
+  männlich: true
+  weiblich: false
+preise:
+  - label: Frühbucher
+    ende: 2023-11-30
+    preis: 260
+  - label: Normal
+    begin: 2023-12-01
+    ende: 2024-05-24
+    preis: 286
+  - label: Last-Minute
+    begin: 2024-05-25
+    preis: 315
+anmeldung:
+  hatErlaubnisBoot: true
+  hatErlaubnisFahrrad: false
+  hatErlaubnisSchwimmen: true
+  hatErlaubnisSichEntfernen: true
+  hatFreizeitleitung: true
+  hatErlaubnisKlettern: false
+  jahrgangMax: 2015
+  hatFahrgemeinschaft: true
+  visible: true
+  hatEssen: true
+  startAt: 2023-11-05T15:00:00+01:00
+  hatGesundheit: true
+  disabled: false
+  jahrgangMin: 2011
+---
+## Sommer. Ferien. Karlsminde.
+
+Hurra, es sind Sommerferien und da geht es natürlich auf Landesjungscharfreizeit nach Karlsminde.\
+Mach dich bereit auf zehn Tage voller Spaß und Action! Denn auf dich wartet ein spannendes Programm: von A wie Abenteuer über B wie Boot fahren oder basteln, F wie Fußball spielen, S wie singen oder schwimmen, W wie in den Wald gehen bis Z wie Zuhören, was Gott uns alles zu sagen hat.
+
+Alle weiteren Informationen erhaltet ihr im Freizeitbrief, der rechtzeitig vor Freizeitbeginn versandt wird.
+
+> **Besonderer Hinweis:**
+> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2023 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
