@@ -11,6 +11,7 @@ images:
   - veranstaltungen/dsci0098.jpg
   - veranstaltungen/dsci0137.jpg
   - veranstaltungen/dsci0077.jpg
+  - veranstaltungen/20230719_194023.jpg
 juleica: false
 veranstaltungsort: EC-Ferienlager Karlsminde
 lat: "54.5"
