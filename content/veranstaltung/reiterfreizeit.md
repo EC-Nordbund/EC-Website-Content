@@ -3,7 +3,7 @@ begin: 2024-10-21
 ende: 2024-10-25
 featuredImage: veranstaltungen/img_5807.jpg
 juleica: false
-veranstaltungsort: Ponyhof Naeve am Wittensee
+veranstaltungsort: Hof Kirchhorst
 strasse: Kirchhorst 3
 ort: Groß Wittensee
 warteliste:
@@ -73,6 +73,8 @@ Viele haben die Reiterfreizeit in 2023 sehr vermisst! Die Preise haben sich kein
 ***Frühbucher:*** 299 EUR\
 ***Normal:*** 329 EUR\
 ***Last-Minute:*** 362 EUR
+
+Wir informieren an dieser Stelle sobald wir genaueres wissen.
 
 Bitte zahlen sie deshalb bei Anmeldung zunächst NUR die Anzahlung und die volle Summe erst nach Aufforderung.
 </v-alert>
