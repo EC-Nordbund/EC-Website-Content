@@ -54,10 +54,7 @@ preise:
 ---
 ## Hufeklappern, Pferdetraben, Springen über Wassergraben
 
-Ob im Sattel auf einem Ausritt durch Wald und Wiesen oder bei der Pflege der vielen süßen Ponys – auf dem Reiterhof Naeve wartet eine Woche absoluter Reitspaß auf dich! 
-
-Außerhalb des Sattels gibt es hier noch vieles weiteres zu entdecken: Spielräume, ein großer Spielplatz, eine Torwand und Go-Karts stehen dir hier für zwischendurch zur Verfügung. Und auch die anderen Bewohner des Hofes, wie Ziegen, Katzen, Schafe und Kaninchen, freuen sich auf deinen Besuch. Auch Gott, der Erfinder aller Tiere, ist mit dabei und wir wollen ihn gemeinsam auf der Freizeit besser kennenlernen. 
-Also meldet euch schnell an und seht selbst, was unsere Reiterfreizeit alles zu bieten hat! 
+Es geht wieder los! Ob im Sattel auf einem Ausritt durch Wald und Wiesen oder bei der Pflege der vielen süßen Ponys – auf dem Hof Kirchhorst wartet eine Woche absoluter Reitspaß auf dich! 
 
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2022 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
