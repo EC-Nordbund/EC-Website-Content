@@ -26,19 +26,29 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-preise: []
+preise:
+  - label: Frühbucher
+    ende: 2023-11-30
+    preis: 415
+  - label: Normal
+    begin: 2023-12-01
+    ende: 2024-05-24
+    preis: 459
+  - label: Last-Minute
+    begin: 2024-05-25
+    preis: 505
 anmeldung:
-  hatErlaubnisBoot: false
-  hatErlaubnisFahrrad: false
-  hatErlaubnisSchwimmen: false
-  hatErlaubnisSichEntfernen: false
-  hatFreizeitleitung: false
-  hatErlaubnisKlettern: false
-  hatFahrgemeinschaft: false
-  visible: false
-  hatEssen: false
+  hatErlaubnisBoot: true
+  hatErlaubnisFahrrad: true
+  hatErlaubnisSchwimmen: true
+  hatErlaubnisSichEntfernen: true
+  hatFreizeitleitung: true
+  hatErlaubnisKlettern: true
+  hatFahrgemeinschaft: true
+  visible: true
+  hatEssen: true
   startAt: ""
-  hatGesundheit: false
+  hatGesundheit: true
   disabled: false
 ---
 3 km vom Ostseestrand entfernt liegt unser diesjähriges Reiseziel. Die vielen In- und Outdoor Sportplätze versprechen maximale Bewegungsfreiheit. Die Spiel- und Liegewiese lädt zum Hochleistungschillen ein. Und die riesige Unterkunft mit ihren 15 Hektar Außenbereich lassen auch sonst keine Wünsche offen. Top Lage und Top Ausstattung – was will man mehr?
