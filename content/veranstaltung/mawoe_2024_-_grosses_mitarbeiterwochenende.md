@@ -16,7 +16,8 @@ long: "9.74764222802808"
 strasse: An See 7
 plz: "24794"
 ort: Bünsdorf
-tags: []
+tags:
+  - Seminar
 warteliste:
   allgemein: false
   männlich: false
