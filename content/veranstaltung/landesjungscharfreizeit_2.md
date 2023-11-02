@@ -25,18 +25,18 @@ warteliste:
   allgemein: false
   männlich: true
   weiblich: false
-anzahlung: 50
+anzahlung: 45
 preise:
   - label: Frühbucher
     ende: 2023-11-30
-    preis: 260
+    preis: 245
   - label: Normal
     begin: 2023-12-01
     ende: 2024-05-24
-    preis: 286
+    preis: 270
   - label: Last-Minute
     begin: 2024-05-25
-    preis: 315
+    preis: 297
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: false
