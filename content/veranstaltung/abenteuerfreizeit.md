@@ -26,14 +26,14 @@ warteliste:
 preise:
   - label: Frühbucher
     ende: 2023-11-30
-    preis: 133
+    preis: 135
   - label: Normal
-    preis: 146
+    preis: 148
     begin: 2023-12-01
-    ende: 2023-08-17
+    ende: 2024-08-16
   - label: Last-Minute
-    begin: 2024-08-16
-    preis: 151
+    begin: 2024-08-17
+    preis: 163
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
