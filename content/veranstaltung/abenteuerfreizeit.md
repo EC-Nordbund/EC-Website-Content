@@ -23,6 +23,7 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
+anzahlung: 25
 preise:
   - label: Frühbucher
     ende: 2023-11-30
