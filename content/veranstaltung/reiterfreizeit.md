@@ -22,7 +22,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2023-11-05T13:00:00+01:00
+  startAt: 2023-11-05T15:00:00+01:00
   hatGesundheit: true
   disabled: false
   jahrgangMin: 2011
