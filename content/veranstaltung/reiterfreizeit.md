@@ -1,15 +1,40 @@
 ---
+veranstaltungsID: 469
+title: Reiterfreizeit
 begin: 2024-10-21
 ende: 2024-10-25
+description: "Ferien auf dem Ponyhof: Spielen, Ponys kennenlernen, Reiten, Gott
+  begegnen – Auf die Sattel, fertig, los!"
 featuredImage: veranstaltungen/img_5807.jpg
+images:
+  - veranstaltungen/img_5808.jpg
+  - veranstaltungen/img_5860.jpg
 juleica: false
 veranstaltungsort: Hof Kirchhorst
+lat: "54.40964"
+long: "9.73672"
 strasse: Kirchhorst 3
+plz: 24361
 ort: Groß Wittensee
+tags:
+  - Freizeit
+  - Jahrgang 2011 bis 2015
 warteliste:
   allgemein: false
   männlich: false
   weiblich: false
+anzahlung: 65
+preise:
+  - label: Frühbucher
+    preis: 365
+    ende: 2023-11-30
+  - label: Normal
+    preis: 402
+    begin: 2023-12-01
+    ende: 2024-08-16
+  - label: Last-Minute
+    preis: 442
+    begin: 2024-08-17
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
@@ -26,31 +51,6 @@ anmeldung:
   hatGesundheit: true
   disabled: false
   jahrgangMin: 2011
-anzahlung: 59
-veranstaltungsID: 469
-title: Reiterfreizeit
-description: "Ferien auf dem Ponyhof: Spielen, Ponys kennenlernen, Reiten, Gott
-  begegnen – Auf die Sattel, fertig, los!"
-images:
-  - veranstaltungen/img_5808.jpg
-  - veranstaltungen/img_5860.jpg
-lat: "54.40964"
-long: "9.73672"
-plz: 24361
-tags:
-  - Freizeit
-  - Jahrgang 2011 bis 2015
-preise:
-  - label: Frühbucher
-    preis: 365
-    ende: 2023-11-30
-  - label: Normal
-    preis: 402
-    begin: 2023-12-01
-    ende: 2024-08-16
-  - label: Last-Minute
-    preis: 442
-    begin: 2024-08-17
 ---
 ## Hufeklappern, Pferdetraben, Springen über Wassergraben
 
