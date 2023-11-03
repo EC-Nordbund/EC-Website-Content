@@ -63,7 +63,7 @@ Mach dich bereit auf zehn Tage voller Spaß und Action! Denn auf dich wartet ein
 Alle weiteren Informationen erhaltet ihr im Freizeitbrief, der rechtzeitig vor Freizeitbeginn versandt wird.
 
 > **Besonderer Hinweis:**
-> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2024 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+> Wir bitten den/die Erziehungsberechtigte/n, ihr Kind nicht anzumelden, wenn es im Jahr 2024 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
 
 <div class="foerdergelder-hinweis">
 <v-alert type="info" text tile outlined>
