@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: 495
+veranstaltungsID: 496
 title: TimeOut 2024/25
 begin: 2024-12-28
 ende: 2025-01-01
