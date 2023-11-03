@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: 489
+veranstaltungsID: 494
 title: Abenteuerfreizeit
 begin: 2024-10-21
 ende: 2024-10-25
