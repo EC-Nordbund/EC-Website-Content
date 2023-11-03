@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 498
 title: Juleica-Grundkurs 2024
 begin: 2024-10-27
 ende: 2024-11-03
