@@ -43,7 +43,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: ""
+  startAt: 2023-11-05T15:00:00+01:00
   hatGesundheit: true
   disabled: false
 ---
