@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 497
 title: MaWoE 2024 - Großes Mitarbeiterwochenende
 begin: 2024-03-01
 ende: 2024-03-03
