@@ -4,7 +4,7 @@ begin: 2023-11-26
 ende: 2023-11-26
 description: Miss-Erfolg im Umgang mit Sozialen Medien? Bim Mitarbeitertag gibts
   Tipps und Impulse von der aktuelle Miss Germany, Kira Geiss!
-featuredImage: veranstaltungen/missgermay_kirageiss_c_robinbottcher.jpg
+featuredImage: veranstaltungen/missgermany_kirageiss_c_robinbottcher_1.jpg
 images: []
 juleica: false
 veranstaltungsort: Neumünster
