@@ -2,22 +2,29 @@
 title: Mitarbeitertag 2023
 begin: 2023-11-26
 ende: 2023-11-26
-description: Miss-Erfolg im Umgang mit Sozialen Medien? Bim Mitarbeitertag gibts
-  Tipps und Impulse von der aktuelle Miss Germany, Kira Geiss!
+description: Miss-Erfolg im Umgang mit Sozialen Medien? Beim Mitarbeitertag
+  gibts Tipps und Impulse von der aktuelle Miss Germany, Kira Geiss!
 featuredImage: veranstaltungen/missgermany_kirageiss_c_robinbottcher_1.jpg
 images: []
-juleica: false
+juleica: true
 veranstaltungsort: Neumünster
-lat: "54.077490"
-long: "9.990410"
-minAlter: 8
-maxAlter: 12
-tags: []
+lat: "54.07810"
+long: "9.99022"
+strasse: Klosterstraße 34
+plz: "24534"
+ort: Neumünster
+minAlter: ""
+maxAlter: ""
+tags:
+  - Seminar
+  - JuLeiCa-Fortbildung
 warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-preise: []
+preise:
+  - label: Normal
+    preis: 7
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
@@ -32,10 +39,22 @@ anmeldung:
   hatGesundheit: false
   disabled: false
 ---
-Ihr wollt den Wimpel? - Dann holt ihn euch und zeigt den anderen Jungscharen, was ihr draufhabt! Dich und deine Jungschargruppe erwarten viele spannende und actiongeladene Spiele, in denen ihr eure Teamfähigkeit und Geschick unter Beweis stellen könnt. Eine Geschichte aus dem Buch der Bücher (der Bibel) darf natürlich auch nicht fehlen. 
+Mit einem Smartphone trägt man die ganze Welt in der Tasche. Unsere Termine, Beziehungen, Freizeit, EC-Gruppen ... sind ohne das Smartphone kaum noch zu denken. Der erste Blick am Morgen, und der letzte am Abend gehen aufs Handy. Was macht Social Media Konsum eigentlich mit uns? Wann ist es zu viel? Und: Wie sozial sind die sozialen Medien? Um all diese Fragen geht es am Vormittag unseres Mitarbeitertags. 
 
-Und wer weiß – vielleicht habt ihr am Ende des Tages ja nicht nur jede Menge gute Laune, sondern auch den Sieger-Wimpel in der Tasche. 
+Am Nachmittag gehts um einen sinnvollen Einsatz von sozialen Medien. Öffentlichkeitsarbeit für Jugendarbeit funktioniert kaum noch über "Handzettel", Plakate und Zeitungsartikel. Wie können wir die Chancen und Möglichkeiten, die in Social Media stecken, für unsere Gruppen und Angebote nutzen? Wie können wir gute Inhalte produzieren? Wie können wir unseren Leuten da begegnen, wo sie sind?
 
-**Besonderer Hinweis:**\
-Rechtzeitig vor dem LJT bekommen alle Jungschargruppen noch eine extra Einladung mit genaueren
-Informationen. Die Anmeldung erfolgt über die Jungscharleitung vor Ort.
+Beide Einheiten sind abwechslungsreich und interaktiv gestaltet. 
+
+Ein Tag, der jeden Mitarbeiter weiter qualifizieren soll, aber auch die Neuausrichtung auf Jesus Christus, den Herrn unserer Arbeit, wird nicht zu kurz kommen.\
+Kommt gemeinsam, bildet Fahrgemeinschaften, spart.
+
+Nutzt und genießt den Austausch über die Arbeitsbereiche hinaus.
+
+**Ablauf:**\
+9:30 Uhr - Ankommen, Meet&Greet, Musik
+
+10:00 - 12:30Uhr - Einheit 1
+
+12:30 Uhr - Mittagessen
+
+14:00 - 16:00 - Einheit 2
