@@ -34,9 +34,11 @@ anmeldung:
   hatGesundheit: false
   disabled: false
 ---
-Ihr wollt den Wimpel? - Dann holt ihn euch und zeigt den anderen Jungscharen, was ihr draufhabt! Dich und deine Jungschargruppe erwarten viele spannende und actiongeladene Spiele, in denen ihr eure Teamfähigkeit und Geschick unter Beweis stellen könnt. Eine Geschichte aus dem Buch der Bücher (der Bibel) darf natürlich auch nicht fehlen. 
+Ihr wollt den Wimpel? - Dann holt ihn euch und zeigt den anderen Jungscharen, was ihr draufhabt! 
 
-Und wer weiß – vielleicht habt ihr am Ende des Tages ja nicht nur jede Menge gute Laune, sondern auch den Sieger-Wimpel in der Tasche. 
+Tritt mit deiner Jungschargruppe in vielen spannenden und actiongeladenen Spielen gegen andere Jungscharen an und stellt eure Teamfähigkeit und euer Geschick unter Beweis! Eine Geschichte aus dem Buch der Bücher (der Bibel) darf natürlich auch nicht fehlen. 
+
+Und wer weiß – vielleicht habt ihr am Ende des Tages ja nicht nur jede Menge gute Laune, sondern auch den Sieger-Wimpel in der Tasche. 
 
 **Besonderer Hinweis:**\
 Rechtzeitig vor dem LJT bekommen alle Jungschargruppen noch eine extra Einladung mit genaueren
