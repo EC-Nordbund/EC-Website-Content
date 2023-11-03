@@ -53,9 +53,9 @@ anmeldung:
 ---
 ## Langeweile abgemeldet!
 
-Gemeinsam werden wir eine Woche lang Geländespiele spielen, bauen, schnitzen, Fußball spielen und toben. Wir wollen unsere Kräfte messen, Grenzen kennenlernen und gemeinsam Herausforderungen meistern. Natürlich wird auch der Zimmermann Jesus dabei sein und wir werden erleben, was er echten Männern zu bieten hat. 
+Geländespiele, schnitzen, Fußball, klettern, Lagerfeuerabende, gemeinsam Herausforderungen meistern – das alles und noch viele weitere Abenteuer erwarten dich dieses Jahr auf unserer Freizeit für echte Männer unter 13. Hier dürfen Jungs auch mal wild, kämpferisch, kreativ, sportlich, ruhig, traurig und auch laut sein. Natürlich wird auch der Zimmermann Jesus dabei sein und wir werden erleben, was er echten Männern zu bieten hat. 
 
-Du siehst selbst: Auf unserer Freizeit für echte Männer unter 13 erwarten dich dieses Jahr wieder jede Menge Spaß und Abenteuer. Also schnell anmelden und einen Platz im Abenteuercamp sichern!
+Du siehst selbst: Auf unserer Freizeit für echte Männer unter 13 erwarten dich dieses Jahr wieder jede Menge Spaß und Abenteuer. Also schnell anmelden und einen Platz im Abenteuercamp sichern! 
 
 > **Besonderer Hinweis:**
-> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2024 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+> Wir bitten den/die Erziehungsberechtigte/n, ihr Kind nicht anzumelden, wenn es im Jahr 2024 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
