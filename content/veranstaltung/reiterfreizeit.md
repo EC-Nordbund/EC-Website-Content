@@ -54,7 +54,9 @@ anmeldung:
 ---
 ## Hufeklappern, Pferdetraben, Springen über Wassergraben
 
-Es geht wieder los! Ob im Sattel auf einem Ausritt durch Wald und Wiesen oder bei der Pflege der vielen süßen Ponys – auf dem Hof Kirchhorst wartet eine Woche absoluter Reitspaß auf dich! 
+Es geht wieder los! Wir wollen mit euch 5 ganz besondere Tage auf Hof Kirchhorst verbringen, gemeinsam den Hof und die Natur erkunden, lustige Spiele spielen und Gott begegnen. Der Reitspaß kommt natürlich auch nicht zu kurz. Ob bei der Pflege der vielen süßen Ponys oder der täglichen Reitstunde - auf Hof Kirchhorst wartet eine Woche voller Abenteuer auf euch!
+
+Für die Freizeit sind keine Vorkenntnisse im Reiten erforderlich.
 
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2022 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
