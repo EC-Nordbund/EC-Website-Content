@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: 485
+veranstaltungsID: 493
 title: Landesjungscharfreizeit 2
 begin: 2024-08-19
 ende: 2024-08-29
