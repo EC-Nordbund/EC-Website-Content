@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: 469
+veranstaltungsID: 495
 title: Reiterfreizeit
 begin: 2024-10-21
 ende: 2024-10-25
