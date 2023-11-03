@@ -24,7 +24,7 @@ tags:
   - Freizeit
   - Jahrgang 2011 bis 2015
 warteliste:
-  allgemein: true
+  allgemein: false
   männlich: false
   weiblich: false
 anzahlung: 45
