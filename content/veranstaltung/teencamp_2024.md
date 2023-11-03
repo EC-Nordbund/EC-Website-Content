@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 491
 title: TeenCamp 2024
 begin: 2024-07-20
 ende: 2024-07-30
