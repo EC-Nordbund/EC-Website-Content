@@ -1,11 +1,9 @@
 ---
-title: LandesJungscharTag 2023
-begin: 2023-06-24
-ende: 2023-06-24
-description: "Ihr wollt den Wimpel? - Dann holt ihn euch! Der LandesJungscharTag
-  - ist DAS Event für deine Jungschar-Gruppe: Wettkampf-Spiele, Bühnenprogramm
-  mit Liedern, einer Geschichte aus der Bibel und vielem mehr! Spaß und Spannung
-  garantiert."
+title: Mitarbeitertag 2023
+begin: 2023-11-26
+ende: 2023-11-26
+description: Miss-Erfolg im Umgang mit Sozialen Medien? Bim Mitarbeitertag gibts
+  Tipps und Impulse von der aktuelle Miss Germany, Kira Geiss!
 featuredImage: veranstaltungen/1_1_.webp
 images: []
 juleica: false
