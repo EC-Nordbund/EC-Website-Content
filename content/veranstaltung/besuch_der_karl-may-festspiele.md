@@ -29,9 +29,9 @@ anmeldung:
   hatGesundheit: false
   disabled: false
 ---
-An allen Lagerfeuern des Wilden Westens kennt man Winnetou und Old Shatterhand. Komm mit zu den Karl-May-Festspielen in Bad Segeberg! Hier warten jede Menge Action und Abenteuer auf dich.
+Begleitet Winnetou und seinen Freund Old Firehand bei ihrem nächsten großen Abenteuer auf der Jagd nach dem Gangster Finnety. Am Kalkberg warten jede Menge Action und Spannung auf euch. 
 
 **Besonderer Hinweis:**\
 Der genaue Termin steht noch nicht fest! Sobald der Termin fest steht, informieren wir an dieser Stelle und geben die Info in alle Jungschar-Gruppen des EC-Nordbunds - damit ihr den Tag freihalten könnt. 
 
-Rechtzeitig vor dem Ausflug zu den Karl-May-Festspielen bekommen alle Jungschargruppen noch eine extra Einladung mit genaueren Informationen. Die Anmeldung erfolgt über die Jungscharleitung vor Ort.
+Rechtzeitig vor dem Ausflug zu den Karl-May-Spielen bekommen alle Jungschargruppen noch eine extra Einladung mit genaueren Informationen. Die Anmeldung erfolgt über die Jungscharleitung vor Ort.
