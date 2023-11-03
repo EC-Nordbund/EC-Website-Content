@@ -7,7 +7,8 @@ description: "Ihr wollt den Wimpel? - Dann holt ihn euch! Der LandesJungscharTag
   mit Liedern, einer Geschichte aus der Bibel und vielem mehr! Spaß und Spannung
   garantiert."
 featuredImage: veranstaltungen/1_1_.webp
-images: []
+images:
+  - veranstaltungen/1_1_.webp
 juleica: false
 veranstaltungsort: Süderbrarup
 lat: "54.63297"
