@@ -8,8 +8,7 @@ Süderbrarup/Karlsminde. Wir haben um das knisternde Lagerfeuer gesessen und in 
 
 ![](blog/screenshot_2023-11-04_at_15-25-51_231023_karlsminde_info_sachstand.indd_-_231024_karlsminde_info_sachstand.pdf.png)
 
-
-Bei der Jahrhundertsturmfl ut an der Ostsee in der vergangenen Woche hat es unser EC-Ferienlager
+Bei der Jahrhundertsturmflut an der Ostsee in der vergangenen Woche hat es unser EC-Ferienlager
 in Karlsminde, etwa 15 Kilometer nordöstlich von Eckernförde gelegen und über den gleichnamigen
 Campingplatz zu erreichen, im wahrsten Sinne „heft ig getroffen“. Auf dem Gelände gibt es acht Bun-
 galows für jeweils sieben Personen und das Haupthaus, die zum Zeitpunkt dieser Mitteilung immer
@@ -35,5 +34,7 @@ Am mächtigsten aber ist der HERR in der Höhe.**
 
 Begleitet uns gern im
 Gebet, dass sich Lichtblicke am Horizont auftun und sich nach diesen erschütternden Nachrichten nun positive Wendungen einstellen. Wir trauen JESUS zu, dass ER uns Karlsminde erhält, uns die Möglichkeiten und Mittel für einen Wiederaufbau schenkt und ER uns einen zielgerichteten Weg aufzeigt. Vielen Dank für Ihre Gebete und zuversichtliche Grüße das „Re-fit“-Team mit allen, die sich bereits einbringen.
+
+Aktuelle Infos und den Link zut aktiven Helfer-Gruppe es unter: <https://vg-sh.church.tools/publicgroup/3203>
 
 ![](blog/screenshot_2023-11-04_at_15-26-19_231023_karlsminde_info_sachstand.indd_-_231024_karlsminde_info_sachstand.pdf.png)
