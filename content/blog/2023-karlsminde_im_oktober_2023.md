@@ -4,7 +4,9 @@ published: 2023-11-04T15:19:56
 description: In Karlsminde ist seit dem 20.Oktober 2023 nichts mehr wie es war....
 featuredImage: blog/screenshot_2023-11-04_at_15-26-04_231023_karlsminde_info_sachstand.indd_-_231024_karlsminde_info_sachstand.pdf.png
 ---
-Süderbrarup/Karlsminde. Wir haben um das knisternde Lagerfeuer gesessen und in der besonderen Atmosphäre am Aassee die Gemeinschaft genossen. Wir haben fröhlich Wikingerschach, Fußball und viele Dinge mehr auf der Grünfläche zwischen den Bungalows gespielt. Wir haben lecker zusammen gekocht und gegessen, unter anderem Pizza aus dem Holzbackofen auf dem Gelände. Dabei haben wir Gespräche über Gott und die Welt geführt – und das über Generationen hinweg. Für uns war immer schon klar: In Karlsminde berühren sich auf besondere Art  und Weise Himmel und Erde. Nicht umsonst heißt es bei uns im Verband der Gemeinschaften in der Evangelischen Kirche in Schleswig-Holstein e.V. sowie in unserer Jugendorganisation EC-Nordbund (Entschieden für Christus): „Wer Karlsminde nicht kennt, hat etwas verpasst!“ Und dann … kam das Wasser.
+**Süderbrarup/Karlsminde.** 
+
+Wir haben um das knisternde Lagerfeuer gesessen und in der besonderen Atmosphäre am Aassee die Gemeinschaft genossen. Wir haben fröhlich Wikingerschach, Fußball und viele Dinge mehr auf der Grünfläche zwischen den Bungalows gespielt. Wir haben lecker zusammen gekocht und gegessen, unter anderem Pizza aus dem Holzbackofen auf dem Gelände. Dabei haben wir Gespräche über Gott und die Welt geführt – und das über Generationen hinweg. Für uns war immer schon klar: In Karlsminde berühren sich auf besondere Art  und Weise Himmel und Erde. Nicht umsonst heißt es bei uns im Verband der Gemeinschaften in der Evangelischen Kirche in Schleswig-Holstein e.V. sowie in unserer Jugendorganisation EC-Nordbund (Entschieden für Christus): „Wer Karlsminde nicht kennt, hat etwas verpasst!“ Und dann … kam das Wasser.
 
 ![](blog/screenshot_2023-11-04_at_15-25-51_231023_karlsminde_info_sachstand.indd_-_231024_karlsminde_info_sachstand.pdf.png)
 
