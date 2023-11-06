@@ -21,6 +21,7 @@ ort: Rømø, Dänemark
 minAlter: 18
 tags:
   - Freizeit
+  - ab 18 Jahren
 warteliste:
   allgemein: false
   männlich: false
