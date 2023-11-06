@@ -23,6 +23,7 @@ minAlter: 13
 maxAlter: 17
 tags:
   - Freizeit
+  - 13-17 Jahre
 warteliste:
   allgemein: false
   männlich: false
