@@ -2,7 +2,7 @@
 title: Nordbundtermine 2024 sind online.
 published: 2023-11-03T16:46:38
 description: Die neuen Nordbund-Termine für 2024 sind da...
-featuredImage: blog/termine_2024_ubersicht_3.jpg
+featuredImage: blog/termine_2024_ubersicht_4.jpg
 ---
 ![](blog/termine_2024_ubersicht_3.jpg)
 
