@@ -17,7 +17,9 @@ plz: "24369"
 ort: Klein Waabs
 minAlter: 13
 maxAlter: 17
-tags: []
+tags:
+  - Freizeit
+  - 13-17 Jahre
 warteliste:
   allgemein: false
   männlich: false
