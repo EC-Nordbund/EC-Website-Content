@@ -20,6 +20,7 @@ ort: Bünsdorf
 minAlter: 15
 tags:
   - Seminar
+  - ab 15 Jahre
 warteliste:
   allgemein: false
   männlich: false
