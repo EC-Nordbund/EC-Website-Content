@@ -24,6 +24,7 @@ maxAlter: 17
 tags:
   - Freizeit
   - 13-17 Jahre
+  - gemeinsame Anreise im Reisebus
 warteliste:
   allgemein: false
   männlich: false
