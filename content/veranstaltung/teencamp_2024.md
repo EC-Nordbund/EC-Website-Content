@@ -24,6 +24,7 @@ maxAlter: 17
 tags:
   - Freizeit
   - 13-17 Jahre
+  - gemeinsame Anreise im Reisebus
 warteliste:
   allgemein: false
   männlich: false
@@ -62,3 +63,7 @@ Sporthalle mit Volleyball-, Badminton und Fußballfeldern, mehrere Terrassen, ei
 Das alles klingt zu schön um wahr zu sein?! Dein Urlaubstraum ist zum Greifen nah. Anmelden und Sachenpacken musst du allerdings noch selbst…
 
 Und wie es sich für ein TeenCamp gehört, wollen wir uns neben all der Action und dem Relaxen auch wieder auf das Abenteuer einlassen, in unserem Leben Gott zu begegnen.
+
+
+
+Die Anreise erfolgt auch in diesem Jahr im gemeinsamen Reisebus ab Kaltenkirchen.
