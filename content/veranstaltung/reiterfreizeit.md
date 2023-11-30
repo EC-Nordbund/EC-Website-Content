@@ -27,10 +27,10 @@ anzahlung: 65
 preise:
   - label: Frühbucher
     preis: 365
-    ende: 2023-11-30
+    ende: 2023-12-31
   - label: Normal
     preis: 402
-    begin: 2023-12-01
+    begin: 2024-01-01
     ende: 2024-08-16
   - label: Last-Minute
     preis: 442
