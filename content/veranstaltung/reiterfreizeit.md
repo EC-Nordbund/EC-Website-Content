@@ -26,14 +26,14 @@ warteliste:
 anzahlung: 65
 preise:
   - label: Frühbucher
-    preis: 365
+    preis: 299
     ende: 2023-12-31
   - label: Normal
-    preis: 402
+    preis: 329
     begin: 2024-01-01
     ende: 2024-08-16
   - label: Last-Minute
-    preis: 442
+    preis: 362
     begin: 2024-08-17
 anmeldung:
   hatErlaubnisBoot: true
@@ -65,17 +65,7 @@ Für die Freizeit sind keine Vorkenntnisse im Reiten erforderlich.
 <v-alert type="info" text tile outlined>
 <h2>Und was kostet der Spaß? – <i>Wenn wir das so genau wüssten...</i></h2>
 
-Viele haben die Reiterfreizeit in 2023 sehr vermisst! Die Preise haben sich keine Pause gegönnt sondern sind weiter gestiegen. Damit 2024 auch möglichst alle Pony-Freunde und -Freundinnen wieder mitfahren können, haben wir für diese Freizeit einen Förderantrag gestellt. Sollte der bewilligt werden, werden sich die Freizeitpreise wie folgt reduzieren:
-
-### Wir erwarten durch die Fördergelder folgende Preise:
-
-***Frühbucher:*** 299 EUR\
-***Normal:*** 329 EUR\
-***Last-Minute:*** 362 EUR
-
-Wir informieren an dieser Stelle sobald wir genaueres wissen.
-
-Bitte zahlen sie deshalb bei Anmeldung zunächst NUR die Anzahlung und die volle Summe erst nach Aufforderung.
+Wir freuen uns über die Zusage der Fördermittel für die Reiterfreizeit 2024! Nun gelten die reduzierten Preise wie unten ausgeschrieben. Der Frühbucherrabatt ist bis zum 31.12.23 verlängert.
 </v-alert>
 
 </div>
