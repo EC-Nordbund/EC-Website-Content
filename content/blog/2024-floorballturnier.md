@@ -5,7 +5,7 @@ description: Eigentlich wollten wir Volleyball spielen, aber es kam dann doch
   ein bisschen anders.
 featuredImage: blog/floorball-19.jpg
 ---
-Der Plan stand: am 03. Februar findet unsere Volleyballturnier in Neumünster statt.
+Der Plan stand: am 03. Februar findet unser Volleyballturnier in Neumünster statt.
 
 10 Mannschaften hatten sich angemeldet, doch morgens gab es dann eine überraschende Nachricht; die Halle wurde doppelt belegt und wir kommen nicht in die Halle.
 
