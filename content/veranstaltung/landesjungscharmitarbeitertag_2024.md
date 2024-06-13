@@ -51,4 +51,4 @@ Wir wollen auch gemeinsam Mittagessen und bitten euch dafür um einen Beitrag vo
 >
 > * Samstag, 12.10.2024; 10-16Uhr in Neumünster
 > * Bitte bring für das Essen Teller, Becher und Besteck mit - und 5€
-> * Für alle Mitarbeitenden in Jungscharen und Kindergruppen
+> * Für alle Mitarbeitenden in Jungscharen und Kindergruppen - meldet euch gemeinsam als Team an!
