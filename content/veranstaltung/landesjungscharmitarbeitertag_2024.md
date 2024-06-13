@@ -22,36 +22,33 @@ warteliste:
   weiblich: false
 preise:
   - label: Normal
-    preis: 7
+    preis: 5
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
   hatErlaubnisSchwimmen: false
-  hatErlaubnisSichEntfernen: false
+  hatErlaubnisSichEntfernen: true
   hatFreizeitleitung: false
   hatErlaubnisKlettern: false
-  hatFahrgemeinschaft: false
-  visible: false
-  hatEssen: false
+  hatFahrgemeinschaft: true
+  visible: true
+  hatEssen: true
   startAt: ""
   hatGesundheit: false
   disabled: false
 ---
-Mit einem Smartphone trägt man die ganze Welt in der Tasche. Unsere Termine, Beziehungen, Freizeit, EC-Gruppen ... sind ohne das Smartphone kaum noch zu denken. Der erste Blick am Morgen, und der letzte am Abend gehen aufs Handy. Was macht Social Media Konsum eigentlich mit uns? Wann ist es zu viel? Und: Wie sozial sind die sozialen Medien? Um all diese Fragen geht es am Vormittag unseres Mitarbeitertags. 
+**LandesJungscharMITARBEITERTag - der Jungschartag, der Mitarbeiter feiert!**
 
-Am Nachmittag gehts um einen sinnvollen Einsatz von sozialen Medien. Öffentlichkeitsarbeit für Jugendarbeit funktioniert kaum noch über "Handzettel", Plakate und Zeitungsartikel. Wie können wir die Chancen und Möglichkeiten von sozialen Medien für unsere Gruppen und Angebote nutzen? Wie können wir gute Inhalte produzieren? Wie können wir unseren Leuten da begegnen, wo sie sind?
+Alle Mitarbeitenden aus Jungscharen und Kindergruppen sind herzlich eingeladen, sich feiern zu lassen und gemeinsam mit uns Gott zu feiern.
 
-Beide Einheiten sind abwechslungsreich und interaktiv gestaltet. 
+Dafür dürfen wir endlich auch nochmal Kinder sein und einen Jungschartag mitmachen: Mit verrückten Wettspielen, Power-Hour mit Lobpreis und Zeit mit Gott, Sägespäne und vielen mehr! 
 
-Ein Tag, der jeden Mitarbeiter weiter qualifizieren soll, aber auch ein Tag um dem zu begegnen, um den es in all unseren Angeboten geht: Jesus.
+Der Tagch macht Lust auf Mitarbeit, feiert dein Engagement, macht euch als Team stark und füllt dich mit Inspiration, Kreativität und Segen für deine Gruppe. Wir freuen uns darauf, mit DIR zu feiern. 
 
-Nutzt und genießt den Austausch über die Arbeitsbereiche hinaus. Bildet Fahrgemeinschaften und kommt gemeinsam!
+Wir wollen auch gemeinsam Mittagessen und bitten euch dafür um einen Beitrag von 5€.
 
-**Ablauf:**\
-9:30 Uhr - Ankommen, Meet&Greet, Musik
-
-10:00 - 12:30Uhr - Einheit 1
-
-12:30 Uhr - Mittagessen
-
-14:00 - 16:00 - Einheit 2
+> **Auf einen Blick:**
+>
+> * Samstag, 12.10.2024; 10-16Uhr in Neumünster
+> * Bitte bring für das Essen Teller, Becher und Besteck mit - und 5€
+> * Für alle Mitarbeitenden in Jungscharen und Kindergruppen
