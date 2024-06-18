@@ -28,7 +28,7 @@ anmeldung:
   hatErlaubnisFahrrad: false
   hatErlaubnisSchwimmen: false
   hatErlaubnisSichEntfernen: true
-  hatFreizeitleitung: false
+  hatFreizeitleitung: true
   hatErlaubnisKlettern: false
   hatFahrgemeinschaft: true
   visible: true
@@ -41,9 +41,9 @@ anmeldung:
 
 Alle Mitarbeitenden aus Jungscharen und Kindergruppen sind herzlich eingeladen, sich feiern zu lassen und gemeinsam mit uns Gott zu feiern.
 
-Dafür dürfen wir endlich auch nochmal Kinder sein und einen Jungschartag mitmachen: Mit verrückten Wettspielen, Power-Hour mit Lobpreis und Zeit mit Gott, Sägespäne und vielen mehr! 
+Dafür dürfen wir endlich auch nochmal Kinder sein und einen Jungschartag mitmachen: Mit verrückten Wettspielen, Power-Hour: Lobpreis und Zeit mit Gott, Sägespäne und vielen mehr! 
 
-Der Tagch macht Lust auf Mitarbeit, feiert dein Engagement, macht euch als Team stark und füllt dich mit Inspiration, Kreativität und Segen für deine Gruppe. Wir freuen uns darauf, mit DIR zu feiern. 
+Der Tag macht Lust auf Mitarbeit, feiert dein Engagement, macht euch als Team stark und füllt dich mit Inspiration, Kreativität und Segen für deine Gruppe. Wir freuen uns darauf, mit DIR zu feiern. 
 
 Wir wollen auch gemeinsam Mittagessen und bitten euch dafür um einen Beitrag von 5€.
 
@@ -51,4 +51,4 @@ Wir wollen auch gemeinsam Mittagessen und bitten euch dafür um einen Beitrag vo
 >
 > * Samstag, 12.10.2024; 10-16Uhr in Neumünster
 > * Bitte bring für das Essen Teller, Becher und Besteck mit - und 5€
-> * Für alle Mitarbeitenden in Jungscharen und Kindergruppen - meldet euch gemeinsam als Team an!
+> * Wer ist eingeladen? Alle Mitarbeitenden in Jungscharen und Kindergruppen - meldet euch gemeinsam als Team an!
