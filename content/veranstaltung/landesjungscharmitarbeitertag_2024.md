@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 500
 title: LandesJungscharMITARBEITERTag 2024
 begin: 2024-10-12
 ende: 2024-10-12
