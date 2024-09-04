@@ -13,8 +13,8 @@ long: "9.99022"
 strasse: Klosterstraße 34
 plz: "24534"
 ort: Neumünster
-minAlter: 0
-maxAlter: 100
+minAlter: 1
+maxAlter: 99
 tags:
   - Seminar
 warteliste:
