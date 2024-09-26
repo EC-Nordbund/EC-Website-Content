@@ -135,7 +135,7 @@ export function toDo(folder) {
 
     // console.log(v)
     // console.log(webpPath)
-    // console.log(files.includes(webpPath))
+    // console.log(files.includes(webpPath)) 
 
     return !files.includes(webpPath)
   })
