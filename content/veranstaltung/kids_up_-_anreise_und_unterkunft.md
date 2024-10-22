@@ -10,8 +10,8 @@ images:
   - veranstaltungen/Chris/Chris6
 juleica: true
 veranstaltungsort: Marburg
-lat: 50.97461
-long: 11.02847
+lat: "48.13726"
+long: "11.57558"
 strasse: Oberweg 60
 plz: "35041 "
 ort: Marburg-Wehrda
