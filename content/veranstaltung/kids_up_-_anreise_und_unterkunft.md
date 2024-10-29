@@ -1,10 +1,10 @@
 ---
 veranstaltungsID: 477
-title: KIDS UP - Anreise und Unterkunft
+title: KIDS UP - Unterkunft
 begin: 2025-04-04
 ende: 2025-04-06
-description: "Wir fahren zu KIDS UP - dem Kongress der dich und deine Arbeit mit
-  Kindern weiterbringt! "
+description: "Wir fahren gemeinsam zum KIDS UP - dem Kongress der dich und deine
+  Arbeit mit Kindern weiterbringt! "
 featuredImage: veranstaltungen/kidsup.jpg
 images:
   - veranstaltungen/Chris/Chris6
@@ -26,18 +26,10 @@ warteliste:
   weiblich: false
 anzahlung: false
 preise:
-  - label: Frühbucher
-    begin: 2024-10-22
-    ende: 2024-12-01
-    preis: 150
   - label: Normal
-    begin: 2024-12-01
-    preis: 165
-    ende: 2025-01-31
-  - label: Last-Minute
-    preis: 180
-    begin: 2025-02-01
+    begin: 2024-10-29
     ende: 2025-04-04
+    preis: 65
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
@@ -47,7 +39,7 @@ anmeldung:
     - type: text
       label: Code für unter 18 Jährige (s.o.)
       name: key
-  hatFreizeitleitung: false
+  hatFreizeitleitung: true
   hatErlaubnisKlettern: false
   hatFahrgemeinschaft: true
   visible: true
@@ -56,31 +48,27 @@ anmeldung:
   hatGesundheit: true
   disabled: false
 ---
-Wir wollen vom Nordbund **gemeinsam zum KIDS UP - Kongress** fahren. Dazu haben wie einen Bus gechartert und eine Gruppen-Unterkunft reserviert. 
-Die maximale Gruppengröße beträgt **48 Personen**. Darauf sind der Bus und die Unterkunft ausgelegt.
+Wir wollen als EC-Nordbund **gemeinsam zum KIDS UP - Kongress** fahren. Dazu haben wir eine Gruppen-Unterkunft reserviert. 
+Die maximale Gruppengröße beträgt **Personen**. 
 
-## Hier kannst du Anreise und Unterkunft buchen!
+## Hier kannst du Unterkunft und Frühstück für den Kongress buchen!
 
-Wir werden gemeinsam auf dem Freizeitgelände "Stadtwald" in Marburg untergebracht sein (www.hausderjugend-marburg.de/freizeitgelaende-stadtwald/). Dort werden wir in Mehrbett-Zimmern untergebracht sein. **Dreiteilige Bettwäsche und Handtücher** sind mitzubringen. Außerdem ist das **Frühstück** im Preis mit drin. Und natürlich die **gemeinsamen An- und Abreise** (ab Kaltenkirchen, AKN-Bahnhof Holstentherme).
+Wir werden gemeinsam auf dem Freizeitgelände "Stadtwald" in Marburg untergebracht sein (www.hausderjugend-marburg.de/freizeitgelaende-stadtwald/). Dort werden wir in Mehrbett-Zimmern schlafen. **Dreiteilige Bettwäsche und Handtücher** sind mitzubringen. Außerdem ist das **Frühstück** im Preis mit drin. Damit bist du dann für das komplette Wochenende versorgt!
 
-Deine Anmeldung auf unserer Website ist verbindlich. Wir buchen im Anschluss kostenpflichtig das Ticket beim Christival für dich. Die Stornokosten unserer aktuellen Teilnehmerbedingungen gelten damit nicht wie angegeben, sondern es werden bei einer Abmeldung, wie unter §5 beschrieben, die tatsächlichen Kosten an dich weitergegeben.
+Deine Anmeldung auf unserer Website ist mit Überweisung der 65€ verbindlich. Die Stornokosten unserer aktuellen Teilnehmerbedingungen gelten damit nicht wie angegeben, sondern es werden bei einer Abmeldung, wie unter §5 beschrieben, die tatsächlichen Kosten an dich weitergegeben.
+
+Bitte melde dich für die Unterkunft bis zum 01.12.24 an. Nur dann können wir dir auf jeden Fall einen Platz über unser Kontingent bereit stellen. 
+
+## Wie komme ich nach Marburg?
+
+Wir wollen gemeinsam mit Fahrgemeinschaften nach Marburg fahren. Suchst du eine Mitfahrgelegenheit? Bitte gib dies bei deiner Anmeldung an. Kannst du selber fahren und andere mitnehmen? Bitte setz das Häkchen, dass deine Kontaktdaten zur Bildung von Fahrgemeinschaften weitergegeben werden dürfen.
+
+> **Wichtig zu wissen:** Die Fahrgemeinschaften sind auch für unsere Unterkunft wichtig, denn das Freizeitgelände "Stadtwald" liegt etwas außerhalb von Marburg. Wir pendeln also auch in den Fahrgemeinschaften zwischen Unterkunft und Kongress-Gelände.
 
 ## Wo kann ich mich zum Kongress anmelden?
 
-https://www.gnadauer.de/kids-up/
+**https://www.gnadauer.de/kids-up/**
 
-Mit dem Link oben kommst du zur Kongress-Seite des KIDS UP - Kongress. Bitte melde dich dort für den Kongress an. Dort kannst du auch Seminare und Workshops auswählen. Wenn du noch nicht Volljährig bist, beachte bitte auch das Formular zur Einverständniserklärung deiner Eltern/Erziehungsberechtigten.
+Mit dem Link oben kommst du zur Kongress-Seite des KIDS UP. Bitte melde dich dort für den Kongress an. Dort kannst du auch Seminare und Workshops auswählen. Wenn du noch nicht Volljährig bist, beachte bitte auch das Formular zur Einverständniserklärung deiner Eltern/Erziehungsberechtigten. Im Tagungspreis sind auch Mittag- und Abendessen enthalten.
 
-Beachte auch dort die gestaffelten Preise für den Tagungsbeitrag (Frühbucher, Normal, Nicht-Verdiener...).
-
-
-
-## Was ist mit den Kosten? (vorläufig)
-
-Angemeldete NACH dem 28.02.2022 zahlen 40€ mehr!
-
-Nichtverdiener 239€ (Anzahlung 40€)
-
-Verdiener 269€ (Anzahlung 40€)
-
-Darin enthalten 90€ Anreisekosten.
+Gut zu wissen: Bei einer Anmeldung bis 31.12. gilt dort der Frühbucher-Preis von 99€ bzw. 79€ für Nicht-Verdiener.
