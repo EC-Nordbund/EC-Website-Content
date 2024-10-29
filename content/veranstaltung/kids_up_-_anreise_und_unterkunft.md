@@ -1,6 +1,6 @@
 ---
 veranstaltungsID: 477
-title: KIDS UP - Unterkunft
+title: KIDS UP - Kongress - Unterkunft
 begin: 2025-04-04
 ende: 2025-04-06
 description: "Wir fahren gemeinsam zum KIDS UP - dem Kongress der dich und deine
