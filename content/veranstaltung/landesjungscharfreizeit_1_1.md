@@ -4,14 +4,12 @@ title: Landesjungscharfreizeit 1
 begin: 2025-08-05
 ende: 2025-08-15
 description: Sommer. Ferien. Karlsminde.
-featuredImage: veranstaltungen/dsci0123.jpg
+featuredImage: veranstaltungen/dsci0484.jpg
 images:
-  - veranstaltungen/dsci0103.jpg
-  - veranstaltungen/dsci4316.jpg
-  - veranstaltungen/dsci0098.jpg
-  - veranstaltungen/dsci0137.jpg
-  - veranstaltungen/dsci0077.jpg
-  - veranstaltungen/20230719_194023.jpg
+  - veranstaltungen/dsci0247.jpg
+  - veranstaltungen/dsci0466.jpg
+  - veranstaltungen/dsci0105.jpg
+  - veranstaltungen/dsci0122.jpg
 juleica: false
 veranstaltungsort: EC-Ferienlager Karlsminde
 lat: "54.5"
