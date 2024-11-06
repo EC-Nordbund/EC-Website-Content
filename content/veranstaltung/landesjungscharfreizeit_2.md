@@ -20,23 +20,23 @@ ort: Klein Waabs
 tags:
   - Karlsminde
   - Freizeit
-  - Jahrgang 2011 bis 2015
+  - Jahrgang 2012 bis 2016
 warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-anzahlung: 45
+anzahlung: 50
 preise:
   - label: Frühbucher
-    ende: 2023-11-30
-    preis: 245
+    ende: 2024-12-31
+    preis: 250
   - label: Normal
-    begin: 2023-12-01
-    ende: 2024-05-24
-    preis: 270
+    begin: 2025-01-01
+    ende: 2025-05-30
+    preis: 275
   - label: Last-Minute
-    begin: 2024-05-25
-    preis: 297
+    begin: 2025-05-31
+    preis: 300
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: false
