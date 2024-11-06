@@ -6,7 +6,7 @@ description: "Ihr wollt den Wimpel? - Dann holt ihn euch! Der LandesJungscharTag
   - ist DAS Event für deine Jungschar-Gruppe: Wettkampf-Spiele, Bühnenprogramm
   mit Liedern, einer Geschichte aus der Bibel und vielem mehr! Spaß und Spannung
   garantiert."
-featuredImage: veranstaltungen/1_1_.webp
+featuredImage: veranstaltungen/6_1_.webp
 images:
   - veranstaltungen/1_1_.webp
 juleica: false
