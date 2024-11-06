@@ -6,8 +6,7 @@ ende: 2025-04-06
 description: "Wir fahren gemeinsam zum KIDS UP - dem Kongress der dich und deine
   Arbeit mit Kindern weiterbringt! "
 featuredImage: veranstaltungen/kidsup.jpg
-images:
-  - veranstaltungen/Chris/Chris6
+images: []
 juleica: true
 veranstaltungsort: Marburg
 lat: "48.13726"
