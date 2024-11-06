@@ -2,8 +2,8 @@
 title: Besuch der Karl-May-Spiele
 begin: 2025-07-11
 ende: 2025-07-11
-description: Gemeinsam mit deiner Jungschar-Gruppe geht's auf nach Bad Segeberg
-  zu den Karl-May-Spielen!
+description: Ab in den Wilden Westen! Gemeinsam mit deiner Jungschar-Gruppe
+  geht's auf nach Bad Segeberg zu den Karl-May-Spielen!
 featuredImage: veranstaltungen/karl-may_foto-franzp.sauerteig_auf_pixabay.jpg
 juleica: false
 veranstaltungsort: Bad Segeberg
@@ -29,7 +29,11 @@ anmeldung:
   hatGesundheit: false
   disabled: false
 ---
-Begleitet Winnetou und seinen Freund Old Firehand bei ihrem nächsten großen Abenteuer auf der Jagd nach dem Gangster Finnety. Am Kalkberg warten jede Menge Action und Spannung auf euch. 
+**Ab in den Wilden Westen!**
 
-**Besonderer Hinweis:**\
-Rechtzeitig vor dem Ausflug zu den Karl-May-Spielen bekommen alle Jungschargruppen noch eine extra Einladung mit genaueren Informationen. Die Anmeldung erfolgt über die Jungscharleitung vor Ort.
+Begleitet Winnetou und seinen Freund Old Firehand bei ihrem nächsten großen Abenteuer: Mysteriöse Feuer und weitere Zwischenfälle erschüttern immer wieder die Baustelle der neuen Eisenbahn. Wer steckt dahinter?
+
+Findet es heraus und kommt mit zu den Karl-May-Spielen in Bad Segeberg. Hier wartet jede Menge Action und Spannung auf euch.
+
+> **Besonderer Hinweis:**\
+> Rechtzeitig vor dem Ausflug zu den Karl-May-Spielen bekommen alle Jungschargruppen noch eine extra Einladung mit genaueren Informationen. Die Anmeldung erfolgt über die Jungscharleitung vor Ort.
