@@ -1,5 +1,4 @@
 ---
-veranstaltungsID: 492
 title: Landesjungscharfreizeit 1
 begin: 2025-08-05
 ende: 2025-08-15
@@ -47,7 +46,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2024-12-01T15:00:00+01:00
+  startAt: '2024-12-01T14:00:00Z'
   hatGesundheit: true
   disabled: false
   jahrgangMin: 2012
