@@ -4,7 +4,7 @@ title: Landesjungscharfreizeit 2
 begin: 2025-08-24
 ende: 2025-09-03
 description: Sommer. Ferien. Karlsminde.
-featuredImage: veranstaltungen/dsci0123.jpg
+featuredImage: veranstaltungen/dsc_0501-klein.jpg
 images:
   - veranstaltungen/a_dsc_0045.jpg
   - veranstaltungen/a_dsc_0059.jpg
