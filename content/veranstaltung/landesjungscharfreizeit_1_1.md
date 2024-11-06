@@ -25,7 +25,7 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-anzahlung: 45
+anzahlung: 50
 preise:
   - label: Frühbucher
     ende: 2024-12-31
