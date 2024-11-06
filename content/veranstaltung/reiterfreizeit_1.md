@@ -7,8 +7,9 @@ description: "Ferien auf dem Ponyhof: Spielen, Ponys kennenlernen, Reiten, Gott
   begegnen – Auf die Sattel, fertig, los!"
 featuredImage: veranstaltungen/img_5807.jpg
 images:
-  - veranstaltungen/img_5808.jpg
-  - veranstaltungen/img_5860.jpg
+  - veranstaltungen/img-20241106-wa0001.jpg
+  - veranstaltungen/img-20241106-wa0006.jpg
+  - veranstaltungen/img-20241106-wa0003.jpg
 juleica: false
 veranstaltungsort: Hof Kirchhorst
 lat: "54.40964"
