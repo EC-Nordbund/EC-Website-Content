@@ -1,5 +1,4 @@
 ---
-veranstaltungsID: 477
 title: KIDS UP - Kongress - Unterkunft
 begin: 2025-04-04
 ende: 2025-04-06
@@ -34,16 +33,12 @@ anmeldung:
   hatErlaubnisFahrrad: false
   hatErlaubnisSchwimmen: false
   hatErlaubnisSichEntfernen: false
-  extraFields:
-    - type: text
-      label: Code für unter 18 Jährige (s.o.)
-      name: key
   hatFreizeitleitung: true
   hatErlaubnisKlettern: false
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2024-10-21T12:32:61+02:00
+  startAt: '2024-12-01T14:00:00Z'
   hatGesundheit: true
   disabled: false
 ---
