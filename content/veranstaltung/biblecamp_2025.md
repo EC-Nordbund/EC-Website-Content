@@ -50,7 +50,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: ""
+  startAt: '2024-12-01T14:00:00Z'
   hatGesundheit: true
   disabled: false
 ---
