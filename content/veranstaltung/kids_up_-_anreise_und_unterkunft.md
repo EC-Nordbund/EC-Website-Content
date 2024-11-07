@@ -19,7 +19,7 @@ tags:
   - Kongress
   - ab 14 Jahren
 warteliste:
-  allgemein: true
+  allgemein: false
   männlich: false
   weiblich: false
 anzahlung: false
