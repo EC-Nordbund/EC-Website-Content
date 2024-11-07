@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: 448
+veranstaltungsID: 501
 title: KIDS UP - Kongress - Unterkunft
 begin: 2025-04-04
 ende: 2025-04-06
