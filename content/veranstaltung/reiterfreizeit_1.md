@@ -1,7 +1,7 @@
 ---
 title: Reiterfreizeit
-begin: 2025-10-20
-ende: 2025-10-24
+begin: 2015-10-20
+ende: 2015-10-24
 description: "Ferien auf dem Ponyhof: Spielen, Ponys kennenlernen, Reiten, Gott
   begegnen – Auf die Sattel, fertig, los!"
 featuredImage: veranstaltungen/img_5807.jpg
