@@ -29,14 +29,14 @@ anzahlung: 60
 preise:
   - label: Frühbucher
     ende: 2024-12-31
-    preis: 300
+    preis: 306
   - label: Normal
     begin: 2025-01-01
     ende: 2025-08-22
-    preis: 333
+    preis: 340
   - label: Last-Minute
     begin: 2025-08-23
-    preis: 366
+    preis: 374
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
@@ -47,7 +47,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: '2024-12-01T14:00:00Z'
+  startAt: 2024-12-01T14:00:00Z
   hatGesundheit: true
   disabled: false
 ---
