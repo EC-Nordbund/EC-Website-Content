@@ -1,7 +1,7 @@
 ---
 title: Abenteuerfreizeit
-begin: 2025-10-20
-ende: 2025-10-24
+begin: 2015-10-20
+ende: 2015-10-24
 description: Langeweile abgemeldet!
 featuredImage: veranstaltungen/af-41.jpg
 images:
