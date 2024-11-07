@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 448
 title: KIDS UP - Kongress - Unterkunft
 begin: 2025-04-04
 ende: 2025-04-06
@@ -38,7 +39,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: '2024-12-01T14:00:00Z'
+  startAt: '2024-11-10T14:00:00Z'
   hatGesundheit: true
   disabled: false
 ---
