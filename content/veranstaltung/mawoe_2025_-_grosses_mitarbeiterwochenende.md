@@ -27,14 +27,14 @@ warteliste:
 preise:
   - label: Frühbucher
     ende: 2025-12-31
-    preis: 60
+    preis: 68
   - label: Normal
     begin: 2025-01-01
     ende: 2025-02-13
-    preis: 66
+    preis: 75
   - label: Last-Minute
     begin: 2025-02-14
-    preis: 73
+    preis: 83
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
@@ -45,7 +45,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: '2024-12-01T14:00:00Z'
+  startAt: 2024-12-01T14:00:00Z
   hatGesundheit: true
   disabled: false
 ---
