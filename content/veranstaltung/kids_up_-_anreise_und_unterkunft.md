@@ -9,8 +9,8 @@ featuredImage: veranstaltungen/kidsup.jpg
 images: []
 juleica: true
 veranstaltungsort: Marburg
-lat: "48.13726"
-long: "11.57558"
+lat: "50.83062"
+long: "8.76005"
 strasse: Oberweg 60
 plz: "35041 "
 ort: Marburg-Wehrda
@@ -39,7 +39,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: '2024-10-10T14:00:00Z'
+  startAt: 2024-10-10T14:00:00Z
   hatGesundheit: true
   disabled: false
 ---
