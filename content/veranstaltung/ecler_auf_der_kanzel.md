@@ -1,7 +1,7 @@
 ---
 title: EC'ler auf der Kanzel
-begin: 2025-02-24
-ende: 2025-02-24
+begin: 2025-02-15
+ende: 2025-02-15
 description: Begeistert von Gott reden? – Ein Kinderspiel. So sollte es
   zumindest sein. Aber auf der Kanzel? Muss ich dann predigen? Am Sonntag? Vor
   allen? – So ist es gedacht.
@@ -30,7 +30,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: '2024-12-01T14:00:00Z'
+  startAt: 2024-12-01T14:00:00Z
   hatGesundheit: false
   disabled: false
 ---
