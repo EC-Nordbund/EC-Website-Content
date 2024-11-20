@@ -1,7 +1,7 @@
 ---
 title: Besuch der Karl-May-Spiele
-begin: 2025-07-11
-ende: 2025-07-11
+begin: 2015-01-01
+ende: 2015-01-01
 description: Ab in den Wilden Westen! Gemeinsam mit deiner Jungschar-Gruppe
   geht's auf nach Bad Segeberg zu den Karl-May-Spielen!
 featuredImage: veranstaltungen/karl-may_foto-franzp.sauerteig_auf_pixabay.jpg
