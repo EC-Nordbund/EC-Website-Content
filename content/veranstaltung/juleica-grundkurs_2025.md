@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 516
 title: Juleica-Grundkurs 2025
 begin: 2025-10-19
 ende: 2025-10-26
