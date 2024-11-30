@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 511
 title: BibleCamp 2025
 begin: 2025-04-11
 ende: 2025-04-17
