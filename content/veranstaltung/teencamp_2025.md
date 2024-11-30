@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 513
 title: TeenCamp 2025
 begin: 2025-07-26
 ende: 2025-08-05
