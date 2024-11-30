@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 512
 title: PfingstCamp 2025
 begin: 2025-06-06
 ende: 2025-06-09
