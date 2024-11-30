@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 510
 title: MaWoE 2025 - Großes Mitarbeiterwochenende
 begin: 2025-02-28
 ende: 2025-03-02
