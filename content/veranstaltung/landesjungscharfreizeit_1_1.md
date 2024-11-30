@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 514
 title: Landesjungscharfreizeit 1
 begin: 2025-08-05
 ende: 2025-08-15
