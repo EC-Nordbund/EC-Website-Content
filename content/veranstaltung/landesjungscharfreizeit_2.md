@@ -13,7 +13,10 @@ images:
 juleica: false
 veranstaltungsort: Karlsminde
 lat: "54.5"
-	@@ -20,38 +20,38 @@ ort: Klein Waabs
+long: "9.9484807"
+strasse: Karlsminde
+plz: "24369"
+ort: Klein Waabs
 tags:
   - Karlsminde
   - Freizeit
@@ -52,7 +55,9 @@ anmeldung:
 ---
 ## Sommer. Ferien. Karlsminde.
 
-	@@ -61,14 +61,4 @@ Mach dich bereit auf zehn Tage voller Spaß und Action! Denn auf dich wartet ein
+Hurra, es sind Sommerferien und da geht es natürlich auf Landesjungscharfreizeit nach Karlsminde.\
+Mach dich bereit auf zehn Tage voller Spaß und Action! Denn auf dich wartet ein spannendes Programm: von A wie Abenteuer über B wie Boot fahren oder basteln, F wie Fußball spielen, S wie singen oder schwimmen, W wie in den Wald gehen bis Z wie Zuhören, was Gott uns alles zu sagen hat.
+
 Alle weiteren Informationen erhaltet ihr im Freizeitbrief, der rechtzeitig vor Freizeitbeginn versandt wird.
 
 > **Besonderer Hinweis:**
