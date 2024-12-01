@@ -20,19 +20,8 @@ warteliste:
 preise:
   - label: Normal
     preis: 10
-anmeldung:
-  hatErlaubnisBoot: false
-  hatErlaubnisFahrrad: false
-  hatErlaubnisSchwimmen: false
-  hatErlaubnisSichEntfernen: false
-  hatFreizeitleitung: false
-  hatErlaubnisKlettern: false
-  hatFahrgemeinschaft: true
-  visible: true
-  hatEssen: true
-  startAt: 2024-12-01T14:00:00Z
-  hatGesundheit: false
-  disabled: false
+
+anmeldung: false
 ---
 Begeistert von Gott reden? – Ein Kinderspiel. So sollte es zumindest sein. Aber auf der Kanzel? Muss ich dann predigen? Am Sonntag? Vor allen? – So ist es gedacht.
 
