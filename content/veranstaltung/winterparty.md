@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 518
 title: Winterparty
 begin: 2025-03-08
 ende: 2025-03-08
