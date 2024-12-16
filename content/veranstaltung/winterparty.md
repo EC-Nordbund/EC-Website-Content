@@ -1,8 +1,8 @@
 ---
 veranstaltungsID: 518
 title: Winterparty
-begin: 2025-03-08
-ende: 2025-03-08
+begin: 2025-02-08
+ende: 2025-02-08
 description: Wir sagen der grauen Zeit den Kampf an! Sei dabei bei der
   Winterparty, wie du sie noch nie gesehen hast!
 featuredImage: veranstaltungen/winterparty_flyer_20241212_134355_0000-0001.jpg
