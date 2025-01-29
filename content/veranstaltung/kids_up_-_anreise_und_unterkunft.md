@@ -37,12 +37,20 @@ anmeldung:
   hatFreizeitleitung: true
   hatErlaubnisKlettern: false
   hatFahrgemeinschaft: true
-  visible: true
+  visible: false
   hatEssen: true
-  startAt: 2024-10-10T14:00:00Z
+  startAt: 2024-10-10T14:00:00.000Z
   hatGesundheit: true
   disabled: false
 ---
+> #### **Das unten stehende Angebot ist abgelaufen.** 
+>
+> ##### Unser Kontingent ist aufgebraucht. 
+>
+> ##### Die Anmeldung zum Kongress ist weiterhin möglich. 
+>
+> ##### Melde dich bei *kinder-referentin@ec-nordbund.de* wenn du Unterstützung bei der Suche nach einer Unterkunft brauchst.
+
 Wir wollen als EC-Nordbund **gemeinsam zum KIDS UP - Kongress** fahren. Dazu haben wir eine Gruppen-Unterkunft reserviert. Zum Kongress selber musst du dich noch gesondert anmelden. Infos dazu findest du weiter unten.
 
 ## Hier kannst du einen Platz in unserer EC-Nordbund-Unterkunft inklusive Frühstück für den Kongress buchen!
