@@ -43,13 +43,13 @@ anmeldung:
   hatGesundheit: true
   disabled: false
 ---
-> #### **Das unten stehende Angebot ist abgelaufen.** 
->
-> ##### Unser Kontingent ist aufgebraucht. 
->
-> ##### Die Anmeldung zum Kongress ist weiterhin möglich. 
->
-> ##### Melde dich bei *kinder-referentin@ec-nordbund.de* wenn du Unterstützung bei der Suche nach einer Unterkunft brauchst.
+## Das unten stehende Angebot ist abgelaufen.
+
+## Unser Kontingent ist aufgebraucht.
+
+## Die Anmeldung zum Kongress ist weiterhin möglich.
+
+## Melde dich bei kinder-referentin@ec-nordbund.de wenn du Unterstützung bei der Suche nach einer Unterkunft brauchst.
 
 Wir wollen als EC-Nordbund **gemeinsam zum KIDS UP - Kongress** fahren. Dazu haben wir eine Gruppen-Unterkunft reserviert. Zum Kongress selber musst du dich noch gesondert anmelden. Infos dazu findest du weiter unten.
 
