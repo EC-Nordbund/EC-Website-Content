@@ -18,7 +18,8 @@ plz: 24361
 ort: Groß Wittensee
 tags:
   - Freizeit
-  - Jahrgang 2012 bis 2016
+  - 8 - 13 Jahre
+  - Für Mädchen
 warteliste:
   allgemein: false
   männlich: false
@@ -47,16 +48,23 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: '2024-12-01T14:00:00Z'
+  startAt: 2024-12-01T14:00:00Z
   hatGesundheit: true
   disabled: false
   jahrgangMin: 2011
 ---
 ## Hufeklappern, Pferdetraben, Springen über Wassergraben
 
-Es geht wieder los! Wir wollen mit euch 5 ganz besondere Tage auf Hof Kirchhorst verbringen, gemeinsam den Hof und die Natur erkunden, lustige Spiele spielen und Gott begegnen. Der Reitspaß kommt natürlich auch nicht zu kurz. Ob bei der Pflege der vielen süßen Ponys oder der täglichen Reitstunde - auf Hof Kirchhorst wartet eine Woche voller Abenteuer auf euch!
+Es geht wieder los! Auch 2025 wollen wir 5 ganz besondere Tage auf Hof Kirchhorst mit euch verbringen, gemeinsam den Hof und die Natur erkunden, lustige Spiele spielen und mehr über Jesus lernen.
 
-Für die Freizeit sind keine Vorkenntnisse im Reiten erforderlich.
+Der Reitspaß kommt natürlich auch nicht zu kurz. Ob bei der Pflege der vielen süßen Ponys oder der täglichen Reitstunde - auf Hof Kirchhorst wartet eine Woche voller Abenteuer auf euch!
 
+Für die Freizeit sind keine Vorkenntnisse im Reiten erforderlich. Die Reitstunden werden von der ausgebildeten Reitlehrerin des Hofes gestaltet und beinhalten grundsätzliche Reiteinheiten, Pferdespiele wie Ringreiten und bei gutem Wetter werden wir die Reithalle auch einmal verlassen ...
+
+Dieses Jahr ist die Freizeit für alle Mädchen zwischen 8 und 13 Jahren. Also: ladet fleißig eure Freundinnen ein und seid bei 5 Tagen purem Pferdefieber dabei.
+
+> **Wichtig:**
+> Auf dem Hof stehen uns ausschließlich Ponys zur Verfügung. (Ponys sind im Gegensatz zu Großpferden kleiner als 1,48m) - darum hat der Reiterhof eine Gewichtsgrenze von 65kg festgelegt, weil die Ponys sonst Rückenschmerzen bekommen. Wir bitten euch bei der Anmeldung diese Hofvorgabe zu beachten.
+>
 > **Besonderer Hinweis:**
-> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2022 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2025 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
