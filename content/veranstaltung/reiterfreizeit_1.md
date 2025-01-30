@@ -18,8 +18,8 @@ plz: 24361
 ort: Groß Wittensee
 tags:
   - Freizeit
-  - 8 - 13 Jahre
   - Für Mädchen
+  - Jahrgang 2012 - 2017
 warteliste:
   allgemein: false
   männlich: false
@@ -44,14 +44,14 @@ anmeldung:
   extraFields: []
   hatFreizeitleitung: true
   hatErlaubnisKlettern: true
-  jahrgangMax: 2015
+  jahrgangMax: 2017
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2024-12-01T14:00:00Z
+  startAt: 2025-02-01T15:00:00+01:00
   hatGesundheit: true
   disabled: false
-  jahrgangMin: 2011
+  jahrgangMin: 2012
 ---
 ## Hufeklappern, Pferdetraben, Springen über Wassergraben
 
@@ -61,7 +61,7 @@ Der Reitspaß kommt natürlich auch nicht zu kurz. Ob bei der Pflege der vielen 
 
 Für die Freizeit sind keine Vorkenntnisse im Reiten erforderlich. Die Reitstunden werden von der ausgebildeten Reitlehrerin des Hofes gestaltet und beinhalten grundsätzliche Reiteinheiten, Pferdespiele wie Ringreiten und bei gutem Wetter werden wir die Reithalle auch einmal verlassen ...
 
-Dieses Jahr ist die Freizeit für alle Mädchen zwischen 8 und 13 Jahren. Also: ladet fleißig eure Freundinnen ein und seid bei 5 Tagen purem Pferdefieber dabei.
+Dieses Jahr ist die Freizeit für alle Mädchen der Jahrgänge 2012-2017. Also: ladet fleißig eure Freundinnen ein und seid bei 5 Tagen purem Pferdefieber dabei.
 
 > **Wichtig:**
 > Auf dem Hof stehen uns ausschließlich Ponys zur Verfügung. (Ponys sind im Gegensatz zu Großpferden kleiner als 1,48m) - darum hat der Reiterhof eine Gewichtsgrenze von 65kg festgelegt, weil die Ponys sonst Rückenschmerzen bekommen. Wir bitten euch bei der Anmeldung diese Hofvorgabe zu beachten.
