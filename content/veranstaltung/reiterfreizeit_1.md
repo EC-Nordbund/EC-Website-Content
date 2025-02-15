@@ -34,13 +34,13 @@ preise:
     begin: 2025-05-01
     ende: 2025-10-20
 anmeldung:
-  hatErlaubnisBoot: true
-  hatErlaubnisFahrrad: true
-  hatErlaubnisSchwimmen: true
+  hatErlaubnisBoot: false
+  hatErlaubnisFahrrad: false
+  hatErlaubnisSchwimmen: false
   hatErlaubnisSichEntfernen: true
   extraFields: []
   hatFreizeitleitung: true
-  hatErlaubnisKlettern: true
+  hatErlaubnisKlettern: false
   jahrgangMax: 2017
   hatFahrgemeinschaft: true
   visible: true
