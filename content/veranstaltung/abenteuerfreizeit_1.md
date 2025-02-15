@@ -1,7 +1,7 @@
 ---
 title: Abenteuerfreizeit
-begin: 2015-10-20
-ende: 2015-10-24
+begin: 2025-10-20
+ende: 2025-10-24
 description: Langeweile abgemeldet!
 featuredImage: veranstaltungen/af-41.jpg
 images:
@@ -22,18 +22,18 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-anzahlung: 25
+anzahlung: 20
 preise:
   - label: Frühbucher
-    ende: 2023-11-30
-    preis: 135
+    ende: 2025-04-30
+    preis: 120
   - label: Normal
-    preis: 148
-    begin: 2023-12-01
-    ende: 2024-08-16
+    preis: 132
+    begin: 2025-05-01
+    ende: 2025-08-22
   - label: Last-Minute
-    begin: 2024-08-17
-    preis: 163
+    begin: 2025-08-23
+    preis: 145
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
