@@ -1,7 +1,7 @@
 ---
 title: Reiterfreizeit
-begin: 2015-10-20
-ende: 2015-10-24
+begin: 2025-10-20
+ende: 2025-10-24
 description: "Ferien auf dem Ponyhof: Spielen, Ponys kennenlernen, Reiten, Gott
   begegnen – Auf die Sattel, fertig, los!"
 featuredImage: veranstaltungen/img_5807.jpg
@@ -27,15 +27,12 @@ warteliste:
 anzahlung: 65
 preise:
   - label: Frühbucher
-    preis: 299
-    ende: 2023-12-31
+    preis: 325
+    ende: 2025-04-30
   - label: Normal
-    preis: 329
-    begin: 2024-01-01
-    ende: 2024-08-16
-  - label: Last-Minute
-    preis: 362
-    begin: 2024-08-17
+    preis: 358
+    begin: 2025-05-01
+    ende: 2025-10-20
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
