@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 520
 title: Abenteuerfreizeit
 begin: 2025-10-20
 ende: 2025-10-24
