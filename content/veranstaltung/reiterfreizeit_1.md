@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 519
 title: Reiterfreizeit
 begin: 2025-10-20
 ende: 2025-10-24
