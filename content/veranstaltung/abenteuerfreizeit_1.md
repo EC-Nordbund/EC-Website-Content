@@ -1,7 +1,8 @@
 ---
+veranstaltungsID: 520
 title: Abenteuerfreizeit
-begin: 2015-10-20
-ende: 2015-10-24
+begin: 2025-10-20
+ende: 2025-10-24
 description: Langeweile abgemeldet!
 featuredImage: veranstaltungen/af-41.jpg
 images:
@@ -22,18 +23,18 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-anzahlung: 25
+anzahlung: 20
 preise:
   - label: Frühbucher
-    ende: 2023-11-30
-    preis: 135
+    ende: 2025-04-30
+    preis: 120
   - label: Normal
-    preis: 148
-    begin: 2023-12-01
-    ende: 2024-08-16
+    preis: 132
+    begin: 2025-05-01
+    ende: 2025-08-22
   - label: Last-Minute
-    begin: 2024-08-17
-    preis: 163
+    begin: 2025-08-23
+    preis: 145
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
@@ -45,7 +46,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: '2024-12-01T14:00:00Z'
+  startAt: 2025-02-01T15:00:00+01:00
   hatGesundheit: true
   disabled: false
   jahrgangMin: 2012
@@ -57,4 +58,4 @@ Geländespiele, schnitzen, Fußball, klettern, Lagerfeuerabende, gemeinsam Herau
 Du siehst selbst: Auf unserer Freizeit für echte Männer unter 13 erwarten dich dieses Jahr wieder jede Menge Spaß und Abenteuer. Also schnell anmelden und einen Platz im Abenteuercamp sichern! 
 
 > **Besonderer Hinweis:**
-> Wir bitten den/die Erziehungsberechtigte/n, ihr Kind nicht anzumelden, wenn es im Jahr 2024 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+> Wir bitten den/die Erziehungsberechtigte/n, ihr Kind nicht anzumelden, wenn es im Jahr 2025 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
