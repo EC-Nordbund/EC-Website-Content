@@ -68,9 +68,13 @@ folders:
           # - filename: 'download/Dokumente/Karlsminde/Preisliste 2022.pdf'
           #   title: Preisliste 2022
           #   description: ''
-          - filename: 'download/Dokumente/Karlsminde/Preisliste 2023.pdf'
-            title: Preisliste 2023
+          # - filename: 'download/Dokumente/Karlsminde/Preisliste 2023.pdf'
+          #   title: Preisliste 2023
+          #   description: ''
+          - filename: 'download/Dokumente/Karlsminde/Preisliste 2025.pdf'
+            title: Preisliste 2025
             description: ''
+
     files:
       - filename: 'download/Dokumente/Datenschutzerklärung Anmeldung v1.pdf'
         title: Datenschutzerklärung Anmeldung v1.pdf
