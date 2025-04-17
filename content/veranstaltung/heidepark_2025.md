@@ -28,13 +28,13 @@ preise:
   - label: Normal
     preis: 52
 anmeldung:
-  hatErlaubnisBoot: false
-  hatErlaubnisFahrrad: false
+  hatErlaubnisBoot: true
+  hatErlaubnisFahrrad: true
   hatErlaubnisSchwimmen: false
-  hatErlaubnisSichEntfernen: false
-  hatFreizeitleitung: false
-  hatErlaubnisKlettern: false
-  hatFahrgemeinschaft: false
+  hatErlaubnisSichEntfernen: true
+  hatFreizeitleitung: true
+  hatErlaubnisKlettern: true
+  hatFahrgemeinschaft: true
   visible: false
   hatEssen: false
   startAt: ""
@@ -57,6 +57,12 @@ Treffpunkt AKN-Bahnhof "Holstentherme", Kaltenkirchen
 Voraussichtliche Abfahrt nach Soltau um 08:00 Uhr.**
 
 Alle restlichen, notwendigen Informationen kommen dann vorab per E-Mail! Bei dringenden Fragen, schreibt uns gerne eine kurze Nachricht an teenager@ec-nordbund.de.
+
+> ## Elterninformationen:
+>
+> Die Teilnehmer werden sich den Tag über auch immer wieder frei und selbstständig innerhalb des Parks bewegen. Es ist keine dauerhafte Begleitung durch eine volljährige Aufsichtsperson gewährleistet.
+
+
 
 **Eine letzte Bitte:**
 Pro Teilnehmer liegt der kostendeckende Preis bei 52€. Um den Preis zu senken, bitten wir den gesamten EC-Nordbund um Hilfe!
