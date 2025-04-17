@@ -71,3 +71,7 @@ Option A: privat-persönlich eine direkte Spende oder
 Option B: in einer Gruppe (z.B. dem EC vor Ort) gemeinsam sammeln und als Sammelspende
 beides an den EC-Nordbund (IBAN xxxx) senden. Bitte "HeidePark 2025" im Verwendungszweck angeben!
 Alles, was wir an Spenden dafür einnehmen, wird selbstverständlich den Preis für jeden Teilnehmer senken!
+
+![Der Flyer zum Weiterleiten](veranstaltungen/whatsapp_image_2025-04-16_at_22.20.09.jpeg "Der Flyer zum Weiterleiten")
+
+![Flyer Rückseite](veranstaltungen/whatsapp_image_2025-04-16_at_22.20.09_1_.jpeg "Flyer Rückseite")
