@@ -62,7 +62,7 @@ Für die Freizeit sind keine Vorkenntnisse im Reiten erforderlich. Die Reitstund
 Dieses Jahr ist die Freizeit für alle Mädchen der Jahrgänge 2012-2017. Also: ladet fleißig eure Freundinnen ein und seid bei 5 Tagen purem Pferdefieber dabei.
 
 > **Wichtig:**
-> Auf dem Hof stehen uns ausschließlich Ponys zur Verfügung. (Ponys sind im Gegensatz zu Großpferden kleiner als 1,48m) - darum hat der Reiterhof eine Gewichtsgrenze von 65kg festgelegt, weil die Ponys sonst Rückenschmerzen bekommen. Wir bitten euch bei der Anmeldung diese Hofvorgabe zu beachten.
+> Auf dem Hof stehen uns ausschließlich Ponys zur Verfügung. (Ponys sind im Gegensatz zu Großpferden kleiner als 1,48m) - darum hat der Reiterhof eine Gewichtsgrenze von 55kg festgelegt, weil die Ponys sonst Rückenschmerzen bekommen. Wir bitten euch bei der Anmeldung diese Hofvorgabe zu beachten.
 >
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2025 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
