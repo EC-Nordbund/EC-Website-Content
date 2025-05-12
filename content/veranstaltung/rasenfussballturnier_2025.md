@@ -1,7 +1,7 @@
 ---
 title: Rasenfußballturnier 2025
-begin: 2025-06-28
-ende: 2025-06-28
+begin: 2025-06-21
+ende: 2025-06-21
 description: Das runde muss ins Eckige...
 featuredImage: veranstaltungen/dsc_0905.jpg
 images:
