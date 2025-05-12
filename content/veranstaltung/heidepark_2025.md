@@ -4,7 +4,7 @@ title: HeidePark 2025
 begin: 2025-05-17
 ende: 2025-05-17
 description: Krasse Achterbahnen, fette Attraktionen, mega Teens
-featuredImage: veranstaltungen/whatsapp_image_2025-04-16_at_22.20.09.jpeg
+featuredImage: veranstaltungen/whatsapp_image_2025-05-09_at_17.10.32.jpeg
 images:
   - veranstaltungen/whatsapp_image_2025-04-16_at_22.20.09.jpeg
   - veranstaltungen/whatsapp_image_2025-04-16_at_22.20.09_1_.jpeg
@@ -63,8 +63,6 @@ Alle restlichen, notwendigen Informationen kommen dann vorab per E-Mail! Bei dri
 >
 > Die Teilnehmer werden sich den Tag über auch immer wieder frei und selbstständig innerhalb des Parks bewegen. Es ist keine dauerhafte Begleitung durch eine volljährige Aufsichtsperson gewährleistet.
 
-
-
 **Eine letzte Bitte:**
 Pro Teilnehmer liegt der kostendeckende Preis bei 52€. Um den Preis zu senken, bitten wir den gesamten EC-Nordbund um Hilfe!
 Wie könnt ihr helfen? 
@@ -73,6 +71,6 @@ Option B: in einer Gruppe (z.B. dem EC vor Ort) gemeinsam sammeln und als Sammel
 beides an den EC-Nordbund (IBAN xxxx) senden. Bitte "HeidePark 2025" im Verwendungszweck angeben!
 Alles, was wir an Spenden dafür einnehmen, wird selbstverständlich den Preis für jeden Teilnehmer senken!
 
-![Der Flyer zum Weiterleiten](veranstaltungen/whatsapp_image_2025-04-16_at_22.20.09.jpeg "Der Flyer zum Weiterleiten")
+![Der Flyer zum Weiterleiten](veranstaltungen/whatsapp_image_2025-05-09_at_17.10.32.jpeg "Der Flyer zum Weiterleiten")
 
-![Flyer Rückseite](veranstaltungen/whatsapp_image_2025-04-16_at_22.20.09_1_.jpeg "Flyer Rückseite")
+![Flyer Rückseite](veranstaltungen/whatsapp_image_2025-05-09_at_17.10.33.jpeg "Flyer Rückseite")
