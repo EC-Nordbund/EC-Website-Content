@@ -17,7 +17,7 @@ strasse: Heide Park 1
 plz: "29614"
 ort: Soltau
 minAlter: 13
-maxAlter: 17
+maxAlter: ""
 tags:
   - Event
   - Teenager
@@ -27,7 +27,7 @@ warteliste:
   weiblich: false
 preise:
   - label: Normal
-    preis: 52
+    preis: 40
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
