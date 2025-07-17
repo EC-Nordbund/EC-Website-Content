@@ -4,6 +4,7 @@ Alle hier verwendeten Namen, Begriffe, Zeichen und Grafiken können Marken- oder
 Die Rechte aller erwähnten und benutzten Marken- und Warenzeichen liegen ausschließlich bei deren Besitzern.
 
 # Vereinsinformationen
+
 ## Referent für Teen- und Jugendarbeit
 **Thomas Seeger**  
 
@@ -11,6 +12,7 @@ Am Hinkenberg 2a,
 22941 Bargteheide  
 E-Mail: referent(at)ec-nordbund.de  
 Telefon: 04532 280 57 03
+
 ## Kinder-Referenin
 **Dortje Gaertner**  
 E-Mail: kinder-referent(at)ec-nordbund.de  
@@ -19,21 +21,26 @@ Telefon: 04122 48 90 36
 ## EC-Nordbund Geschäftsstelle
 **Dennis Müller**  
 
-Moislinger Allee 15a,  
-23558 Lübeck  
+Karl-Loewe-Weg 52,  
+23556 Lübeck  
 E-Mail: info(at)ec-nordbund.de  
 Telefon: 0171 6808570
 
 # Verantwortliche
+
 ## Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV
 Dennis Müller
+
 ## Technischer Ansprechpartner
 Tobias Krause und Sebastian Krüger  
 E-Mail: app(at)ec-nordbund.de
+
 ## Umsetzung
 Tobias Krause, Sebastian Krüger
+
 ## Mitwirkende
 AK-Öffentlichkeitsarbeit (AKÖ)
+
 ## Bildnachweis
 pixabay.com
 
