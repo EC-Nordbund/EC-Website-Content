@@ -1,7 +1,7 @@
 ---
 title: Dartsturnier 2025 - Friedrich-Blecher-Trophy
-begin: 2025-10-11
-ende: 2025-10-11
+begin: 2020-10-11
+ende: 2020-10-11
 description: fünfte Friedrich-Blecher-Trophy
 featuredImage: veranstaltungen/20221002_120301-01.jpeg
 images:
