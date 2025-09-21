@@ -10,9 +10,9 @@ Das neue Schuljahr hat begonnen und wir starten richtig durch. Für die Planung 
 Hier geht's zum Veranstaltungskalender auf ChurchTools:\
 <https://vg-sh.church.tools/?q=churchcal#CalView/>
 
-Die Veranstaltungen aus 2025 sind schon jetzt auf unserer Homepage zur Anmeldung freigeschaltet.
+Die **Freizeiten und Veranstaltungen 2025** sind schon jetzt auf dieser Homepage zur Anmeldung freigeschaltet.
 
-Freizeiten und Veranstaltungen 2026 werden in den nächsten Wochen mit allen Details unter "Veranstaltungen" auf dieser Website zu finden sein. Die Anmeldung für die Sommerfreizeiten 2026 wird (wie gewohnt) im November freigeschaltet.
+**Freizeiten und Veranstaltungen 2026** werden in den nächsten Wochen mit allen Details unter "Veranstaltungen" auf dieser Website zu finden sein. Die Anmeldung für die Sommerfreizeiten 2026 wird (wie gewohnt) im November freigeschaltet.
 
 ![Freizeiten für Kinder](blog/ec-kids_beitrag.png "Freizeiten für Kinder")
 
