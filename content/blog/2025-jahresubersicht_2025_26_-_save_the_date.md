@@ -14,6 +14,8 @@ Die **Freizeiten und Veranstaltungen 2025** sind schon jetzt auf dieser Homepage
 
 **Freizeiten und Veranstaltungen 2026** werden in den nächsten Wochen mit allen Details unter "Veranstaltungen" auf dieser Website zu finden sein. Die Anmeldung für die Sommerfreizeiten 2026 wird (wie gewohnt) im November freigeschaltet.
 
+![Übersicht](blog/termine_202526_beitrag.png "Übersicht")
+
 ![Freizeiten für Kinder](blog/ec-kids_beitrag.png "Freizeiten für Kinder")
 
 ![Freizeiten für Teens und Jugendliche](blog/teens_jugend_beitrag.png "Freizeiten für Teens und Jugendliche")
