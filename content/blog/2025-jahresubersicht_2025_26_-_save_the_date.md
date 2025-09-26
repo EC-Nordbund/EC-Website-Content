@@ -18,7 +18,7 @@ Die **Freizeiten und Veranstaltungen 2025** sind schon jetzt auf dieser Website 
 
 ![Freizeiten für Kinder](blog/ec-kids_beitrag.png "Freizeiten für Kinder")
 
-![Freizeiten für Teens und Jugendliche](blog/teens_jugend_beitrag.png "Freizeiten für Teens und Jugendliche")
+![Freizeiten für Teens und Jugendliche](blog/teens_jugend_beitrag_1_.png "Freizeiten für Teens und Jugendliche")
 
 ![Termine Sportturniere](blog/sportturniere_beitrag.png "Termine Sportturniere")
 
