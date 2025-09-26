@@ -4,7 +4,7 @@ published: 2025-09-19T20:40:72
 description: Das neue Schuljahr hat begonnen und wir starten richtig durch. Für
   die Planung der kommenden Ferien findest du hier eine Übersicht über die
   kommenden EC-Events und Freizeiten - Save the date!
-featuredImage: blog/deine_ec_termine_202526.png
+featuredImage: blog/deine_ec_termine_202526_1_.png
 ---
 Das neue Schuljahr hat begonnen und wir starten richtig durch. Für die Planung der kommenden Ferien gibt es hier einen Link zur Übersicht über die kommenden EC-Events und Freizeiten - Save the date!\
 Hier geht's zum Veranstaltungskalender auf ChurchTools:\
@@ -18,7 +18,7 @@ Die **Freizeiten und Veranstaltungen 2025** sind schon jetzt auf dieser Website 
 
 ![Freizeiten für Kinder](blog/ec-kids_beitrag.png "Freizeiten für Kinder")
 
-![Freizeiten für Teens und Jugendliche](blog/teens_jugend_beitrag.png "Freizeiten für Teens und Jugendliche")
+![Freizeiten für Teens und Jugendliche](blog/teens_jugend_beitrag_1_.png "Freizeiten für Teens und Jugendliche")
 
 ![Termine Sportturniere](blog/sportturniere_beitrag.png "Termine Sportturniere")
 
