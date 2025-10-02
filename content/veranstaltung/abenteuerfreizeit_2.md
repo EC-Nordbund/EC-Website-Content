@@ -42,14 +42,14 @@ anmeldung:
   hatErlaubnisSichEntfernen: true
   hatFreizeitleitung: true
   hatErlaubnisKlettern: true
-  jahrgangMax: 2016
+  jahrgangMax: 2017
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
   startAt: 2025-02-01T15:00:00+01:00
   hatGesundheit: true
   disabled: false
-  jahrgangMin: 2012
+  jahrgangMin: 2013
 ---
 ## Langeweile abgemeldet!
 
@@ -58,4 +58,4 @@ Geländespiele, schnitzen, Fußball, klettern, Lagerfeuerabende, gemeinsam Herau
 Du siehst selbst: Auf unserer Freizeit für echte Männer unter 13 erwarten dich dieses Jahr wieder jede Menge Spaß und Abenteuer. Also schnell anmelden und einen Platz im Abenteuercamp sichern! 
 
 > **Besonderer Hinweis:**
-> Wir bitten den/die Erziehungsberechtigte/n, ihr Kind nicht anzumelden, wenn es im Jahr 2025 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+> Wir bitten den/die Erziehungsberechtigte/n, ihr Kind nicht anzumelden, wenn es im Jahr 2026 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
