@@ -19,7 +19,7 @@ ort: Klein Waabs
 tags:
   - Karlsminde
   - Freizeit
-  - Jahrgang 2012 bis 2016
+  - Jahrgang 2013 bis 2017
 warteliste:
   allgemein: false
   männlich: false
@@ -47,7 +47,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2024-12-01T14:00:00Z
+  startAt: 2024-12-01T14:00:00.000Z
   hatGesundheit: true
   disabled: false
   jahrgangMin: 2013
