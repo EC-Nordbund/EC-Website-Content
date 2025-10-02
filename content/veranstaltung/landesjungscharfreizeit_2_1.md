@@ -55,8 +55,9 @@ anmeldung:
 ---
 ## Sommer. Ferien. Karlsminde.
 
-Mach dich bereit auf zehn Tage voller Spaß und Action! Denn auf dich wartet ein
+Mach dich bereit auf zehn Tage voller Spaß und Action! Denn auf dich wartet ein spannendes Programm: von A wie Abenteuer über B wie Boot fahren oder basteln, F wie Fußball spielen, S wie singen oder schwimmen, W wie in den Wald gehen bis Z wie Zuhören, was Gott uns alles zu sagen hat.
+
 Alle weiteren Informationen erhaltet ihr im Freizeitbrief, der rechtzeitig vor Freizeitbeginn versandt wird.
 
 > **Besonderer Hinweis:**
-> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2024 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2026 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
