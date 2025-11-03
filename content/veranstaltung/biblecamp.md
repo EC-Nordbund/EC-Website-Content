@@ -5,7 +5,7 @@ ende: 2026-04-01
 description: Du hast Sehnsucht danach, biblische Zusammenhänge tiefer zu
   verstehen und ein paar Tage Urlaub in christlicher Gemeinschaft zu genießen?
   Dann bist du hier genau richtig.
-featuredImage: veranstaltungen/biblecamp.png
+featuredImage: veranstaltungen/biblecamp-website.png
 images:
   - veranstaltungen/img_9042.jpg
   - veranstaltungen/biblecamp_7_.jpg
