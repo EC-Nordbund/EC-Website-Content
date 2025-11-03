@@ -5,7 +5,7 @@ ende: 2026-03-01
 description: Du bist Mitarbeiter im EC, oder als Teilnehmer im EC und überlegst,
   ob Mitarbeit etwas für dich sein kann? Dann ist da EC-Mitarbeiterwochenende
   deine Veranstaltung für 2026!
-featuredImage: veranstaltungen/ec-ma-woe.png
+featuredImage: veranstaltungen/ec-ma-we-website.png
 images:
   - veranstaltungen/ec-ma-woe.png
 juleica: true
