@@ -1,5 +1,5 @@
 ---
-title: Teencamp
+title: Teencamp 2026
 begin: 2026-07-04
 ende: 2026-07-14
 description: Wir freuen uns wieder auf ein großartiges Teencamp im den sonnigen
