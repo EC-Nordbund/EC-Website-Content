@@ -27,14 +27,14 @@ warteliste:
 anzahlung: 50
 preise:
   - label: Frühbucher
-    ende: 2024-12-31
+    ende: 2025-12-31
     preis: 250
   - label: Normal
-    begin: 2025-01-01
-    ende: 2025-05-30
+    begin: 2026-01-01
+    ende: 2026-05-30
     preis: 275
   - label: Last-Minute
-    begin: 2025-05-31
+    begin: 2026-05-30
     preis: 300
 anmeldung:
   hatErlaubnisBoot: true
