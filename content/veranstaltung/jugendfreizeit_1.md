@@ -15,7 +15,8 @@ long: "9.948017"
 strasse: Campingplatz, Karlsminde
 plz: "24369 "
 ort: Waabs
-minAlter: 13
+minAlter: 18
+maxAlter: 0
 tags:
   - Freizeit
   - Jugend
@@ -24,7 +25,18 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-preise: []
+preise:
+  - label: Frühbucher
+    preis: 70
+    begin: 2025-11-09
+    ende: 2025-12-31
+  - label: Normal
+    begin: 2026-01-01
+    ende: 2026-06-30
+    preis: 75
+  - label: Last-Minute
+    begin: 2026-07-01
+    preis: 80
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
