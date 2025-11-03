@@ -1,5 +1,5 @@
 ---
-title: Pfingstcamp
+title: Pfingstcamp 2026
 begin: 2026-05-22
 ende: 2026-05-25
 description: Du hast Pfingsten noch nichts vor? Dann schau doch mal, ob das
