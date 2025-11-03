@@ -4,7 +4,7 @@ begin: 2026-08-21
 ende: 2026-08-23
 description: Im August 2026 startet wieder ein Jugendfreizeit, sei mit dabei und
   melde dich an!
-featuredImage: veranstaltungen/jugendfreizeit.png
+featuredImage: veranstaltungen/jugendfreizeit-website.png
 images:
   - veranstaltungen/karlmsinde_c_tobias_krahe.jpg
   - veranstaltungen/1_281_.jpg
