@@ -8,8 +8,7 @@ description: Du hast Sehnsucht danach, biblische Zusammenhänge tiefer zu
 featuredImage: veranstaltungen/biblecamp-website.png
 images:
   - veranstaltungen/img_9042.jpg
-  - veranstaltungen/biblecamp_7_.jpg
-  - veranstaltungen/biblecamp_6_.jpg
+  - veranstaltungen/img_6039.jpg
   - veranstaltungen/biblecamp_1_.jpg
   - veranstaltungen/biblecamp_5_.jpg
 juleica: true
