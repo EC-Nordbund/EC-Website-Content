@@ -1,5 +1,5 @@
 ---
-title: Bibelwerkstatt
+title: Bibelwerkstatt 2026
 begin: 2026-02-21
 ende: 2026-02-21
 description: Wie komme ich von einem Bibeltext zu einer Verkündigung? Um diese
