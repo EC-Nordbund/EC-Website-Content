@@ -26,6 +26,7 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
+anzahlung: 75
 preise:
   - label: Frühbucher
     ende: 2025-12-31
