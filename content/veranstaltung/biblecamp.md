@@ -36,7 +36,7 @@ preise:
     preis: 205
   - label: Last-Minute
     begin: 2026-02-02
-    preis: 223
+    preis: 225
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
