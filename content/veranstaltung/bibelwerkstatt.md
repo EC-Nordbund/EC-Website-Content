@@ -14,7 +14,7 @@ long: "9.990415"
 strasse: Klosterstraße 34
 plz: "24534"
 ort: Neumünster
-minAlter: 14
+minAlter: 16
 maxAlter: 0
 tags: []
 warteliste:
