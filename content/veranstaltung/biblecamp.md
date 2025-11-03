@@ -24,7 +24,7 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-anzahlung: 0
+anzahlung: 35
 preise:
   - label: Frühbucher
     begin: 2025-11-09
