@@ -24,7 +24,10 @@ warteliste:
   männlich: false
   weiblich: false
 anzahlung: 0
-preise: []
+preise:
+  - label: Normal
+    begin: 2025-11-09
+    preis: 70
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
