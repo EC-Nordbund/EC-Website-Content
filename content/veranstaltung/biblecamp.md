@@ -25,7 +25,18 @@ warteliste:
   männlich: false
   weiblich: false
 anzahlung: 0
-preise: []
+preise:
+  - label: Frühbucher
+    begin: 2025-11-09
+    ende: 2025-12-21
+    preis: 185
+  - label: Normal
+    begin: 2025-12-22
+    ende: 2026-02-01
+    preis: 205
+  - label: Last-Minute
+    begin: 2026-02-02
+    preis: 223
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
