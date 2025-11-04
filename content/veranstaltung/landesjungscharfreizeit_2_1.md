@@ -8,8 +8,8 @@ featuredImage: veranstaltungen/dsc_0501-klein.jpg
 images:
   - veranstaltungen/a_dsc_0045.jpg
   - veranstaltungen/a_dsc_0059.jpg
-  - veranstaltungen/img_0120.jpg
-  - veranstaltungen/dsc_0261-klein.jpg
+  - veranstaltungen/ljf2-25_7_.jpg
+  - veranstaltungen/ljf2-25_3_.jpg
 juleica: false
 veranstaltungsort: Karlsminde
 lat: "54.5"
