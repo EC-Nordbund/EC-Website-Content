@@ -27,14 +27,14 @@ warteliste:
 anzahlung: 20
 preise:
   - label: Frühbucher
-    ende: 2025-04-30
+    ende: 2026-05-31
     preis: 120
   - label: Normal
     preis: 132
-    begin: 2025-05-01
-    ende: 2025-08-22
+    begin: 2025-06-01
+    ende: 2026-08-21
   - label: Last-Minute
-    begin: 2025-08-23
+    begin: 2026-08-22
     preis: 145
 anmeldung:
   hatErlaubnisBoot: false
@@ -47,16 +47,16 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2025-02-01T15:00:00+01:00
+  startAt: 2026-04-19T15:00:00+02:00
   hatGesundheit: true
   disabled: false
   jahrgangMin: 2013
 ---
 ## Langeweile abgemeldet!
 
-Geländespiele, schnitzen, Fußball, klettern, Lagerfeuerabende, gemeinsam Herausforderungen meistern – das alles und noch viele weitere Abenteuer erwarten dich dieses Jahr auf unserer Freizeit für echte Männer unter 13. Hier dürfen Jungs auch mal wild, kämpferisch, kreativ, sportlich, ruhig, traurig und auch laut sein. Natürlich wird auch der Zimmermann Jesus dabei sein und wir werden erleben, was er echten Männern zu bieten hat. 
+Geländespiele, schnitzen, Fußball, klettern, Lagerfeuerabende, gemeinsam Herausforderungen meistern – das alles und noch viele weitere Abenteuer erwarten dich dieses Jahr auf unserer Freizeit für Männer unter 13. Hier dürfen Jungs wild, kämpferisch, kreativ, sportlich, ruhig, traurig und auch laut sein. Natürlich wird auch der Zimmermann Jesus dabei sein und wir werden mit ihm Abenteuer erleben!
 
-Du siehst selbst: Auf unserer Freizeit für echte Männer unter 13 erwarten dich dieses Jahr wieder jede Menge Spaß und Abenteuer. Also schnell anmelden und einen Platz im Abenteuercamp sichern! 
+Du siehst selbst: Auf unserer Freizeit für Männer unter 13 erwarten dich dieses Jahr wieder jede Menge Spaß und Abenteuer. Also schnell anmelden und einen Platz auf der Freizeit sichern! 
 
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigte/n, ihr Kind nicht anzumelden, wenn es im Jahr 2026 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
