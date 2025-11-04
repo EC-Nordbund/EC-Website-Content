@@ -41,4 +41,4 @@ Tritt mit deiner EC-Kids-Gruppe in vielen spannenden und actiongeladenen Spielen
 Und wer weiß – vielleicht habt ihr am Ende des Tages ja nicht nur jede Menge gute Laune, sondern auch den Sieger-Wimpel in der Tasche. 
 
 > **Besonderer Hinweis:**\
-> Rechtzeitig vor dem EC-Kids GAME-Day bekommen alle Jungschargruppen noch eine extra Einladung mit genaueren Informationen. Die Anmeldung erfolgt über die Jungscharleitung vor Ort.
+> Rechtzeitig vor dem EC-Kids GAME-Day bekommen alle EC-Kids-Gruppen noch eine extra Einladung mit genaueren Informationen. Die Anmeldung erfolgt über die Gruppen-Leitung vor Ort.
