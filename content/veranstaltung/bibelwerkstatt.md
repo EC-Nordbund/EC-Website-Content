@@ -18,6 +18,7 @@ minAlter: 16
 maxAlter: 0
 tags:
   - Seminar
+  - Juleica
 warteliste:
   allgemein: false
   männlich: false
