@@ -16,7 +16,8 @@ plz: "24534"
 ort: Neumünster
 minAlter: 16
 maxAlter: 0
-tags: []
+tags:
+  - Seminar
 warteliste:
   allgemein: false
   männlich: false
