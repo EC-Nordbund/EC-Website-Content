@@ -1,8 +1,8 @@
 ---
 veranstaltungsID: 519
 title: Reiterfreizeit
-begin: 2025-10-21
-ende: 2025-10-24
+begin: 2026-10-19
+ende: 2026-10-23
 description: "Ferien auf dem Ponyhof: Spielen, Ponys kennenlernen, Reiten, Gott
   begegnen – Auf die Sattel, fertig, los!"
 featuredImage: veranstaltungen/img_5807.jpg
@@ -20,7 +20,7 @@ ort: Groß Wittensee
 tags:
   - Freizeit
   - Für Mädchen
-  - Jahrgang 2012 - 2017
+  - Jahrgang 2013 - 2018
 warteliste:
   allgemein: false
   männlich: false
@@ -42,24 +42,24 @@ anmeldung:
   extraFields: []
   hatFreizeitleitung: true
   hatErlaubnisKlettern: false
-  jahrgangMax: 2017
+  jahrgangMax: 2018
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2025-02-01T15:00:00+01:00
+  startAt: 2026-04-19T15:00:00+02:00
   hatGesundheit: true
   disabled: false
-  jahrgangMin: 2012
+  jahrgangMin: 2013
 ---
 ## Hufeklappern, Pferdetraben, Springen über Wassergraben
 
-Es geht wieder los! Auch 2025 wollen wir 5 ganz besondere Tage auf Hof Kirchhorst mit euch verbringen, gemeinsam den Hof und die Natur erkunden, lustige Spiele spielen und mehr über Jesus lernen.
+Es geht wieder los! Auch 2026 wollen wir 5 ganz besondere Tage auf Hof Kirchhorst mit euch verbringen, gemeinsam den Hof und die Natur erkunden, lustige Spiele spielen und mehr über Jesus lernen.
 
 Der Reitspaß kommt natürlich auch nicht zu kurz. Ob bei der Pflege der vielen süßen Ponys oder der täglichen Reitstunde - auf Hof Kirchhorst wartet eine Woche voller Abenteuer auf euch!
 
 Für die Freizeit sind keine Vorkenntnisse im Reiten erforderlich. Die Reitstunden werden von der ausgebildeten Reitlehrerin des Hofes gestaltet und beinhalten grundsätzliche Reiteinheiten, Pferdespiele wie Ringreiten und bei gutem Wetter werden wir die Reithalle auch einmal verlassen ...
 
-Dieses Jahr ist die Freizeit für alle Mädchen der Jahrgänge 2012-2017. Also: ladet fleißig eure Freundinnen ein und seid bei 5 Tagen purem Pferdefieber dabei.
+Dieses Jahr ist die Freizeit für alle Mädchen der Jahrgänge 2013-2018. Also: ladet fleißig eure Freundinnen ein und seid bei 5 Tagen purem Pferdefieber dabei.
 
 > **Wichtig:**
 > Auf dem Hof stehen uns ausschließlich Ponys zur Verfügung. (Ponys sind im Gegensatz zu Großpferden kleiner als 1,48m) - darum hat der Reiterhof eine Gewichtsgrenze von 55kg festgelegt, weil die Ponys sonst Rückenschmerzen bekommen. Wir bitten euch bei der Anmeldung diese Hofvorgabe zu beachten.
