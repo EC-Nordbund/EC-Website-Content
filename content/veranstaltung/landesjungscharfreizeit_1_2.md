@@ -6,9 +6,9 @@ ende: 2026-07-14
 description: Sommer. Ferien. Karlsminde.
 featuredImage: veranstaltungen/dsci0484.jpg
 images:
-  - veranstaltungen/dsci0247.jpg
-  - veranstaltungen/dsci0466.jpg
-  - veranstaltungen/dsci0105.jpg
+  - veranstaltungen/ljf1-25_1_.jpg
+  - veranstaltungen/ljf1-25_6_.jpg
+  - veranstaltungen/ljf1-25_7_.jpg
 juleica: false
 veranstaltungsort: EC-Ferienlager Karlsminde
 lat: "54.5"
@@ -34,7 +34,7 @@ preise:
     ende: 2026-05-30
     preis: 275
   - label: Last-Minute
-    begin: 2026-05-30
+    begin: 2026-05-31
     preis: 300
 anmeldung:
   hatErlaubnisBoot: true
@@ -47,7 +47,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2024-12-01T14:00:00.000Z
+  startAt: 2025-11-09T15:00:00+01:00
   hatGesundheit: true
   disabled: false
   jahrgangMin: 2013
