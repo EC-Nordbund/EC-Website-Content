@@ -20,6 +20,7 @@ ort: Hartenholm
 tags:
   - Freizeit
   - Jahrgang 2013 bis 2017
+  - Für Jungs
 warteliste:
   allgemein: false
   männlich: false
