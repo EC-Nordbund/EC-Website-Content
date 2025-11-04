@@ -4,11 +4,12 @@ title: Abenteuerfreizeit
 begin: 2026-10-19
 ende: 2026-10-23
 description: Langeweile abgemeldet!
-featuredImage: veranstaltungen/af-41.jpg
+featuredImage: veranstaltungen/af-60.jpg
 images:
-  - veranstaltungen/af-60.jpg
+  - veranstaltungen/af25_2_.jpeg
   - veranstaltungen/af-61.jpg
-  - veranstaltungen/af-21.jpg
+  - veranstaltungen/af25_4_.jpeg
+  - veranstaltungen/af25_6_.jpeg
 juleica: false
 veranstaltungsort: Hartenholm
 lat: "53.918538"
