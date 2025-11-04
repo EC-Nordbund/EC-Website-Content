@@ -2,11 +2,9 @@
 title: EC-Kids GAME-Day 2026
 begin: 2026-06-20
 ende: 2026-06-20
-description: "Ihr wollt den Wimpel? - Dann holt ihn euch! Der EC-Kids GAME-Day
+description: "G wie Gemeinschaft, A wie Action! M wie ... Der EC-Kids GAME-Day
   (Früher: LandesJungscharTag) - ist DAS Event für deine Jungschar, dein
-  Kindertreff, deine Kindergottesdienst-Gruppe, deinen Pfadfinderstamm:
-  Wettkampf-Spiele, Bühnenprogramm mit Liedern, einer Geschichte aus der Bibel
-  und vielem mehr! Spaß und Spannung garantiert."
+  Kindertreff, deine Kindergottesdienst-Gruppe, deinen Pfadfinderstamm!"
 featuredImage: veranstaltungen/6_1_.webp
 images:
   - veranstaltungen/1_1_.webp
@@ -38,7 +36,7 @@ anmeldung:
 ---
 Ihr wollt den Wimpel? - Dann holt ihn euch und zeigt den anderen EC-Kids, was ihr draufhabt! 
 
-Tritt mit deiner EC-Kids-Gruppe in vielen spannenden und actiongeladenen Spielen gegen andere Gruppen an und stellt eure Teamfähigkeit und euer Geschick unter Beweis! Eine Geschichte aus dem Buch der Bücher (der Bibel) darf natürlich auch nicht fehlen. 
+Tritt mit deiner EC-Kids-Gruppe in vielen spannenden und actiongeladenen Spielen gegen andere Gruppen an und stellt eure Teamfähigkeit und euer Geschick unter Beweis! Der Tag ist randvoll gefüllt mit: Wettkampf-Spielen, einem Bühnenprogramm mit Liedern, einer Geschichte aus der Bibel und vielem mehr! Spaß und Spannung garantiert.
 
 Und wer weiß – vielleicht habt ihr am Ende des Tages ja nicht nur jede Menge gute Laune, sondern auch den Sieger-Wimpel in der Tasche. 
 
