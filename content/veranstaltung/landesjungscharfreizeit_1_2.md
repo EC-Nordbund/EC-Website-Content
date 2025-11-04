@@ -9,6 +9,7 @@ images:
   - veranstaltungen/ljf1-25_1_.jpg
   - veranstaltungen/ljf1-25_6_.jpg
   - veranstaltungen/ljf1-25_7_.jpg
+  - veranstaltungen/ljf1-25_2_.jpg
 juleica: false
 veranstaltungsort: EC-Ferienlager Karlsminde
 lat: "54.5"
