@@ -5,7 +5,7 @@ ende: 2026-01-18
 description: Mentoring ist heute eines der wichtigsten Tools, um in der
   Persönlichkeit und im Glauben zu wachsen und sein ganzes Potenzial zu
   entfalten. Der Mentoring-Grundkurs richtet sich an EinsteigerInnen wie auch
-  erfahrene MentorInnen und vermittelt wichtige Grundlagen und methodische
+  erfahrene Mentor/innen und vermittelt wichtige Grundlagen und methodische
   Werkzeuge, um Menschen zu begleiten.
 featuredImage: veranstaltungen/mentoringseminar-churchtools.png
 images: []
@@ -39,7 +39,7 @@ anmeldung:
   hatGesundheit: false
   disabled: false
 ---
-**MENTORING** ist heute eines der wichtigsten Tools, um in der Persönlichkeit und im Glauben zu wachsen und sein ganzes Potenzial zu entfalten. Der Mentoring-Grundkurs richtet sich an EinsteigerInnen wie auch erfahrene MentorInnen und vermittelt wichtige Grundlagen und methodische Werkzeuge, um Menschen zu begleiten. Zudem zeigt der Kurs Wege auf, Mentoring in der Jugendarbeit oder Gemeinde dauerhaft zu verankern, um mündigen Glauben zu fördern.
+**MENTORING** ist heute eines der wichtigsten Tools, um in der Persönlichkeit und im Glauben zu wachsen und sein ganzes Potenzial zu entfalten. Der Mentoring-Grundkurs richtet sich an EinsteigerInnen wie auch erfahrene Mentor/innen und vermittelt wichtige Grundlagen und methodische Werkzeuge, um Menschen zu begleiten. Zudem zeigt der Kurs Wege auf, Mentoring in der Jugendarbeit oder Gemeinde dauerhaft zu verankern, um mündigen Glauben zu fördern.
 
 **INHALT**
 
