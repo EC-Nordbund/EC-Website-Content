@@ -35,7 +35,7 @@ preise:
     ende: 2026-05-30
     preis: 275
   - label: Last-Minute
-    begin: 2026-05-30
+    begin: 2026-05-31
     preis: 300
 anmeldung:
   hatErlaubnisBoot: true
