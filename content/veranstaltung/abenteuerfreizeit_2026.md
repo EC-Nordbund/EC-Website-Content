@@ -1,5 +1,4 @@
 ---
-veranstaltungsID: 520
 title: Abenteuerfreizeit
 begin: 2026-10-19
 ende: 2026-10-23
@@ -8,7 +7,7 @@ featuredImage: veranstaltungen/abenteuerfreizeit-webite.png
 images:
   - veranstaltungen/af25_2_.jpeg
   - veranstaltungen/af-60.webp
-  - veranstaltungen/af25_4_.jpeg
+  - veranstaltungen/af25_4_.jpeg  
   - veranstaltungen/af25_6_.jpeg
 juleica: false
 veranstaltungsort: Hartenholm
