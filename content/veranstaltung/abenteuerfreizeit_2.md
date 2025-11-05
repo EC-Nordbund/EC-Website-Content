@@ -4,7 +4,7 @@ title: Abenteuerfreizeit
 begin: 2026-10-19
 ende: 2026-10-23
 description: Langeweile abgemeldet!
-featuredImage: veranstaltungen/af-60.jpg
+featuredImage: veranstaltungen/abenteuerfreizeit-webite.png
 images:
   - veranstaltungen/af25_2_.jpeg
   - veranstaltungen/af-61.jpg
