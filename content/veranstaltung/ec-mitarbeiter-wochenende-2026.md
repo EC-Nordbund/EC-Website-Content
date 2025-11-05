@@ -1,6 +1,6 @@
 ---
 veranstaltungsID: 533
-title: EC-Mitarbeiter-Wochenende
+title: EC-Mitarbeiter-Wochenende 2026
 begin: 2026-02-27
 ende: 2026-03-01
 description: Du bist Mitarbeiter im EC, oder als Teilnehmer im EC und überlegst,
