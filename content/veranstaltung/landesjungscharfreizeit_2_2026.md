@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: 515
+veranstaltungsID: 531
 title: Landesjungscharfreizeit 2
 begin: 2026-08-03
 ende: 2026-08-13
