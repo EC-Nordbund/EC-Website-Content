@@ -1,6 +1,6 @@
 ---
 veranstaltungsID: 536
-title: Jugendfreizeit
+title: Jugendfreizeit 2026
 begin: 2026-08-21
 ende: 2026-08-23
 description: Im August 2026 startet wieder ein Jugendfreizeit, sei mit dabei und
