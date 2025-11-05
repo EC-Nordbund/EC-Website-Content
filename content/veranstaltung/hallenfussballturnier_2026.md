@@ -4,7 +4,7 @@ begin: 2026-11-21
 ende: 2026-11-21
 description: Für alle Fußballfans, die auch im Winter spielen wollen, ist dieses
   Turnier genau das Richtige!
-featuredImage: veranstaltungen/hallenfussballturnier-website.png
+featuredImage: veranstaltungen/hallenfussballturnier-website.jpg
 juleica: false
 veranstaltungsort: wird rechtzeitig bekannt gegeben
 lat: 0
