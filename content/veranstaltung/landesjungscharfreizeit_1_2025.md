@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: 514
+veranstaltungsID: 530
 title: Landesjungscharfreizeit 1
 begin: 2026-07-04
 ende: 2026-07-14
