@@ -7,7 +7,7 @@ description: Langeweile abgemeldet!
 featuredImage: veranstaltungen/abenteuerfreizeit-webite.png
 images:
   - veranstaltungen/af25_2_.jpeg
-  - veranstaltungen/af-61.jpg
+  - veranstaltungen/af-60.webp
   - veranstaltungen/af25_4_.jpeg
   - veranstaltungen/af25_6_.jpeg
 juleica: false
