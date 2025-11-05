@@ -4,7 +4,7 @@ title: Landesjungscharfreizeit 1
 begin: 2026-07-04
 ende: 2026-07-14
 description: Sommer. Ferien. Karlsminde.
-featuredImage: veranstaltungen/dsci0484.jpg
+featuredImage: veranstaltungen/ljf1-website.png
 images:
   - veranstaltungen/ljf1-25_1_.jpg
   - veranstaltungen/ljf1-25_6_.jpg
