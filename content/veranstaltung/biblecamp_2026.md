@@ -1,6 +1,6 @@
 ---
 veranstaltungsID: 534
-title: Biblecamp
+title: Biblecamp 2026
 begin: 2026-03-26
 ende: 2026-04-01
 description: Du hast Sehnsucht danach, biblische Zusammenhänge tiefer zu
