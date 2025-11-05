@@ -1,5 +1,6 @@
 ---
-title: Teencamp 2026
+veranstaltungsID: 532
+title: Teencamp
 begin: 2026-07-04
 ende: 2026-07-14
 description: Wir freuen uns wieder auf ein großartiges Teencamp im den sonnigen
