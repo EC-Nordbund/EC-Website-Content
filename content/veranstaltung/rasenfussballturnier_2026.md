@@ -31,7 +31,6 @@ anmeldung:
   hatGesundheit: false
   disabled: false
 ---
-Man muss nicht Profi sein. \
-Bei uns sind Mannschaften jeder Spielklasse willkommen und bisher kamen alle immer auf ihre Kosten. Wir wollen uns in richtig guter Atmosphäre ordentlich austoben. Und wenn zum Schluss jemand gewinnt, ist uns das auch recht. Also komm gerne mit deinem Teen oder Jugendkreis dazu, auch wenn ihr nicht regelmäßig zusammen spielt. \
+Man muss nicht Profi sein.  Bei uns sind Mannschaften jeder Spielklasse willkommen und bisher kamen alle immer auf ihre Kosten. Wir wollen uns in richtig guter Atmosphäre ordentlich austoben. Und wenn zum Schluss jemand gewinnt, ist uns das auch recht. Also komm gerne mit deinem Teen oder Jugendkreis dazu, auch wenn ihr nicht regelmäßig zusammen spielt. \
 Ladet gerne Freunde ein und bringt sie mit zum Fußballturnier des EC-Nordbundes... \
 Weitere Infos folgen.
