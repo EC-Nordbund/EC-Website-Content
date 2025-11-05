@@ -4,7 +4,7 @@ begin: 2026-06-13
 ende: 2026-06-13
 description: Ein ordentliches Fußballturnier darf im EC natürlich nicht fehlen,
   Deshalb sei auch du dabei und stelle eine Mannschaft!
-featuredImage: veranstaltungen/fussballturnier-website.png
+featuredImage: veranstaltungen/fussballturnier2025-website.png
 juleica: false
 veranstaltungsort: wird rechtzeitig bekannt gegeben
 lat: 0
