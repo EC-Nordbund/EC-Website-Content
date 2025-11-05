@@ -2,8 +2,8 @@
 title: Bibelwerkstatt 2026
 begin: 2026-02-21
 ende: 2026-02-21
-description: Wie komme ich von einem Bibeltext zu einer Verkündigung? Um diese
-  und viele weitere Fragen geht es bei der Bibelwerkstatt.
+description: Wie komme ich von einem Bibeltext zu einer Verkündigung? Darum geht
+  es bei der Bibelwerkstatt.
 featuredImage: veranstaltungen/bibelwerkstatt-website.png
 images:
   - veranstaltungen/img_6039.jpg
