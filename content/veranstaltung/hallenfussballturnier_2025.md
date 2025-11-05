@@ -6,7 +6,7 @@ description: "Egal, ob ihr hochambitioniert und semiprofessionell seid, oder ob
   euer Teenkreis einen Ausflug mit etwas sportlicher Betätigung sucht: Wir
   freuen uns auf einen Tag bester Gemeinschaft. Und etwas Sport wird es
   sicherlich auch geben! ;)"
-featuredImage: veranstaltungen/hallenfussballturnier-website.png
+featuredImage: veranstaltungen/rasenfussballturnier-website.png
 images:
   - veranstaltungen/elmshorn_luebeck-3_ecke.jpg
   - veranstaltungen/pokale.jpg
