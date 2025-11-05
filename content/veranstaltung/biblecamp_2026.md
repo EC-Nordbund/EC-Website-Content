@@ -1,5 +1,6 @@
 ---
-title: Biblecamp 2026
+veranstaltungsID: 534
+title: Biblecamp
 begin: 2026-03-26
 ende: 2026-04-01
 description: Du hast Sehnsucht danach, biblische Zusammenhänge tiefer zu
@@ -28,7 +29,7 @@ anzahlung: 35
 preise:
   - label: Frühbucher
     begin: 2025-11-09
-    ende: 2025-12-21
+    ende: 2025-12-31
     preis: 185
   - label: Normal
     begin: 2025-12-22
