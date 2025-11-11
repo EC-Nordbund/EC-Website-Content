@@ -6,7 +6,7 @@ jobs:
   compress:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v5
     - uses: pnpm/action-setup@41ff72655975bd51cab0327fa583b6e92b6d3061
       with:
         version: 6.27.1
