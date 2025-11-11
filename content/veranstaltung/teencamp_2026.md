@@ -40,12 +40,12 @@ preise:
     begin: 2026-05-18
     preis: 480
 anmeldung:
-  hatErlaubnisBoot: false
-  hatErlaubnisFahrrad: false
-  hatErlaubnisSchwimmen: false
+  hatErlaubnisBoot: true
+  hatErlaubnisFahrrad: true
+  hatErlaubnisSchwimmen: true
   hatErlaubnisSichEntfernen: true
   hatFreizeitleitung: true
-  hatErlaubnisKlettern: false
+  hatErlaubnisKlettern: true
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
