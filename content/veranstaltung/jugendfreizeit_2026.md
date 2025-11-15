@@ -17,7 +17,7 @@ strasse: Campingplatz, Karlsminde
 plz: "24369 "
 ort: Waabs
 minAlter: 18
-maxAlter: 0
+maxAlter: 27
 tags:
   - Freizeit
   - Jugend
