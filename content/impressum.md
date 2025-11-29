@@ -17,7 +17,7 @@ Telefon: 01573 676 3193
 **Kirke Husberg**  
 Langstücken 1  
 24358 Ascheffel  
-E-Mail: kirke.husberg(at)ec-nordbund.de
+E-Mail: kirke.husberg(at)ec-nordbund.de  
 Telefon: 04353 99 88 33 0
 
 ## Kinder-Referenin
