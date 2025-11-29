@@ -5,17 +5,24 @@ Die Rechte aller erwähnten und benutzten Marken- und Warenzeichen liegen aussch
 
 # Vereinsinformationen
 
-## Referent für Teen- und Jugendarbeit
-**Thomas Seeger**  
+## Referenten für Teen- und Jugendarbeit
+**Tobias Krahe**  
 
-Am Hinkenberg 2a,  
-22941 Bargteheide  
-E-Mail: referent(at)ec-nordbund.de  
-Telefon: 04532 280 57 03
+Flamweg 106  
+25335 Elmshorn  
+E-Mail: tobias.krahe(at)ec-nordbund.de  
+Telefon: 01573 676 3193  
+
+
+**Kirke Husberg**  
+Langstücken 1  
+24358 Ascheffel  
+E-Mail: kirke.husberg(at)ec-nordbund.de
+Telefon: 04353 99 88 33 0
 
 ## Kinder-Referenin
 **Dortje Gaertner**  
-E-Mail: kinder-referent(at)ec-nordbund.de  
+E-Mail: dortje.gaertner(at)ec-nordbund.de  
 Telefon: 04122 48 90 36
 
 ## EC-Nordbund Geschäftsstelle
