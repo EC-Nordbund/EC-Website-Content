@@ -2,7 +2,7 @@
 title: Busfahrt zum EC-Festival
 begin: 2026-04-30
 ende: 2026-05-03
-description: Wir wollen gemeinsam zum EC-Festival fahren. Dafür fahren wir
+description: Wir wollen zusammen zum EC-Festival fahren. Dafür fahren wir
   gemeinsam mit dem Reisebus nach Baunatal und lassen das EC-Festival für uns
   schon in Kaltenkirchen beginnen.
 featuredImage: veranstaltungen/ec-festival-website.png
