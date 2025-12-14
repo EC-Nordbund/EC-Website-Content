@@ -38,7 +38,7 @@ anmeldung:
 Wir wollen zusammen zum EC-Festival fahren.\
 Dafür fahren wir gemeinsam mit dem Reisebus nach Baunatal und das Beste ist, es ist für dich sogar kostenfrei!\
 Die Fahrtkosten von ca. 75€/pro Person übernimmt der EC. \
-Falls du dich an diesen Kosten beteiligen willst und kannst, freuen wir uns trotzdem über eine Spende.\
+Falls du dich an diesen Kosten beteiligen willst und kannst, freuen wir uns über eine Spende.\
 \
 Die A﻿bfahrt des Busses wird dafür gegen 12:30 in Kaltenkirchen s﻿ein, damit wir pünktlich zum Abendessen in Baunatal sind. Bitte bedenke, dass dafür vermutlich eine Schulbefreiung für dich nötig ist.\
 \
