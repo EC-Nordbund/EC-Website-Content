@@ -30,7 +30,7 @@ anmeldung:
   hatFahrgemeinschaft: false
   visible: false
   hatEssen: false
-  startAt: 2025-12-27T18:50:81+01:00
+  startAt: 2025-12-14T11:35:32+01:00
   hatGesundheit: false
   disabled: false
   jahrgangMin: 1901
