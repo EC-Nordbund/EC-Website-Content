@@ -35,9 +35,13 @@ anmeldung:
   disabled: false
   jahrgangMin: 1901
 ---
-Wir wollen gemeinsam zum EC-Festival fahren. \
-Dafür fahren wir gemeinsam mit dem Reisebus nach Baunatal und das Beste es, es ist für dich sogar kostenlos!\
-Wir werden die Buskosten von ca. 75€ pro Person über Spenden finanzieren, wenn du dich an diesen Kosten beteiligen willst, freuen wir uns darüber. 
-
+Wir wollen zusammen zum EC-Festival fahren.\
+Dafür fahren wir gemeinsam mit dem Reisebus nach Baunatal und das Beste ist, es ist für dich sogar kostenfrei!\
+Die Fahrtkosten von ca. 75€/pro Person übernimmt der EC. \
+Falls du dich an diesen Kosten beteiligen willst und kannst, freuen wir uns über eine Spende. \
 \
-Die A﻿bfahrt des Busses wird dafür gegen 12:30 in Kaltenkirchen s﻿ein, damit wir pünktlich zum Abendessen in Baunatal sind. Bitte bedenke, dass dafür vermutlich eine Schulbefreiung für dich von Nöten ist.
+Die A﻿bfahrt des Busses wird dafür gegen 12:30 in Kaltenkirchen s﻿ein, damit wir pünktlich zum Abendessen in Baunatal sind. Bitte bedenke, dass dafür vermutlich eine Schulbefreiung für dich nötig ist.\
+\
+**W﻿ICHTIG**: Die Anmeldung zum EC-Festival musst du selbst durchführen. Du findest sie hier: <https://festival.ec.de/>\
+B﻿is zum 31.12.2026 gilt noch der Frühbucherrabatt von 139€ (für EC-Mitglieder 129€). G﻿ib dazu den Gruppencode 63634 an, damit wir eine gemeinsame Unterkunft in den Klassenzimmern beziehen können.\
+Melde dich einfach direkt nach der Anmeldung zum EC-Festival bei uns zur gemeinsamen Busanreise an, die Plätze sind begrenzt, aber bei frühen Anmeldungen können wir noch aufstocken.
