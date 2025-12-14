@@ -9,6 +9,7 @@ juleica: false
 veranstaltungsort: Baunatal
 lat: "51.25641546633057"
 long: "9.401844272237655"
+minAlter: 14
 tags:
   - EC-Festival
   - Jugend
@@ -31,6 +32,7 @@ anmeldung:
   startAt: 2025-12-27T18:50:81+01:00
   hatGesundheit: false
   disabled: false
+  jahrgangMin: 1901
 ---
 Wir wollen gemeinsam zum EC-Festival fahren. \
 Dafür fahren wir gemeinsam mit dem Reisebus nach Baunatal und das Beste es, es ist für dich sogar kostenlos!\
