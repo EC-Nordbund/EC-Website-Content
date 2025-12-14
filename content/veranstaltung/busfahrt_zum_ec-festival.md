@@ -44,4 +44,4 @@ Die A﻿bfahrt des Busses wird dafür gegen 12:30 in Kaltenkirchen s﻿ein, dami
 \
 **W﻿ICHTIG**: Die Anmeldung zum EC-Festival musst du selbst durchführen. Du findest sie hier: <https://festival.ec.de/>\
 B﻿is zum 31.12.2026 gilt noch der Frühbucherrabatt von 139€ (für EC-Mitglieder 129€). G﻿ib dabei den Gruppencode 63634 an, damit wir eine gemeinsame Unterkunft in den Klassenzimmern beziehen können. \
-Melde dich einfach direkt nach der Anmeldung zum EC-Festival bei uns zur gemeinsamen Busanreise an, die Plätze sind begrenzt, aber bei frühen Anmeldungen können wir das Kontingent bei Bedarf noch aufstocken.
+Melde dich einfach direkt nach der Anmeldung zum EC-Festival bei uns zur gemeinsamen Busanreise an. Denn je früher wir sehen, wie viele Plätze wir wirklich brauchen, desto einfacher wird es für uns, das benötigte Kontingent zu erhöhen und jeden mitzunehmen, der zum EC-Festival fährt.
