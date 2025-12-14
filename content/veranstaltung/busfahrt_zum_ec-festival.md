@@ -10,7 +10,7 @@ juleica: false
 veranstaltungsort: Baunatal
 lat: "51.25641546633057"
 long: "9.401844272237655"
-minAlter: 14
+minAlter: 13
 tags:
   - EC-Festival
   - Jugend
