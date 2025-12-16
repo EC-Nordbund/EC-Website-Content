@@ -33,7 +33,7 @@ anmeldung:
   startAt: 2025-12-14T11:35:32+01:00
   hatGesundheit: false
   disabled: false
-  jahrgangMin: 1901
+  jahrgangMin: 1900
 ---
 Wir wollen zusammen zum EC-Festival fahren.\
 Dafür fahren wir gemeinsam mit dem Reisebus nach Baunatal und das Beste ist, es ist für dich sogar kostenfrei!\
