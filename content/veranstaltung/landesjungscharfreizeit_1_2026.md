@@ -24,7 +24,7 @@ tags:
 warteliste:
   allgemein: false
   männlich: false
-  weiblich: false
+  weiblich: true
 anzahlung: 50
 preise:
   - label: Frühbucher
