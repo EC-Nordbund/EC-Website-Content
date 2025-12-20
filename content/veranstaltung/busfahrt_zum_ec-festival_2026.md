@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 517
 title: Busfahrt zum EC-Festival
 begin: 2026-04-30
 ende: 2026-05-03
