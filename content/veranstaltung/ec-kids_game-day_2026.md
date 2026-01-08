@@ -2,9 +2,10 @@
 title: EC-Kids GAME-Day 2026
 begin: 2026-06-20
 ende: 2026-06-20
-description: "G wie Gemeinschaft, A wie Action! M wie ... Der EC-Kids GAME-Day
-  (Früher: LandesJungscharTag) - ist DAS Event für deine Jungschar, dein
-  Kindertreff, deine Kindergottesdienst-Gruppe, deinen Pfadfinderstamm!"
+description: "G wie Glauben, A wie Aktiv! M wie Miteinander! E wie Erleben! -
+  Glauben aktiv miteinander erleben, beim EC-Kids GAME-Day (Früher:
+  LandesJungscharTag)! DAS Event für deine Jungschar, deinen Kindertreff, deine
+  Kindergottesdienst-Gruppe, deinen Pfadfinderstamm... !"
 featuredImage: veranstaltungen/6_1_.webp
 images:
   - veranstaltungen/1_1_.webp
@@ -34,11 +35,11 @@ anmeldung:
   hatGesundheit: false
   disabled: false
 ---
-Ihr wollt den Wimpel? - Dann holt ihn euch und zeigt den anderen EC-Kids, was ihr draufhabt! 
+G wie Glauben, A wie Aktiv! M wie Miteinander! E wie Erleben! ... - Glauben aktiv miteinander erleben beim EC-Kids GAME-Day! (früher: LandesJungscharTag)
 
-Tritt mit deiner EC-Kids-Gruppe in vielen spannenden und actiongeladenen Spielen gegen andere Gruppen an und stellt eure Teamfähigkeit und euer Geschick unter Beweis! Der Tag ist randvoll gefüllt mit: Wettkampf-Spielen, einem Bühnenprogramm mit Liedern, einer Geschichte aus der Bibel und vielem mehr! Spaß und Spannung garantiert.
+Der Tag ist randvoll gefüllt mit GAMEs: Wettkampf-Spiele, ein Bühnenprogramm mit Liedern und einer Geschichte aus der Bibel, Workshops und vielem mehr! Spaß und Spannung garantiert.
 
-Und wer weiß – vielleicht habt ihr am Ende des Tages ja nicht nur jede Menge gute Laune, sondern auch den Sieger-Wimpel in der Tasche. 
+Tritt mit deiner EC-Kids-Gruppe in vielen spannenden und actiongeladenen Spielen gegen andere Gruppen an und stellt eure Teamfähigkeit und euer Geschick unter Beweis! Und wer weiß – vielleicht habt ihr am Ende des Tages ja nicht nur jede Menge gute Laune, sondern auch den Sieger-Wimpel in der Tasche. 
 
 > **Besonderer Hinweis:**\
 > Rechtzeitig vor dem EC-Kids GAME-Day bekommen alle EC-Kids-Gruppen noch eine extra Einladung mit genaueren Informationen. Die Anmeldung erfolgt über die Gruppen-Leitung vor Ort.
