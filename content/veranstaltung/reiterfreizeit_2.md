@@ -5,7 +5,7 @@ begin: 2026-10-19
 ende: 2026-10-23
 description: "Ferien auf dem Ponyhof: Spielen, Ponys kennenlernen, Reiten, Gott
   begegnen – Auf die Sattel, fertig, los!"
-featuredImage: veranstaltungen/img_5807.jpg
+featuredImage: veranstaltungen/reiterfreizeit-website.png
 images:
   - veranstaltungen/img-20241106-wa0001.jpg
   - veranstaltungen/img-20241106-wa0006.jpg
@@ -65,4 +65,4 @@ Dieses Jahr ist die Freizeit für alle Mädchen der Jahrgänge 2013-2018. Also: 
 > Auf dem Hof stehen uns ausschließlich Ponys zur Verfügung. (Ponys sind im Gegensatz zu Großpferden kleiner als 1,48m) - darum hat der Reiterhof eine Gewichtsgrenze von 55kg festgelegt, weil die Ponys sonst Rückenschmerzen bekommen. Wir bitten euch bei der Anmeldung diese Hofvorgabe zu beachten.
 >
 > **Besonderer Hinweis:**
-> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2025 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2026 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
