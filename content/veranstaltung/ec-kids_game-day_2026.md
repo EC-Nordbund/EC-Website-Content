@@ -6,7 +6,7 @@ description: "G wie Glauben, A wie Aktiv! M wie Miteinander! E wie Erleben! -
   Glauben aktiv miteinander erleben, beim EC-Kids GAME-Day (Früher:
   LandesJungscharTag)! DAS Event für deine Jungschar, deinen Kindertreff, deine
   Kindergottesdienst-Gruppe, deinen Pfadfinderstamm... !"
-featuredImage: veranstaltungen/6_1_.webp
+featuredImage: veranstaltungen/ec-kids_game-day_-_website.png
 images:
   - veranstaltungen/1_1_.webp
 juleica: false
