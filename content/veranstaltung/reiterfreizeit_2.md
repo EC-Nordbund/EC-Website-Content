@@ -25,13 +25,13 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-anzahlung: 65
+anzahlung: 70
 preise:
   - label: Frühbucher
-    preis: 325
+    preis: 340
     ende: 2025-04-30
   - label: Normal
-    preis: 358
+    preis: 370
     begin: 2025-05-01
     ende: 2025-10-20
 anmeldung:
