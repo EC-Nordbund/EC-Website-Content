@@ -1,9 +1,7 @@
 ---
 title: Hallenfußballturnier 2025
 published: 2025-11-23T15:11:89
-description: |-
-  Einmal im Jahr rollt der Ball über den Rasen und einmal über den Hallenboden.
-  11 Teams kämpften um die Pokale.
+description: 11 Teams, 3 Pokale, 2 Tore, 1 Ball
 featuredImage: blog/hallenturnier-28.jpg
 ---
 „Fußball ist einfach: Rein das Ding – und der Rest ergibt sich.“ - Lukas Podolski wusste schon immer, worauf es ankommt.
