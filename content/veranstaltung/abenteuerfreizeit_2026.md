@@ -7,7 +7,7 @@ featuredImage: veranstaltungen/abenteuerfreizeit-webite.png
 images:
   - veranstaltungen/af25_2_.jpeg
   - veranstaltungen/af-60.webp
-  - veranstaltungen/af25_4_.jpeg  
+  - veranstaltungen/af25_4_.jpeg
   - veranstaltungen/af25_6_.jpeg
 juleica: false
 veranstaltungsort: Hartenholm
@@ -31,7 +31,7 @@ preise:
     preis: 120
   - label: Normal
     preis: 132
-    begin: 2025-06-01
+    begin: 2026-06-01
     ende: 2026-08-21
   - label: Last-Minute
     begin: 2026-08-22
