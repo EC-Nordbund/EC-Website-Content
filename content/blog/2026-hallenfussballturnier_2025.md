@@ -11,6 +11,10 @@ featuredImage: blog/hallenturnier-28.jpg
 Am **22.11.2025** lief in **Elmshorn** das Hallenfußballturnier des **EC-Nordbunds**.\
 **11 Teams** aus ganz SH. viele enge Spiele und jede Menge Einsatz.
 
+![](blog/hallenturnier-39.webp)
+
+![](blog/hallenturnier-37.webp)
+
 Der **EC Barmstedt** war an dem Tag schwer zu stoppen und holte sich verdient **Platz 1 und 2**\
 **Kaltenkirchen/Ratzeburg** ging nach einem starken Auftritt als Sieger aus dem Spiel um **Platz 3**.
 
