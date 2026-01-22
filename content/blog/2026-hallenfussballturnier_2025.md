@@ -8,6 +8,8 @@ featuredImage: blog/hallenturnier-28.jpg
 ---
 „Fußball ist einfach: Rein das Ding – und der Rest ergibt sich.“ - Lukas Podolski wusste schon immer, worauf es ankommt.
 
+![](blog/hallenturnier-22.webp)
+
 Am **22.11.2025** lief in **Elmshorn** das Hallenfußballturnier des **EC-Nordbunds**.\
 **11 Teams** aus ganz SH. viele enge Spiele und jede Menge Einsatz.
 
