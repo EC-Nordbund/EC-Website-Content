@@ -29,11 +29,11 @@ anzahlung: 70
 preise:
   - label: Frühbucher
     preis: 340
-    ende: 2025-04-30
+    ende: 2026-05-31
   - label: Normal
     preis: 370
-    begin: 2025-05-01
-    ende: 2025-10-20
+    begin: 2026-06-01
+    ende: ""
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
