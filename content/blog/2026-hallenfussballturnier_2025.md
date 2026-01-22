@@ -9,7 +9,7 @@ featuredImage: blog/hallenturnier-28.jpg
 ![](blog/hallenturnier-22.webp)
 
 Am **22.11.2025** lief in **Elmshorn** das Hallenfußballturnier des **EC-Nordbunds**.\
-**11 Teams** aus ganz SH. viele enge Spiele und jede Menge Einsatz.
+**11 Teams** aus ganz SH. viele knappe Spiele und jede Menge Einsatz.
 
 ![](blog/hallenturnier-39.webp)
 
