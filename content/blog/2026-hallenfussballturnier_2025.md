@@ -15,7 +15,10 @@ Am **22.11.2025** lief in **Elmshorn** das Hallenfußballturnier des **EC-N
 
 ![](blog/hallenturnier-37.webp)
 
-Der **EC Barmstedt** war an dem Tag schwer zu stoppen und holte sich verdient **Platz 1 und 2**\
+Der **EC Barmstedt** war an dem Tag schwer zu stoppen und holte sich verdient **Platz 1 und 2**
+
+![](blog/hallenturnier-34.webp)
+
 **Kaltenkirchen/Ratzeburg** ging nach einem starken Auftritt als Sieger aus dem Spiel um **Platz 3**.
 
 Danke an alle Teams und alle, die organisiert, gepfiffen und angefeuert haben. ⚽️
