@@ -24,7 +24,7 @@ tags:
   - Freizeit
   - Teens
 warteliste:
-  allgemein: false
+  allgemein: true
   männlich: false
   weiblich: false
 anzahlung: 75
