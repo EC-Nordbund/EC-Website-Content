@@ -5,10 +5,11 @@ begin: 2026-10-18
 ende: 2026-10-24
 description: "Deine Grund-Ausbildung für die Mitarbeit in Kinder- und
   Jugendgruppen und auf Freizeiten. "
-featuredImage: veranstaltungen/20241101_163501.jpg
+featuredImage: veranstaltungen/juleia-website.png
 images:
   - veranstaltungen/dsc_6779.jpg
   - veranstaltungen/dsc_6789.jpg
+  - veranstaltungen/20241101_163501.jpg
 juleica: true
 veranstaltungsort: Erholungs- und Bildungszentrum Wittensee
 lat: "54.36979371773461"
@@ -26,17 +27,7 @@ warteliste:
   männlich: false
   weiblich: false
 anzahlung: 60
-preise:
-  - label: Frühbucher
-    ende: 2024-12-31
-    preis: 306
-  - label: Normal
-    begin: 2025-01-01
-    ende: 2025-08-22
-    preis: 340
-  - label: Last-Minute
-    begin: 2025-08-23
-    preis: 374
+preise: []
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
@@ -51,6 +42,7 @@ anmeldung:
   hatGesundheit: true
   disabled: false
 ---
-Im EC bauen wir auf ehrenamtliche Mitarbeiter. Da ist es auch Ehrensache, dass wir unsere Mitarbeiter so fit wie möglich machen. Deshalb wollen wir dir mit diesem abwechslungsreichen Lehrgang ganz viele Tipps, Anregungen, Informationen, Spiele und Übungen an die Hand geben, um eine Gruppe noch besser verantwortlich (mit-)leiten zu können.\
-Am Ende dieser Tage sollst du die Juleica (**Ju**gend**lei**ter**ca**rd) beantragen können. Diese Card ist der bundesweit einheitliche Ausweis für ehrenamtliche Mitarbeiter in der Jugendarbeit. Neben der gesellschaftlichen Anerkennung für ehrenamtlichen Einsatz bekommst du mit der Juleica u.a. die Berechtigung Sonderurlaub z.B. für Freizeiten in Anspruch zu nehmen, Zuschüsse zu beantragen, Vergünstigungen für deine Gruppe zu bekommen, Räumlichkeiten (z.B. eine Sporthalle) für deine Gruppe zu mieten und selber manche Vergünstigungen zu erhalten.\
-Im Freizeitpreis inbegriffen: Unterkunft, Vollpension, Juleica-Lehrgang (inkl. umfangreichem Materialpaket) und kompletter Erste-Hilfe-Lehrgang.
+In diesem abwechslungsreichen Lehrgang bekommst du ganz viele Tipps, Anregungen, Informationen, Spiele und Übungen an die Hand, um eine Gruppe noch besser verantwortlich (mit-)leiten zu können.\
+Am Ende dieser Tage sollst du die Juleica (**Ju**gend**lei**ter**ca**rd) beantragen können. Diese Card ist der bundesweit einheitliche Ausweis für ehrenamtliche MitarbeiterInnen in der Jugendarbeit. Neben der gesellschaftlichen Anerkennung für ehrenamtlichen Einsatz bekommst du mit der Juleica u.a. die Berechtigung Sonderurlaub z.B. für Freizeiten in Anspruch zu nehmen, Zuschüsse zu beantragen, Vergünstigungen für deine Gruppe zu bekommen, Räumlichkeiten (z.B. eine Sporthalle) für deine Gruppe zu mieten und selber manche Vergünstigungen zu erhalten.
+
+> **Im Freizeitpreis inbegriffen:** Unterkunft, Vollpension, Juleica-Lehrgang (inkl. umfangreichem Materialpaket) und ein kompletter Erste-Hilfe-Lehrgang.
