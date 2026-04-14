@@ -47,7 +47,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2024-12-01T14:00:00.000Z
+  startAt: 2026-04-19T15:00:00+02:00
   hatGesundheit: true
   disabled: false
 ---
