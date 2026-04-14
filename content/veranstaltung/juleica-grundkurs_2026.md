@@ -5,7 +5,7 @@ begin: 2026-10-18
 ende: 2026-10-24
 description: "Deine Grund-Ausbildung für die Mitarbeit in Kinder- und
   Jugendgruppen und auf Freizeiten. "
-featuredImage: veranstaltungen/dsc_1749.jpg
+featuredImage: veranstaltungen/20241101_163501.jpg
 images:
   - veranstaltungen/dsc_6779.jpg
   - veranstaltungen/dsc_6789.jpg
