@@ -47,4 +47,6 @@ anmeldung:
 In diesem abwechslungsreichen Lehrgang bekommst du ganz viele Tipps, Anregungen, Informationen, Spiele und Übungen an die Hand, um eine Gruppe noch besser verantwortlich (mit-)leiten zu können.\
 Am Ende dieser Tage sollst du die Juleica (**Ju**gend**lei**ter**ca**rd) beantragen können. Diese Card ist der bundesweit einheitliche Ausweis für ehrenamtliche MitarbeiterInnen in der Jugendarbeit. Neben der gesellschaftlichen Anerkennung für ehrenamtlichen Einsatz bekommst du mit der Juleica u.a. die Berechtigung Sonderurlaub z.B. für Freizeiten in Anspruch zu nehmen, Zuschüsse zu beantragen, Vergünstigungen für deine Gruppe zu bekommen, Räumlichkeiten (z.B. eine Sporthalle) für deine Gruppe zu mieten und selber manche Vergünstigungen zu erhalten.
 
-> **Im Freizeitpreis inbegriffen:** Unterkunft, Vollpension, Juleica-Lehrgang (inkl. umfangreichem Materialpaket) und ein kompletter Erste-Hilfe-Lehrgang.
+> **Im Schulungspreis inbegriffen:** Unterkunft, Vollpension, Juleica-Lehrgang (inkl. umfangreichem Materialpaket) und ein kompletter Erste-Hilfe-Lehrgang.
+>
+> **Der konkrete Schulungspreis wird im Laufe der Woche unten auf dieser Seite veröffentlicht.**
