@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: 516
+veranstaltungsID: 542
 title: Juleica-Grundkurs 2026
 begin: 2026-10-18
 ende: 2026-10-24
