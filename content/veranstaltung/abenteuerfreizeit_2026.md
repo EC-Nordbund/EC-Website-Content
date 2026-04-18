@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 540
 title: Abenteuerfreizeit
 begin: 2026-10-19
 ende: 2026-10-23
