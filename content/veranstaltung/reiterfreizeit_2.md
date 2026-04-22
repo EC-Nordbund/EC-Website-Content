@@ -1,5 +1,5 @@
 ---
-veranstaltungsID: 542
+veranstaltungsID: 541
 title: Reiterfreizeit
 begin: 2026-10-19
 ende: 2026-10-23
