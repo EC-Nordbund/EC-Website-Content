@@ -22,9 +22,9 @@ tags:
   - Freizeit
   - Jahrgang 2013 bis 2017
 warteliste:
-  allgemein: false
+  allgemein: true
   männlich: false
-  weiblich: true
+  weiblich: false
 anzahlung: 50
 preise:
   - label: Frühbucher
