@@ -46,7 +46,7 @@ anmeldung:
   hatFreizeitleitung: true
   hatErlaubnisKlettern: false
   hatFahrgemeinschaft: true
-  visible: true
+  visible: false
   hatEssen: true
   startAt: 2025-11-09T15:00:00+01:00
   hatGesundheit: true
