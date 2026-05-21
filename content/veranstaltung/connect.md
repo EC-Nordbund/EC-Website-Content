@@ -24,7 +24,9 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-preise: []
+preise:
+  - label: Normal
+    preis: 5
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
