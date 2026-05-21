@@ -7,7 +7,7 @@ description: Dein Tag um dich mit Leuten aus dem ganzen EC-Nordbund und darüber
 featuredImage: veranstaltungen/time_out-website.png
 images:
   - veranstaltungen/tc2k22-284.jpg
-  - veranstaltungen/papaioannou-kostas-tysecum5hja-unsplash.jpg
+  - veranstaltungen/simon-maage-tximrx3gc-g-unsplash.jpg
 juleica: false
 veranstaltungsort: Gemeinschaft Neumünster
 lat: "54.0771564"
