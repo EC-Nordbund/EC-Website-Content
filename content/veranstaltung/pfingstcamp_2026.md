@@ -50,7 +50,7 @@ anmeldung:
   hatEssen: true
   startAt: 2025-11-09T15:00:00+01:00
   hatGesundheit: true
-  disabled: false
+  disabled: true
 ---
 Du hast noch nie vom Pfingstcamp gehört? Na dann wirds aber Zeit!
 
