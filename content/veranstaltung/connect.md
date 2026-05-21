@@ -1,5 +1,5 @@
 ---
-title: Connect
+title: Connect 2026
 begin: 2026-09-19
 ende: 2026-09-19
 description: Dein Tag um dich mit Leuten aus dem ganzen EC-Nordbund und darüber
