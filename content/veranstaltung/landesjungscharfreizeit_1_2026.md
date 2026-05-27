@@ -22,8 +22,8 @@ tags:
   - Freizeit
   - Jahrgang 2013 bis 2017
 warteliste:
-  allgemein: true
-  männlich: false
+  allgemein: false
+  männlich: true
   weiblich: false
 anzahlung: 50
 preise:
