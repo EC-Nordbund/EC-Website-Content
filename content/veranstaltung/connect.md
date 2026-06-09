@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 543
 title: Connect 2026
 begin: 2026-09-19
 ende: 2026-09-19
