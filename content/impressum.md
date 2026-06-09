@@ -26,12 +26,15 @@ E-Mail: dortje.gaertner(at)ec-nordbund.de
 Telefon: 04122 48 90 36
 
 ## EC-Nordbund Geschäftsstelle
-**Dennis Müller**  
+**Dominik Heymann (stellv. Vorsitzender)**  
 
-Karl-Loewe-Weg 52,  
-23556 Lübeck  
+Am Kamp 18
+24536 Neumünster
+
 E-Mail: info(at)ec-nordbund.de  
-Telefon: 0171 6808570
+Telefon: 0157 55785022
+
+
 
 # Verantwortliche
 
