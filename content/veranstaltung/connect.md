@@ -36,7 +36,7 @@ anmeldung:
   hatFreizeitleitung: true
   hatErlaubnisKlettern: false
   hatFahrgemeinschaft: true
-  visible: false
+  visible: true
   hatEssen: true
   startAt: ""
   hatGesundheit: true
