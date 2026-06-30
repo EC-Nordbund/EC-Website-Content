@@ -2,7 +2,7 @@
 title: Terminübersicht 2026/27
 published: 2026-06-30T10:14:54
 description: Die Terminübersicht für 2026/27 ist online!
-featuredImage: blog/terminubersicht_online.png
+featuredImage: blog/terminubersicht_titelbild_website.png
 ---
 Hier findest du u﻿nsere Terminübersicht für das Schuljahr 2026/27. 
 
