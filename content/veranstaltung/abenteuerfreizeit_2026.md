@@ -60,4 +60,4 @@ Geländespiele, schnitzen, Fußball, klettern, Lagerfeuerabende, gemeinsam Herau
 Du siehst selbst: Auf unserer Freizeit für Männer unter 13 erwarten dich dieses Jahr wieder jede Menge Spaß und Abenteuer. Also schnell anmelden und einen Platz auf der Freizeit sichern! 
 
 > **Besonderer Hinweis:**
-> Wir bitten den/die Erziehungsberechtigte/n, ihr Kind nicht anzumelden, wenn es im Jahr 2026 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+> Wir bitten den/die Erziehungsberechtigte/n, ihr Kind aus dem Jahrgang 2013 nicht anzumelden, wenn es im Jahr 2026 bereits an einer Teenager-Freizeit (PfingstCamp oder TeenCamp) teilnimmt.
