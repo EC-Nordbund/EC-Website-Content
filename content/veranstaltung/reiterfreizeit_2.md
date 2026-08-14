@@ -65,4 +65,4 @@ Dieses Jahr ist die Freizeit für alle Mädchen der Jahrgänge 2013-2018. Also: 
 > Auf dem Hof stehen uns ausschließlich Ponys zur Verfügung. (Ponys sind im Gegensatz zu Großpferden kleiner als 1,48m) - darum hat der Reiterhof eine Gewichtsgrenze von 55kg festgelegt, weil die Ponys sonst Rückenschmerzen bekommen. Wir bitten euch bei der Anmeldung diese Hofvorgabe zu beachten.
 >
 > **Besonderer Hinweis:**
-> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2026 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+> Wir bitten den/die Erziehungsberechtigte/n, ihr Kind aus dem Jahrgang 2013 nicht anzumelden, wenn es im Jahr 2026 bereits an einer Teenager-Freizeit (PfingstCamp oder TeenCamp) teilnimmt.
