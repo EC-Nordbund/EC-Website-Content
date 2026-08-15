@@ -1,6 +1,6 @@
 ---
 veranstaltungsID: 530
-title: EC-Kids-Camp 1
+title: EC-Kids-Camp I 2027
 begin: 2027-07-03
 ende: 2027-07-13
 description: Sommer. Ferien. Karlsminde.
