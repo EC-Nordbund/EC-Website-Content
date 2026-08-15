@@ -10,9 +10,12 @@ featuredImage: veranstaltungen/ec-kids_game-day_-_website.png
 images:
   - veranstaltungen/1_1_.webp
 juleica: false
-veranstaltungsort: Bünsdorf
-lat: "53.730164"
-long: "10.258555"
+veranstaltungsort: Erholungs- und Bildungszentrum am Wittensee
+lat: "54.36979371773461"
+long: "9.74764222802808"
+strasse: An See 7
+plz: "24794"
+ort: Bünsdorf
 minAlter: 8
 maxAlter: 12
 tags: []
