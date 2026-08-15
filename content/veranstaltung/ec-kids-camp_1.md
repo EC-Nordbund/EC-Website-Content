@@ -7,6 +7,7 @@ description: Sommer. Ferien. Karlsminde.
 featuredImage: veranstaltungen/ljf1-website.png
 images:
   - veranstaltungen/ljf1-25_2_.jpg
+  - veranstaltungen/20260710_200353.jpg
 juleica: false
 veranstaltungsort: EC-Ferienlager Karlsminde
 lat: "54.5"
