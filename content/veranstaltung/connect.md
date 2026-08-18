@@ -45,4 +45,6 @@ anmeldung:
 Beim Connect geht es darum, dich mit Menschen aus anderen EC Orten zu connecten.
 Gemeinsam starten wir am Nachmittag im Jugend-Gottesdienst Format mit Musik, Gebet, Zeit zum Ankommen und damit, etwas über den zu hören, der uns alle vereint.
 Anschließend wollen wir zusammen essen, lachen, spielen, feiern und connecten. Freue dich auf ein offenes Angebot an kleinen Workshops, auf Chill-Out-Ecken, auf Bewegung, spontanen Lobpreis und vieles mehr.
-Vielleicht kennst du schon von der ein oder anderen EC Veranstaltung Menschen aus anderen Orten? Dann verabrede dich mit ihnen zum Connect zu gehen. Du kennst noch niemanden, aber willst wissen, wie groß der EC-Nordbund wirklich ist? Dann komm vorbei und lerne Menschen kennen! Wir freuen uns auf dich!
+Vielleicht kennst du schon von der ein oder anderen EC Veranstaltung Menschen aus anderen Orten? Dann verabrede dich mit ihnen zum Connect zu gehen. Du kennst noch niemanden, aber willst wissen, wie groß der EC-Nordbund wirklich ist? Dann komm vorbei und lerne Menschen kennen! Wir freuen uns auf dich!\
+\
+A﻿b 15:30 geht es vor Ort los und geht dann bis ca. 21 Uhr.
