@@ -93,8 +93,8 @@ folders:
     description: Flyer und Prospekte für verschiedene Events
     folders: {}
     files:
-      - filename: 'download/Flyer und Prospekte/fp2021.pdf'
-        title: Freizeitprospekt 2021.pdf
+      - filename: 'download/Dokumente/2026_27-EC-Nordbund Kalender.pdf'
+        title: 2026_27-EC-Nordbund Kalender.pdf
         description: ''
   Krisenintervention:
     title: Krisenintervention
