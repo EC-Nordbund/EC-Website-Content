@@ -1,6 +1,6 @@
 ---
 title: Landesjungscharfrizeit I - 2026
-published: 2026-08-18T12:23:90
+published: 2026-07-15T12:23:90
 description: Ein kurzer Einblick in die Landesjungscharfreizeit II
 featuredImage: blog/ljf1_2026_1.jpeg
 ---
