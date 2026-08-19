@@ -2,9 +2,9 @@
 title: TimeOut 2026/27
 begin: 2026-12-29
 ende: 2027-01-02
-description: Plan du dir diese besondere Zeit im Jahr ein und komm mit nach Rømø
-  um gemeinsam aufzutanken, zur Ruhe zu kommen und einfach die Gemeinschaft mit
-  anderen zu genießen.
+description: Am Ende des Jahres werden wir werden gemeinsam die letzten Stunden
+  des Jahres genießen, Gemeinschaft erleben, das Zusammensein feiern und Zeit
+  mit Gott verbringen.
 featuredImage: veranstaltungen/time_out-website.png
 juleica: false
 veranstaltungsort: Jugendlager der Nordschleswigschen Gemeinde
@@ -25,15 +25,15 @@ warteliste:
 preise:
   - label: Frühbucher
     ende: 2026-09-30
-    preis: 140
+    preis: 160
   - label: Normal
     begin: 2026-10-01
     ende: 2026-11-30
-    preis: 150
+    preis: 170
   - label: Last-Minute
     begin: 2026-12-01
     ende: ""
-    preis: 160
+    preis: 180
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: false
@@ -44,12 +44,12 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: ""
+  startAt: 2026-09-20T15:00:00+02:00
   hatGesundheit: true
   disabled: false
 ---
 Komm mit, wenn es am Ende des Jahres auf die schöne Insel Rømø geht.
 
-Wir werden gemeinsam die letzten Stunden des Jahres genießen, Gemeinschaft erleben und das Zusammensein feiern.\
-Gemeinsam werden wir das alte Jahr mit Gott beschließen und das Neue mit ihm starten.\
-Plan du dir diese besondere Zeit im Jahr ein und komm mit nach Rømø um gemeinsam aufzutanken, zur Ruhe zu kommen und einfach die Gemeinschaft mit anderen zu genießen.
+Wir werden gemeinsam die letzten Stunden des Jahres genießen, Gemeinschaft erleben, das Zusammensein feiern und Zeit mit Gott verbringen.\
+Gemeinsam werden wir das alte Jahr mit Gott beschließen und das neue Jahr mit ihm starten. \
+Plan dir diese besondere Zeit im Jahr ein und komm mit nach Rømø, um gemeinsam aufzutanken, zur Ruhe zu kommen und einfach die Gemeinschaft mit anderen zu genießen.
