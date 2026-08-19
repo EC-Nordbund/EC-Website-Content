@@ -17,7 +17,7 @@ strasse: Campingplatz, Karlsminde
 plz: "24369 "
 ort: Waabs
 minAlter: 18
-maxAlter: 27
+maxAlter: ""
 tags:
   - Freizeit
   - Jugend
@@ -50,7 +50,7 @@ anmeldung:
   hatEssen: true
   startAt: 2025-11-09T15:00:85+01:00
   hatGesundheit: true
-  disabled: false
+  disabled: true
 ---
 Du hast Lust auf eine Jugendfreizeit mit jungen Erwachsenen?
 
