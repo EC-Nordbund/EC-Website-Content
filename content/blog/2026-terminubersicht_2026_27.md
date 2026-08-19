@@ -6,6 +6,9 @@ featuredImage: blog/terminubersicht_titelbild_website.png
 ---
 Hier findest du u﻿nsere Terminübersicht für das Schuljahr 2026/27. 
 
-Wichtig: Auch auf ChurchTools sind unsere Termine zu finden. Hier kannst du auch sehen, wenn sich Termine ändern. Du findest den EC-Veranstaltungskalender unter: https://vg-sh.church.tools/?q=churchcal#CalView/
+Wichtig: Auch auf ChurchTools sind unsere Termine zu finden. Hier kannst du auch sehen, wenn sich Termine ändern. Du findest den EC-Veranstaltungskalender unter: https://vg-sh.church.tools/?q=churchcal#CalView/\
+O﻿der hier im Downloadbereich: 
+
+[Downloads | EC-Nordbund](https://www.ec-nordbund.de/downloads/FlyerundProspekte/)
 
 ![Kalender 2026/27](blog/202627_ec-nordbund_kalender.png "EC-Nordbund Kalender 2026/27")
