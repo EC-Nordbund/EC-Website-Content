@@ -6,6 +6,11 @@ description: Am Ende des Jahres werden wir werden gemeinsam die letzten Stunden
   des Jahres genießen, Gemeinschaft erleben, das Zusammensein feiern und Zeit
   mit Gott verbringen.
 featuredImage: veranstaltungen/time_out-website.png
+images:
+  - veranstaltungen/img_1596.jpg
+  - veranstaltungen/img_1543_-_kopie.jpg
+  - veranstaltungen/img_1584_-_kopie.jpg
+  - veranstaltungen/img_1587_-_kopie.jpg
 juleica: false
 veranstaltungsort: Jugendlager der Nordschleswigschen Gemeinde
 lat: "55.09592165781632"
