@@ -8,7 +8,6 @@ description: Am Ende des Jahres werden wir werden gemeinsam die letzten Stunden
 featuredImage: veranstaltungen/time_out-jugend-website.png
 images:
   - veranstaltungen/img_1543_-_kopie.jpg
-  - veranstaltungen/img_1577_-_kopie.jpg
   - veranstaltungen/img_1578.jpg
   - veranstaltungen/img_1596-quer.jpg
 juleica: false
