@@ -7,6 +7,13 @@ description: Du wünschst dir eine Auszeit, in der du geistlich auftanken,
   gute Tage in christlicher Gemeinschaft erleben kannst? Dann bist du hier genau
   richtig.
 featuredImage: veranstaltungen/biblecamp-website.png
+images:
+  - veranstaltungen/img_2230.jpg
+  - veranstaltungen/img_2254_-_quer.jpg
+  - veranstaltungen/img_2289_-_quer.jpg
+  - veranstaltungen/img_2300.jpg
+  - veranstaltungen/img_2347.jpg
+  - veranstaltungen/img_2457.jpg
 juleica: true
 veranstaltungsort: Rømø
 lat: "55.095770"
