@@ -1,5 +1,5 @@
 ---
-title: Anmeldestart am 20.9.
+title: Anmeldestart am für die Sommerfreizeiten 2027
 published: 2026-08-19T08:08:77
 description: >-
   Die Sommerferien sind vorbei, ein Grund mehr sich auch die nächsten
