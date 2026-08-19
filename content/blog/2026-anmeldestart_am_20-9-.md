@@ -6,7 +6,7 @@ description: >-
   Sommerferien zu freuen!
 
   Am 20.09.2026 um 15:00Uhr ist der Anmeldestart für alle Freizeiten von Silvester 2026 bis Sommer 2027.
-featuredImage: blog/anmeldestart-website.png
+featuredImage: blog/anmeldestart-website_2026_09.png
 ---
 Die Sommerferien sind vorbei - der nächste Anmeldestart ist in Sicht! Am Sonntag, den 20.09.2026 um 15:00 Uhr wird die Anmeldung zu unseren Freizeiten von Silvester bis Sommer freigeschaltet. Das sind:
 
