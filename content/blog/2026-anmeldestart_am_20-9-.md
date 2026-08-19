@@ -5,7 +5,7 @@ description: >-
   Die Sommerferien sind vorbei, ein Grund mehr sich auch die nächsten
   Sommerferien zu freuen!
 
-  Am 20.09.2026 ist der Anmeldestart für TimeOut, Recharge, Mitarbeiterwochenende, Pfingstcamp, KidsCamp 1+2, Teencamp und die Jugendfreizeit.
+  Am 20.09.2026 ist der Anmeldestart für TimeOut, Recharge, Mitarbeiterwochenende, Pfingstcamp, Kidscamp 1+2, Teencamp und die Jugendfreizeit.
 featuredImage: blog/anmeldestart-website.png
 ---
 Die Sommerferien sind vorbei - der nächste Anmeldestart ist in Sicht! Am Sonntag, den 20.09.2026 wird die Anmeldung zu unseren Freizeiten von Silvester bis Sommer freigeschaltet. Das sind:
