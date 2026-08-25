@@ -4,10 +4,12 @@ title: EC-Kids-Camp I 2027
 begin: 2027-07-03
 ende: 2027-07-13
 description: Sommer. Ferien. Karlsminde.
-featuredImage: veranstaltungen/ljf1-website.png
+featuredImage: veranstaltungen/ec-kids-camp-website.png
 images:
-  - veranstaltungen/ljf1-25_2_.jpg
   - veranstaltungen/20260710_200353.jpg
+  - veranstaltungen/20260712_201906.jpg
+  - veranstaltungen/dsci1014.jpg
+  - veranstaltungen/dsci1024.jpg
 juleica: false
 veranstaltungsort: EC-Ferienlager Karlsminde
 lat: "54.5"
