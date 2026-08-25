@@ -4,7 +4,7 @@ title: EC-Kids-Camp II 2027
 begin: 2027-08-02
 ende: 2027-08-12
 description: Sommer. Ferien. Karlsminde.
-featuredImage: veranstaltungen/ljf2-website.png
+featuredImage: veranstaltungen/ec-kids-camp-website_1_.png
 images:
   - veranstaltungen/a_dsc_0045.jpg
   - veranstaltungen/ljf2-25_7_.jpg
