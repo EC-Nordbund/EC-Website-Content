@@ -48,7 +48,7 @@ anmeldung:
   hatFahrgemeinschaft: true
   visible: true
   hatEssen: true
-  startAt: 2025-11-09T15:00:00+01:00
+  startAt: 2026-09-20T15:00:00+02:00
   hatGesundheit: true
   disabled: false
   jahrgangMin: 2014
