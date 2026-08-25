@@ -55,7 +55,15 @@ anmeldung:
 
 Mach dich bereit auf zehn Tage voller Spaß und Action! Denn auf dich wartet ein spannendes Programm: von A wie Abenteuer über B wie Boot fahren oder basteln, F wie Fußball spielen, S wie singen oder schwimmen, W wie in den Wald gehen bis Z wie Zuhören, was Gott uns alles zu sagen hat.
 
+**Das EC-Ferienlager Karlsminde:**\
+Wir sind in unseren 8 Bungalows (Nur-Dach-Häusern) super untergebracht: Darin wohnen jeweils 6 Kinder zusammen. WCs und Duschen sind in einem Extra-Gebäude und auch die Küche und der große Speise- und Mehrzweck-Saal sind in einem eigenen Haus. In Karlsminde sind wir meistens draußen - und da gibt es ja auch viel zu Entdecken: Wir haben einen Lagerfeuerplatz, 4 Ruderboote auf dem See direkt vor der Tür, Tischtennisplatten, einen Bolzplatz, ... und vieles mehr. 
+
+**Zum Freizeitkonzept:** \
+Unser ehrenamtliches Freizeitteam stellt ein abwechslungsreiches und buntes Programm zusammen. Wir wollen ein gutes Miteinander fördern, so dass Kinder neue Freundschaften schließen, ihre Talente entdecken und erproben können und ihre sozialen Kompetenzen stärken. 10 Tage ohne Eltern - das ist ein großer und spannender Schritt, bei dem Kinder Selbständigkeit und Selbstvertrauen gewinnen. Darin wollen wir sie best-möglichst unterstützen.\
+Unsere Freizeit ist eine analoge und Handy-freie Freizeit. Wir verzichten in der Programmgestaltung weitestgehend auf digitale Hilfsmittel. Und auch das Miteinander wollen wir frei von Handys gestalten.\
+Die Basis der Freizeit ist unser christlicher Glaube. Wir haben erlebt, dass Gottes große Liebe uns und allen Menschen gilt. Wir haben erlebt, wie der Glaube uns persönlich stärkt und Hoffnung gibt. Wir wollen in Karlsminde gemeinsam mit den Kindern Gott erleben: Darum tauchen wir täglich in ein Bibel-Abenteuer ein, singen, erzählen und beten.
+
 Alle weiteren Informationen erhaltet ihr im Freizeitbrief, der rechtzeitig vor Freizeitbeginn versandt wird.
 
 > **Besonderer Hinweis:**
-> Wir bitten den/die Erziehungsberechtigten, ihr Kind nicht anzumelden, wenn es im Jahr 2026 bereits an einer Pfingst- oder Sommerfreizeit für Teenager teilnimmt.
+> Wir bitten den/die Erziehungsberechtigte/n, ihr Kind aus dem Jahrgang 2014 nicht anzumelden, wenn es im Jahr 2027 bereits an unserem PfingstCamp für Teenager teilnimmt.
