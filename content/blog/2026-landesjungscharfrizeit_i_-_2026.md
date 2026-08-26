@@ -1,7 +1,7 @@
 ---
 title: Landesjungscharfreizeit I - 2026
 published: 2026-07-15T12:23:90
-description: Ein kurzer Einblick in die Landesjungscharfreizeit II
+description: Ein kurzer Einblick in die Landesjungscharfreizeit I
 featuredImage: blog/ljf1_2026_1.jpeg
 ---
 Vom 4.-14.7. hat die Landesjungscharfreizeit I das Mittelalter im Königreich Karlsminde erlebt.
