@@ -2,7 +2,7 @@
 title: Anmeldestart für die Sommerfreizeiten 2027
 published: 2026-08-19T08:08:77
 description: >-
-  Die Sommerferien sind vorbei, ein Grund mehr sich auch die nächsten
+  Die Sommerferien sind vorbei, ein Grund mehr sich auf die nächsten
   Sommerferien zu freuen!
 
   Am 20.09.2026 um 15:00Uhr ist der Anmeldestart für alle Freizeiten von Silvester 2026 bis Sommer 2027.
