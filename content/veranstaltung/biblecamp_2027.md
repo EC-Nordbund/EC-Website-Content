@@ -21,6 +21,7 @@ long: "8.550315"
 strasse: Lyngvejen 33
 plz: "6792"
 ort: Rømø (Dänemark)
+minTN: 10
 minAlter: 14
 tags:
   - Freizeit
