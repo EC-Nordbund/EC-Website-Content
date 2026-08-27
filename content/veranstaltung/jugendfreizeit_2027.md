@@ -27,21 +27,21 @@ warteliste:
   weiblich: false
 preise: []
 anmeldung:
-  hatErlaubnisBoot: false
-  hatErlaubnisFahrrad: false
-  hatErlaubnisSchwimmen: false
-  hatErlaubnisSichEntfernen: false
-  hatFreizeitleitung: false
-  hatErlaubnisKlettern: false
-  hatFahrgemeinschaft: false
-  visible: false
-  hatEssen: false
-  startAt: ""
-  hatGesundheit: false
+  hatErlaubnisBoot: true
+  hatErlaubnisFahrrad: true
+  hatErlaubnisSchwimmen: true
+  hatErlaubnisSichEntfernen: true
+  hatFreizeitleitung: true
+  hatErlaubnisKlettern: true
+  hatFahrgemeinschaft: true
+  visible: true
+  hatEssen: true
+  startAt: 2026-09-20T15:00:00+02:00
+  hatGesundheit: true
   disabled: false
 ---
 Du hast Lust auf eine Woche Freizeit mit anderen Jugendlichen?\
-Dann ist das deine Freizeit! Gemeinsam starten wir in Kaltenkirchen und brechen auf an die Nordküste von Dänemark nach Blokhus.
+Dann ist das deine Freizeit! Gemeinsam starten wir in Kaltenkirchen und brechen auf an die Nordküste von Dänemark.
 
 Dort verbringen wir eine Woche in unserem Haus direkt in den Dünen und werden gemeinsam den Strand genießen, coole Programmpunkte erleben und Zeit mit Gott verbringen.
 
