@@ -1,4 +1,9 @@
 ---
+verwaltung:
+  kurzBezeichnung: JF
+  anzahlPlaetze: 50
+  anzahlPlaetzeMaennlich: ""
+  briefID: 3
 title: Jugendfreizeit 2027
 begin: 2027-07-17
 ende: 2027-07-24
@@ -15,6 +20,7 @@ long: "9.590390"
 strasse: Klitvejen 97
 plz: "9492 "
 ort: Blokhus
+minTN: 30
 minAlter: 16
 tags:
   - Freizeit
