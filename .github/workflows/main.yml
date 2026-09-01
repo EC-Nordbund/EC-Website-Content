@@ -1,6 +1,13 @@
 name: CI
 
-on: [push, workflow_dispatch]
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Verwaltungs-Sync nur simulieren (keine DB-Writes)'
+        type: boolean
+        default: false
 
 jobs:
   compress:
@@ -34,10 +41,46 @@ jobs:
         target_url: https://preview.ec-nordbund.de/${{github.ref_name}}
         state: 'success'
         sha: ${{steps.ec_sha.outputs.sha}}
+  # Verwaltungs-Sync: überträgt Veranstaltungen aus dem CMS in die
+  # Verwaltungs-DB und schreibt neu vergebene veranstaltungsIDs zurück.
+  # Loop-Schutz: der Auto-Commit läuft mit GITHUB_TOKEN (triggert keine
+  # neuen Workflow-Läufe); der [sync]-Guard ist die Zweitsicherung.
+  sync:
+    runs-on: ubuntu-latest
+    needs: [ compress ]
+    if: github.ref_name == 'main' && !startsWith(github.event.head_commit.message, '[sync]')
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # den evtl. frischen compress-Commit mitnehmen
+          ref: main
+      - uses: pnpm/action-setup@41ff72655975bd51cab0327fa583b6e92b6d3061
+        with:
+          version: 9.15.9
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: pnpm i --ignore-scripts
+      - name: Sync Veranstaltungen -> Verwaltung
+        env:
+          SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+        run: node ./scripts/sync-veranstaltungen.mjs
+      - name: Commit veranstaltungsIDs
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@v4.15.4
+        with:
+          commit_message: '[sync] veranstaltungsIDs'
+          file_pattern: 'content/veranstaltung/*.md'
+
   dispatch_main:
     runs-on: ubuntu-latest
-    #needs: [ compress ]
-    if:  github.ref_name == 'main'
+    # erst NACH dem Sync dispatchen, damit der Website-Build die frisch
+    # vergebenen veranstaltungsIDs enthält (sonst sendet die Anmeldung ID 0).
+    # !cancelled(): auch bei geskipptem/rotem Sync deployen (Blog-Änderungen
+    # sollen nicht an einem Veranstaltungs-Datenfehler hängen)
+    needs: [ sync ]
+    if:  github.ref_name == 'main' && !cancelled()
     steps:
       # Dispatch an `merge-content` event to the `target_repo`
       - name: Repository Dispatch

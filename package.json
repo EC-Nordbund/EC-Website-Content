@@ -8,6 +8,7 @@
     "url": "git+https://github.com/EC-Nordbund/EC-Website-content.git"
   },
   "dependencies": {
-    "@squoosh/lib": "0.4.1"
+    "@squoosh/lib": "0.4.1",
+    "gray-matter": "4.0.3"
   }
 }
