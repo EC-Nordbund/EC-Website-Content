@@ -18,5 +18,6 @@ Die Sommerferien sind vorbei - der nächste Anmeldestart ist in Sicht! Am Sonnta
 * Teencamp (03.-13.07.2027)
 * Jugendfreizeit (17.-24.07.2027)
 * Kidscamp II (02.-12.08.2027)
+* j﻿unge Erwachsenefreizeit (03.-12.09.2027)
 
 Wir freuen uns auf dich!
