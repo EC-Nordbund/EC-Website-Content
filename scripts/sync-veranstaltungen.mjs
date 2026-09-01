@@ -175,8 +175,9 @@ function buildEntry(slug, fm) {
   const briefID = toInt(verwaltung?.briefID)
   if (briefID === null || briefID < 1 || briefID > 5) errs.push('verwaltung.briefID (Kontaktperson) fehlt')
 
-  const ende = toDateStr(fm.ende)
-  if (ende && ende < begin) errs.push(`ende (${ende}) liegt vor begin (${begin})`)
+  // ende=NULL bricht die Verwaltungs-Liste (GraphQL datum-Typ) — Fallback begin
+  const ende = toDateStr(fm.ende) ?? begin
+  if (ende < begin) errs.push(`ende (${ende}) liegt vor begin (${begin})`)
 
   if (errs.length > 0) return { errors: errs }
 
