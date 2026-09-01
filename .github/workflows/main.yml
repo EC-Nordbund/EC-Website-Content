@@ -1,6 +1,13 @@
 name: CI
 
-on: [push, workflow_dispatch]
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Verwaltungs-Sync nur simulieren (keine DB-Writes)'
+        type: boolean
+        default: false
 
 jobs:
   compress:
@@ -57,6 +64,7 @@ jobs:
       - name: Sync Veranstaltungen -> Verwaltung
         env:
           SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
         run: node ./scripts/sync-veranstaltungen.mjs
       - name: Commit veranstaltungsIDs
         if: always()
