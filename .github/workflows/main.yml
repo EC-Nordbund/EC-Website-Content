@@ -20,7 +20,7 @@ jobs:
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
-        node-version: 16.x
+        node-version: 24.x
         cache: 'pnpm'
     - run: pnpm i
     - run: node ./compress.mjs
@@ -59,7 +59,7 @@ jobs:
           version: 9.15.9
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
       - run: pnpm i --ignore-scripts
       - name: Sync Veranstaltungen -> Verwaltung
         env:
