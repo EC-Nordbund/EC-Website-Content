@@ -1,5 +1,12 @@
 ---
 veranstaltungsID: 530
+verwaltung:
+  kurzBezeichnung: KCI
+  anzahlPlaetze: 48
+  anzahlPlaetzeWeiblich: 24
+  anzahlPlaetzeMaennlich: 24
+  hatGWarteliste: true
+  briefID: 2
 title: EC-Kids-Camp I 2027
 begin: 2027-07-03
 ende: 2027-07-13
