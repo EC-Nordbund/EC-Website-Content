@@ -1,5 +1,12 @@
 ---
 veranstaltungsID: 531
+verwaltung:
+  kurzBezeichnung: KCII
+  anzahlPlaetze: 48
+  anzahlPlaetzeWeiblich: 24
+  anzahlPlaetzeMaennlich: 24
+  hatGWarteliste: true
+  briefID: 2
 title: EC-Kids-Camp II 2027
 begin: 2027-08-02
 ende: 2027-08-12
