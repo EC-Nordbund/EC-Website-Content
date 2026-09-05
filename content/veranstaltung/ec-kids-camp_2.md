@@ -6,8 +6,9 @@ ende: 2027-08-12
 description: Sommer. Ferien. Karlsminde.
 featuredImage: veranstaltungen/ec-kids-camp-website_1_.png
 images:
-  - veranstaltungen/a_dsc_0045.jpg
-  - veranstaltungen/ljf2-25_7_.jpg
+  - veranstaltungen/ljf2_a013949.jpg
+  - veranstaltungen/ljf2_mg_2674.jpg
+  - veranstaltungen/ljf2_a014483.jpg
 juleica: false
 veranstaltungsort: Karlsminde
 lat: "54.5"
