@@ -43,4 +43,4 @@ Die Bibelwerkstatt ist ein Angebot für alle, die in Kinder- und Jugendgruppen, 
 Wenn du das möchtest, kannst du im Anschluss am 8. März in deiner Gemeinde im VG bei EC'ler auf der Kanzel predigen. Dabei unterstützt dich gerne deine Pastorin oder dein Pastor vor Ort.\
 \
 Anmeldung unter: \
-https://vg-sh.church.tools/publicgroup/5717
+<https://vg-sh.church.tools/publicgroup/5717>
