@@ -8,7 +8,8 @@ description: "G wie Glauben, A wie Aktiv! M wie Miteinander! E wie Erleben! -
   Kindergottesdienst-Gruppe, deinen Pfadfinderstamm... !"
 featuredImage: veranstaltungen/ec-kids_game-day_-_website.png
 images:
-  - veranstaltungen/1_1_.webp
+  - veranstaltungen/gd_8_klein.jpg
+  - veranstaltungen/gd_1_klein.jpg
 juleica: false
 veranstaltungsort: Erholungs- und Bildungszentrum am Wittensee
 lat: "54.36979371773461"
