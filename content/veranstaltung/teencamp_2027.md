@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 4234
 verwaltung:
   hatGWarteliste: false
   kannVorortBezahltWerden: false

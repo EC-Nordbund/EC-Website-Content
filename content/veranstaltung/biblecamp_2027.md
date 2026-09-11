@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 4229
 verwaltung:
   kurzBezeichnung: BC
   anzahlPlaetze: 20

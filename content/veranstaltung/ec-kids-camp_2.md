@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 531
 verwaltung:
   kurzBezeichnung: KCII
   anzahlPlaetze: 48

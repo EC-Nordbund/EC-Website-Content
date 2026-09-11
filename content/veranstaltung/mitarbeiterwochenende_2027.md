@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 4233
 verwaltung:
   kurzBezeichnung: MAWE
   anzahlPlaetze: 80

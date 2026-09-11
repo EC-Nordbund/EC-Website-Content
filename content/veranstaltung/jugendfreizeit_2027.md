@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 4232
 verwaltung:
   kurzBezeichnung: JF
   anzahlPlaetze: 40
