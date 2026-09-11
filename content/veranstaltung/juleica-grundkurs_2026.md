@@ -19,9 +19,7 @@ plz: "24794"
 ort: Bünsdorf
 minAlter: 15
 tags:
-  - Seminar
   - ab 15 Jahre
-  - Juleica-Fortbildung
 warteliste:
   allgemein: false
   männlich: false
