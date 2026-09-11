@@ -12,8 +12,8 @@ ende: 2027-07-24
 description: Eine Jugendfreizeit direkt in den Dünen? Das darfst du nicht verpassen!
 featuredImage: veranstaltungen/jugendfreizeit-tibelbild.png
 images:
-  - veranstaltungen/jugendfreizeit_2026_08.jpeg
   - veranstaltungen/jugendfreizeit_2026_12.jpeg
+  - veranstaltungen/jugendfreizeit_2026_08.jpeg
   - veranstaltungen/jugendfreizeit_2026_02.jpeg
 juleica: false
 veranstaltungsort: Blokhus, Dänemark
