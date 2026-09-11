@@ -1,7 +1,7 @@
 ---
 verwaltung:
   kurzBezeichnung: BC
-  anzahlPlaetze: 22
+  anzahlPlaetze: 20
   anzahlPlaetzeMaennlich: ""
   briefID: 3
 title: Biblecamp 2027
@@ -32,6 +32,9 @@ tags:
   - Freizeit
   - Seminar
   - Dänemark
+  - Teens
+  - Jugend
+  - junge Erwachsene
 warteliste:
   allgemein: false
   männlich: false
@@ -43,11 +46,11 @@ preise:
     preis: 190
   - label: Normal
     begin: 2026-11-02
-    preis: 200
+    preis: 210
     ende: 2027-02-14
   - label: Last-Minute
     begin: 2027-02-15
-    preis: 210
+    preis: 230
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: true
@@ -68,4 +71,4 @@ Im EC ist die Bibel ein zentraler Teil unseres Glaubenslebens – und genau das 
 
 Und natürlich kommt auch das gemeinsame Erleben nicht zu kurz: Rømø bietet perfekte Bedingungen für abwechslungsreiche Aktivitäten und besondere Gemeinschaftsmomente. Dich erwarten frische Nordseeluft, Dünen und Strand, Volleyball- und Fußballfelder, eine fantastische Umgebung und vielleicht auch wieder ein gemütlicher Spielenachmittag – oder einfach das, worauf wir zusammen Lust haben.
 
-**Wir freuen uns auf dich!**
+**Ich freue mich auf dich!**
