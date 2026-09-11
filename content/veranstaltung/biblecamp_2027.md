@@ -33,9 +33,6 @@ tags:
   - Freizeit
   - Seminar
   - Dänemark
-  - Teens
-  - Jugend
-  - junge Erwachsene
 warteliste:
   allgemein: false
   männlich: false
