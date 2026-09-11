@@ -25,8 +25,7 @@ ort: Bünsdorf
 minTN: 35
 minAlter: 14
 maxAlter: ""
-tags:
-  - Freizeit
+tags: []
 warteliste:
   allgemein: false
   männlich: false
