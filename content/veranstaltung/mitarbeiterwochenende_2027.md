@@ -27,7 +27,6 @@ minAlter: 14
 maxAlter: ""
 tags:
   - Freizeit
-  - Seminar
 warteliste:
   allgemein: false
   männlich: false
