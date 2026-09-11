@@ -17,6 +17,8 @@ images:
   - veranstaltungen/ljf2_mg_2674.jpg
   - veranstaltungen/ljf2_a014483.jpg
 juleica: false
+altersbereiche:
+  kids: true
 veranstaltungsort: Karlsminde
 lat: "54.5"
 long: "9.9484807"
