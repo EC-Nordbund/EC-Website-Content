@@ -2,7 +2,7 @@
 verwaltung:
   hatGWarteliste: false
   kannVorortBezahltWerden: false
-  kurzBezeichnung: PC27
+  kurzBezeichnung: PC
   anzahlPlaetze: 48
   briefID: 4
 title: Pfingstcamp 2027
