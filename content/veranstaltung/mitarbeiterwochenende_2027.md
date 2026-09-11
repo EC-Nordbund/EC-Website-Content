@@ -28,9 +28,6 @@ maxAlter: ""
 tags:
   - Freizeit
   - Seminar
-  - Teens
-  - Jugend
-  - junge Erwachsene
 warteliste:
   allgemein: false
   männlich: false
