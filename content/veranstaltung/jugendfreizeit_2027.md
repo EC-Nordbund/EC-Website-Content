@@ -1,9 +1,10 @@
 ---
 verwaltung:
   kurzBezeichnung: JF
-  anzahlPlaetze: 50
+  anzahlPlaetze: 40
   anzahlPlaetzeMaennlich: ""
   briefID: 3
+  anzahlPlaetzeWeiblich: ""
 title: Jugendfreizeit 2027
 begin: 2027-07-17
 ende: 2027-07-24
@@ -31,7 +32,18 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-preise: []
+anzahlung: 42
+preise:
+  - label: Frühbucher
+    ende: 2026-10-31
+    preis: 420
+  - label: Normal
+    begin: 2026-11-01
+    ende: 2027-06-04
+    preis: 460
+  - label: Last-Minute
+    begin: 2027-06-05
+    preis: 500
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
