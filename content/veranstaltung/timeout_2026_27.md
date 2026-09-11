@@ -11,6 +11,8 @@ images:
   - veranstaltungen/img_1578.jpg
   - veranstaltungen/img_1596-quer.jpg
 juleica: false
+altersbereiche:
+  jugend: true
 veranstaltungsort: Jugendlager der Nordschleswigschen Gemeinde
 lat: "55.09592165781632"
 long: "8.550739123049754"
@@ -19,7 +21,6 @@ plz: "6792"
 ort: Rømø, Dänemark
 minAlter: 16
 tags:
-  - Jugend
   - Freizeit
   - Rømø
 warteliste:
