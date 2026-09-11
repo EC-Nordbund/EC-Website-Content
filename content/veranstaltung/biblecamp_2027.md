@@ -63,7 +63,7 @@ anmeldung:
     - type: checkbox
       required: false
       label: Falls du Lust hast, einen Programmpunkt vorzubereiten, hast du hier die
-        Möglichkeit, es mir mitzuteilen.
+        Möglichkeit, es mir hier mitzuteilen.
       name: Programmpunkt
   hatFreizeitleitung: true
   hatErlaubnisKlettern: false
