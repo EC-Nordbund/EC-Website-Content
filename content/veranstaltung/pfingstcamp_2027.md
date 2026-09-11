@@ -18,6 +18,9 @@ images:
   - veranstaltungen/karlmsinde_c_tobias_krahe.jpg
   - veranstaltungen/wpc_4.jpg
 juleica: false
+altersbereiche:
+  teens: true
+  jugend: true
 veranstaltungsort: Karlsminde
 lat: "54.499941"
 long: "9.948151"
