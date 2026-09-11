@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 4252
 verwaltung:
   hatGWarteliste: true
   kannVorortBezahltWerden: false
