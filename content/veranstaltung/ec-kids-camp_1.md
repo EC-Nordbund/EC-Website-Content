@@ -18,6 +18,8 @@ images:
   - veranstaltungen/dsci1014.jpg
   - veranstaltungen/dsci1024.jpg
 juleica: false
+altersbereiche:
+  kids: true
 veranstaltungsort: EC-Ferienlager Karlsminde
 lat: "54.5"
 long: "9.9484807"
