@@ -172,11 +172,21 @@ function buildEntry(slug, fm) {
   const kurz = typeof verwaltung?.kurzBezeichnung === 'string' ? verwaltung.kurzBezeichnung.trim() : ''
   if (!/^[A-Za-z0-9]{1,4}$/.test(kurz)) errs.push('verwaltung.kurzBezeichnung fehlt oder ist ungültig (1-4 Zeichen A-Za-z0-9)')
 
-  const anzahlPlaetze = toInt(verwaltung?.anzahlPlaetze)
-  const anzahlW = toInt(verwaltung?.anzahlPlaetzeWeiblich)
-  const anzahlM = toInt(verwaltung?.anzahlPlaetzeMaennlich)
-  if (anzahlPlaetze === null || anzahlW === null || anzahlM === null)
-    errs.push('verwaltung.anzahlPlaetze / -Weiblich / -Maennlich müssen gesetzt sein')
+  // Platzzahlen: fehlend oder leer ('' aus dem CMS) -> 99 statt Fehler.
+  // Die Geschlechter-Kontingente sind in der API nur eine ZUSATZschranke
+  // (geprueft wird immer auch anzahlGesamt < anzahlPlaetze), 99 hebt dort
+  // also nur die Quote auf und sprengt kein Gesamtlimit. Steht auch
+  // anzahlPlaetze nicht, ist 99 eine bewusst hohe Zahl — deshalb die
+  // Warnung, damit es im Step Summary auffaellt.
+  const PLAETZE_FALLBACK = 99
+  const fehlendePlaetze = ['anzahlPlaetze', 'anzahlPlaetzeWeiblich', 'anzahlPlaetzeMaennlich']
+    .filter((k) => toInt(verwaltung?.[k]) === null)
+  if (fehlendePlaetze.length > 0) {
+    report.warnings.push(`${slug}: ${fehlendePlaetze.join(', ')} nicht gesetzt — Fallback ${PLAETZE_FALLBACK}`)
+  }
+  const anzahlPlaetze = toInt(verwaltung?.anzahlPlaetze, PLAETZE_FALLBACK)
+  const anzahlW = toInt(verwaltung?.anzahlPlaetzeWeiblich, PLAETZE_FALLBACK)
+  const anzahlM = toInt(verwaltung?.anzahlPlaetzeMaennlich, PLAETZE_FALLBACK)
 
   const briefID = toInt(verwaltung?.briefID)
   if (briefID === null || briefID < 1 || briefID > 5) errs.push('verwaltung.briefID (Kontaktperson) fehlt')
