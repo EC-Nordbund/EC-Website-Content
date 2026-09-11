@@ -1,4 +1,9 @@
 ---
+verwaltung:
+  kurzBezeichnung: BC
+  anzahlPlaetze: 22
+  anzahlPlaetzeMaennlich: ""
+  briefID: 3
 title: Biblecamp 2027
 begin: 2027-03-29
 ende: 2027-04-04
@@ -21,7 +26,7 @@ long: "8.550315"
 strasse: Lyngvejen 33
 plz: "6792"
 ort: Rømø (Dänemark)
-minTN: 10
+minTN: 14
 minAlter: 14
 tags:
   - Freizeit
@@ -31,7 +36,18 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-preise: []
+anzahlung: 19
+preise:
+  - label: Frühbucher
+    ende: 2026-11-01
+    preis: 190
+  - label: Normal
+    begin: 2026-11-02
+    preis: 200
+    ende: 2027-02-14
+  - label: Last-Minute
+    begin: 2027-02-15
+    preis: 210
 anmeldung:
   hatErlaubnisBoot: false
   hatErlaubnisFahrrad: true
