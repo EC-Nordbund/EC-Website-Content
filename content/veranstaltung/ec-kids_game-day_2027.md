@@ -11,6 +11,8 @@ images:
   - veranstaltungen/gd_8_klein.jpg
   - veranstaltungen/gd_1_klein.jpg
 juleica: false
+altersbereiche:
+  kids: true
 veranstaltungsort: Erholungs- und Bildungszentrum am Wittensee
 lat: "54.36979371773461"
 long: "9.74764222802808"
