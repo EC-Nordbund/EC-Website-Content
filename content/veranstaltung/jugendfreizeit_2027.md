@@ -16,6 +16,8 @@ images:
   - veranstaltungen/jugendfreizeit_2026_08.jpeg
   - veranstaltungen/jugendfreizeit_2026_02.jpeg
 juleica: false
+altersbereiche:
+  jugend: true
 veranstaltungsort: Blokhus, Dänemark
 lat: "57.261812"
 long: "9.590390"
@@ -26,7 +28,6 @@ minTN: 30
 minAlter: 16
 tags:
   - Freizeit
-  - Jugend
   - Dänemark
   - Sommer
 warteliste:
