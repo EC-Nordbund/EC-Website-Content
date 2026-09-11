@@ -11,6 +11,8 @@ images:
   - veranstaltungen/img-20241106-wa0006.jpg
   - veranstaltungen/img-20241106-wa0003.jpg
 juleica: false
+altersbereiche:
+  kids: true
 veranstaltungsort: Hof Kirchhorst
 lat: "54.40964"
 long: "9.73672"
