@@ -57,7 +57,7 @@ export async function doImage(img, ext) {
 
   const result = await ing.encode({
     webp: {
-      "quality": 50,
+      "quality": 70,
       "target_size": 0,
       "target_PSNR": 0,
       "method": 6,
