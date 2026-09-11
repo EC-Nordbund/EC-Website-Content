@@ -9,9 +9,7 @@ verwaltung:
   briefID: 2
 title: EC-Kids-Camp II 2027
 begin: 2027-08-02
-ende: 2027-08-12
 description: Sommer. Ferien. Karlsminde.
-featuredImage: veranstaltungen/ec-kids-camp-website_1_.png
 images:
   - veranstaltungen/ljf2_a013949.jpg
   - veranstaltungen/ljf2_mg_2674.jpg
@@ -19,6 +17,8 @@ images:
 juleica: false
 altersbereiche:
   kids: true
+ende: 2027-08-12
+featuredImage: veranstaltungen/ec-kids-camp-website_1_.png
 veranstaltungsort: Karlsminde
 lat: "54.5"
 long: "9.9484807"
@@ -66,7 +66,7 @@ anmeldung:
 
 Mach dich bereit auf zehn Tage voller Spaß und Action! Denn auf dich wartet ein spannendes Programm: von A wie Abenteuer über B wie Boot fahren oder basteln, F wie Fußball spielen, S wie singen oder schwimmen, W wie in den Wald gehen bis Z wie Zuhören, was Gott uns alles zu sagen hat. Hier ist für jeden was dabei!
 
-Du bist neugierig geworden? - Weitere Infos zu unserem wunderschönen Ferienlager und dem Freizeitkonzept findest du [HIER](https://www.ec-nordbund.de/downloads/Dokumente)
+Du bist neugierig geworden? - Weitere Infos zu unserem wunderschönen Ferienlager und dem Freizeitkonzept findest du [HIER](https://www.ec-nordbund.de/download/FlyerundProspekte/EC-Kids-Camp-Freizeitinfos.pdf)
 
 > **Besonderer Hinweis:**
 > Wir bitten den/die Erziehungsberechtigte/n, ihr Kind aus dem Jahrgang 2014 nicht anzumelden, wenn es im Jahr 2027 bereits an unserem PfingstCamp für Teenager teilnimmt.
