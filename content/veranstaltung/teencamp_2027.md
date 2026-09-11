@@ -1,6 +1,6 @@
 ---
 verwaltung:
-  hatGWarteliste: true
+  hatGWarteliste: false
   kannVorortBezahltWerden: false
   kurzBezeichnung: TC27
   anzahlPlaetze: 50
@@ -34,7 +34,18 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-preise: []
+preise:
+  - label: Frühbucher
+    begin: 2026-09-11
+    ende: 2026-10-31
+    preis: 420
+  - label: Normal
+    begin: 2026-11-01
+    ende: 2027-05-21
+    preis: 460
+  - label: Last-Minute
+    begin: 2027-05-22
+    preis: 500
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
