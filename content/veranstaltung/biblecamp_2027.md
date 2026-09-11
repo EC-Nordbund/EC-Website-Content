@@ -56,14 +56,14 @@ anmeldung:
   extraFields:
     - type: checkbox
       required: false
-      label: Wenn du dir vorstellen kannst, eine Abendandacht vorzubereiten, wähle
-        bitte das Feld "Abendandacht" aus. Ich melde mich dann bei dir im
+      label: Wenn du dir vorstellen kannst, eine Abendandacht vorzubereiten, hast du
+        hier die Möglichkeit, es mitzuteilen. Ich melde mich dann bei dir im
         Vorfeld.
       name: Abendandacht
     - type: checkbox
       required: false
       label: Falls du Lust hast, einen Programmpunkt vorzubereiten, hast du hier die
-        Möglichkeit, es mitzuteilen.
+        Möglichkeit, es mitzuteilen. Ich melde mich dann bei dir im Vorfeld.
       name: Programmpunkt
   hatFreizeitleitung: true
   hatErlaubnisKlettern: false
