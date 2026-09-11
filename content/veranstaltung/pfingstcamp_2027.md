@@ -24,7 +24,7 @@ long: "9.948151"
 strasse: Campingplatz, Karlsminde
 plz: "24369 "
 ort: Waabs
-minTN: 24
+minTN: 34
 minAlter: 13
 maxAlter: 17
 tags:
