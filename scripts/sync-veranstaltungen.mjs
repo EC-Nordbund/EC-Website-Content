@@ -8,6 +8,12 @@
 // werden zeilengenau ins Frontmatter zurückgeschrieben (der Workflow
 // committet sie anschließend).
 //
+// Jahrgangswechsel: Wird das Beginn-Datum einer bereits verknüpften
+// Veranstaltung auf ein anderes JAHR gesetzt (fortgeschriebene Datei für die
+// nächste Saison), legt die API eine neue Veranstaltung an statt die alte
+// umzudatieren — der Vorjahrgang behält seine Anmeldungen. Die neue ID
+// ersetzt hier die alte im Frontmatter.
+//
 // Env: SYNC_TOKEN (Pflicht), SYNC_URL (Default https://api.ec-nordbund.de),
 //      DRY_RUN=1 (nur validieren/reporten, keine DB-Writes, kein Writeback).
 import fs from 'node:fs'
@@ -28,7 +34,7 @@ const INFO_MAIL_BY_BRIEF_ID = {
   5: 'dortje.gaertner@ec-nordbund.de',
 }
 
-const report = { created: [], updated: [], adopted: [], skipped: [], errors: [], warnings: [] }
+const report = { created: [], recreated: [], updated: [], adopted: [], skipped: [], errors: [], warnings: [] }
 
 /** YAML-Date | 'YYYY-MM-DD'-String | sonstiges → 'YYYY-MM-DD' oder null */
 function toDateStr(v) {
@@ -290,8 +296,12 @@ if (deduped.length > 0) {
     const line = `${r.slug}: ${r.status}${r.veranstaltungsID ? ` (ID ${r.veranstaltungsID})` : ''}${r.warning ? ` — ${r.warning}` : ''}`
     if (r.status === 'error') {
       report.errors.push(`${r.slug}: ${r.error}${r.context ? ` (${r.context.join('; ')})` : ''}`)
-    } else if (r.status === 'created' || r.status === 'adopted') {
-      report[r.status === 'created' ? 'created' : 'adopted'].push(line)
+    } else if (r.status === 'created' || r.status === 'adopted' || r.status === 'recreated') {
+      // 'recreated' = das Beginn-Jahr wich vom Jahrgang der verknuepften
+      // DB-Zeile ab; die API hat eine neue Veranstaltung angelegt statt die
+      // alte umzudatieren. Rueckschreiben ist hier genauso noetig wie beim
+      // Anlegen, sonst zeigt das Frontmatter weiter auf den Vorjahrgang.
+      report[r.status].push(line)
       if (!DRY_RUN) writeBackId(fileBySlug[r.slug], r.veranstaltungsID)
     } else {
       report.updated.push(line)
@@ -304,6 +314,7 @@ if (deduped.length > 0) {
 const summaryLines = ['# Veranstaltungs-Sync' + (DRY_RUN ? ' (DRY RUN)' : ''), '']
 for (const [title, list] of [
   ['Angelegt', report.created],
+  ['Neu angelegt wegen Jahrgangswechsel (alte Veranstaltung bleibt)', report.recreated],
   ['Aktualisiert', report.updated],
   ['Adoptiert (bestehende DB-Zeile übernommen)', report.adopted],
   ['Übersprungen', report.skipped],
