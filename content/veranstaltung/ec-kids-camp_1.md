@@ -32,17 +32,17 @@ warteliste:
   allgemein: false
   männlich: true
   weiblich: false
-anzahlung: 50
+anzahlung: 24
 preise:
   - label: Frühbucher
-    ende: 2025-12-31
-    preis: 250
+    ende: 2026-10-31
+    preis: 240
   - label: Normal
-    begin: 2026-01-01
-    ende: 2026-05-30
-    preis: 275
+    begin: 2026-11-01
+    ende: 2027-05-21
+    preis: 270
   - label: Last-Minute
-    begin: 2026-05-31
+    begin: 2027-05-22
     preis: 300
 anmeldung:
   hatErlaubnisBoot: true
