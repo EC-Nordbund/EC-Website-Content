@@ -11,6 +11,8 @@ images:
   - veranstaltungen/af25_4_.jpeg
   - veranstaltungen/af25_6_.jpeg
 juleica: false
+altersbereiche:
+  kids: true
 veranstaltungsort: Hartenholm
 lat: "53.918538"
 long: "10.07579"
