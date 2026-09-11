@@ -5,11 +5,15 @@ begin: 2026-09-19
 ende: 2026-09-19
 description: Dein Tag um dich mit Leuten aus dem ganzen EC-Nordbund und darüber
   hinaus zu connecten und Gemeinschaft zu feiern.
-featuredImage: veranstaltungen/time_out-website.png
+featuredImage: veranstaltungen/connect-website.png
 images:
   - veranstaltungen/tc2k22-284.jpg
   - veranstaltungen/simon-maage-tximrx3gc-g-unsplash.jpg
 juleica: false
+altersbereiche:
+  teens: true
+  jugend: true
+  je: true
 veranstaltungsort: Gemeinschaft Neumünster
 lat: "54.0771564"
 long: "9.9907548"
