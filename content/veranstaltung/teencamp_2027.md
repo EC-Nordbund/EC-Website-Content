@@ -19,6 +19,8 @@ images:
   - veranstaltungen/wtc26_1.jpg
   - veranstaltungen/wtc26_2.jpg
 juleica: false
+altersbereiche:
+  teens: true
 veranstaltungsort: Adventure Efterskolen
 lat: "54.862773"
 long: "9.721557"
