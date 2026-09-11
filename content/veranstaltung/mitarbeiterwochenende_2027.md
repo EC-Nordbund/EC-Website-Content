@@ -1,7 +1,7 @@
 ---
 verwaltung:
   kurzBezeichnung: MAWE
-  anzahlPlaetze: 50
+  anzahlPlaetze: 80
   briefID: 3
 title: Mitarbeiterwochenende 2027
 begin: 2027-03-05
