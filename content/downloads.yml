@@ -74,9 +74,6 @@ folders:
           - filename: 'download/Dokumente/Karlsminde/Preisliste 2025.pdf'
             title: Preisliste 2025
             description: ''
-          - filename: 'download/Dokumente/Karlsminde/EC-Kids-Camp - Freizeitinfos.pdf'
-            title: EC-Kids-Camps – Freizeitinfos
-            description: 'Unterbringung, Freizeitkonzept und Ansprechpartnerin für die EC-Kids-Camps in Karlsminde'
 
     files:
       - filename: 'download/Dokumente/Datenschutzerklärung Anmeldung v1.pdf'
@@ -99,6 +96,9 @@ folders:
       - filename: 'download/Dokumente/2026_27-EC-Nordbund Kalender.pdf'
         title: 2026_27-EC-Nordbund Kalender.pdf
         description: ''
+      - filename: 'download/Dokumente/Karlsminde/EC-Kids-Camp - Freizeitinfos.pdf'
+        title: EC-Kids-Camps – Freizeitinfos
+        description: 'Unterbringung, Freizeitkonzept und Ansprechpartnerin für die EC-Kids-Camps in Karlsminde'
   Krisenintervention:
     title: Krisenintervention
     description: Kinder- und Jugendschutz
