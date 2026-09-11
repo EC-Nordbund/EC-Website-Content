@@ -1,4 +1,8 @@
 ---
+verwaltung:
+  kurzBezeichnung: MAWE
+  anzahlPlaetze: 50
+  briefID: 3
 title: Mitarbeiterwochenende 2027
 begin: 2027-03-05
 ende: 2027-03-07
@@ -17,16 +21,27 @@ long: "9.747164"
 strasse: An See 7
 plz: "24794"
 ort: Bünsdorf
+minTN: 35
 minAlter: 14
+maxAlter: ""
 tags:
   - Freizeit
   - Seminar
+  - Teens
+  - Jugend
+  - junge Erwachsene
 warteliste:
   allgemein: false
   männlich: false
   weiblich: false
 anzahlung: ""
-preise: []
+preise:
+  - label: Normal
+    ende: 2027-02-25
+    preis: 70
+  - label: Last-Minute
+    begin: 2027-02-26
+    preis: 75
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: false
