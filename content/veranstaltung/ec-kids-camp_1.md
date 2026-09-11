@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 530
 verwaltung:
   kurzBezeichnung: KCI
   anzahlPlaetze: 48
@@ -30,7 +31,7 @@ tags:
   - Jahrgang 2014 bis 2018
 warteliste:
   allgemein: false
-  männlich: true
+  männlich: false
   weiblich: false
 anzahlung: 24
 preise:
