@@ -30,9 +30,8 @@ ort: Rømø (Dänemark)
 minTN: 14
 minAlter: 14
 tags:
+  - Rømø
   - Freizeit
-  - Seminar
-  - Dänemark
 warteliste:
   allgemein: false
   männlich: false
