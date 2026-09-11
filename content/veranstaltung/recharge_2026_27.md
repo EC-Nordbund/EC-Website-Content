@@ -9,6 +9,8 @@ images:
   - veranstaltungen/20251231_182322.jpg
   - veranstaltungen/20251230_092734.jpg
 juleica: false
+altersbereiche:
+  je: true
 veranstaltungsort: Freizeitheim der Nordschleswigschen Gemeinde
 lat: "55.094054"
 long: "8.550633"
