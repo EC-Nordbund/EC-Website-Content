@@ -45,6 +45,18 @@ anmeldung:
   hatErlaubnisFahrrad: false
   hatErlaubnisSchwimmen: true
   hatErlaubnisSichEntfernen: true
+  extraFields:
+    - type: checkbox
+      required: false
+      label: Falls du Lust hast, einen Programmpunkt vorzubereiten, hast du hier die
+        Möglichkeit, es mitzuteilen. Ich melde mich dann bei dir im Vorfeld.
+      name: Programmpunkt
+    - type: checkbox
+      required: false
+      label: Wenn du dir vorstellen kannst, eine Abendandacht vorzubereiten, hast du
+        hier die Möglichkeit, es mitzuteilen. Ich melde mich dann bei dir im
+        Vorfeld.
+      name: Abendandacht
   hatFreizeitleitung: true
   hatErlaubnisKlettern: false
   hatFahrgemeinschaft: true
