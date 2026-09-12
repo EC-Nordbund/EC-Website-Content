@@ -21,10 +21,7 @@ strasse: Klosterstraße 34
 plz: "24534"
 ort: Neumünster
 minAlter: 13
-tags:
-  - Teens
-  - Jugend
-  - junge Erwachsene
+tags: []
 warteliste:
   allgemein: false
   männlich: false
