@@ -79,7 +79,7 @@ W﻿ir werden vor Ort in einer Blockhaushütte ganz in der Nähe eines großen S
 
 W﻿ichtig zu beachten:
 
-Da wir gemeinsam mit dem Auto anreisen werden, kann diese Freizeit nur stattfinden, wenn wir genügend Menschen sind, die einen Führerschein haben und auch bereit sind eine (Teil-)Strecke zu fahren. 
+Da wir gemeinsam mit gemieteten Autos anreisen werden, kann diese Freizeit nur stattfinden, wenn wir genügend Menschen sind, die einen Führerschein haben und auch bereit sind eine (Teil-)Strecke zu fahren. 
 
 E﻿in weiterer Hinweis:\
 S﻿ollten wir bis zum 20.01.2027 unsere Mindestteilnehmerzahl nicht erreichen, müssen wir die Freizeit leider absagen.
