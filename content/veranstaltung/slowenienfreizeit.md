@@ -6,7 +6,7 @@ verwaltung:
   kurzBezeichnung: SeJ
   anzahlPlaetze: 18
   briefID: 4
-title: Slowenienfreizeit
+title: Slowenienfreizeit 2027
 begin: 2027-09-03
 ende: 2027-09-12
 description: Gemeinsam wollen wir nach Slowenien fahren und dort das Haus und
@@ -15,9 +15,7 @@ featuredImage: veranstaltungen/j-e-freizeit-website.png
 images:
   - veranstaltungen/jes27_1.jpg
   - veranstaltungen/jes27_4.jpg
-  - veranstaltungen/jes27_6.jpeg
   - veranstaltungen/jes27_3.jpeg
-  - veranstaltungen/jes27_5.jpeg
   - veranstaltungen/jes27_2.jpeg
 juleica: false
 altersbereiche:
@@ -65,7 +63,7 @@ anmeldung:
   hatFreizeitleitung: false
   hatErlaubnisKlettern: false
   hatFahrgemeinschaft: true
-  visible: false
+  visible: true
   hatEssen: true
   startAt: 2026-09-20T15:00:00+02:00
   hatGesundheit: true
