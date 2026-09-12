@@ -1,5 +1,4 @@
 ---
-veranstaltungsID: 530
 verwaltung:
   kurzBezeichnung: KCI
   anzahlPlaetze: 48
