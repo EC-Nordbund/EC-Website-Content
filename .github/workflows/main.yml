@@ -41,13 +41,30 @@ jobs:
         target_url: https://preview.ec-nordbund.de/${{github.ref_name}}
         state: 'success'
         sha: ${{steps.ec_sha.outputs.sha}}
+  # Doppelte veranstaltungsIDs — laeuft auf jedem Branch und blockiert den
+  # Sync, denn zwei Dateien mit derselben ID wuerden dieselbe DB-Zeile
+  # beschreiben. Entsteht typischerweise beim Duplizieren im CMS.
+  check_ids:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@41ff72655975bd51cab0327fa583b6e92b6d3061
+        with:
+          version: 9.15.9
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: pnpm i --ignore-scripts
+      - name: veranstaltungsIDs pruefen
+        run: node ./scripts/check-veranstaltungs-ids.mjs
+
   # Verwaltungs-Sync: überträgt Veranstaltungen aus dem CMS in die
   # Verwaltungs-DB und schreibt neu vergebene veranstaltungsIDs zurück.
   # Loop-Schutz: der Auto-Commit läuft mit GITHUB_TOKEN (triggert keine
   # neuen Workflow-Läufe); der [sync]-Guard ist die Zweitsicherung.
   sync:
     runs-on: ubuntu-latest
-    needs: [ compress ]
+    needs: [ compress, check_ids ]
     if: github.ref_name == 'main' && !startsWith(github.event.head_commit.message, '[sync]')
     steps:
       - uses: actions/checkout@v4
@@ -72,6 +89,29 @@ jobs:
         with:
           commit_message: '[sync] veranstaltungsIDs'
           file_pattern: 'content/veranstaltung/*.md'
+
+  # Fehlende IDs erst NACH dem Sync pruefen: neue Veranstaltungen bekommen
+  # ihre ID von genau diesem Lauf. Was hier uebrig bleibt, hat der Sync
+  # bewusst ausgelassen (meist fehlender Verwaltung-Abschnitt) — und wuerde
+  # im Anmeldeformular als ID 0 enden.
+  check_ids_vollstaendig:
+    runs-on: ubuntu-latest
+    needs: [ sync ]
+    if: github.ref_name == 'main' && needs.sync.result == 'success'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # den Rueckschreib-Commit des Syncs mitnehmen
+          ref: main
+      - uses: pnpm/action-setup@41ff72655975bd51cab0327fa583b6e92b6d3061
+        with:
+          version: 9.15.9
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: pnpm i --ignore-scripts
+      - name: Zukuenftige Veranstaltungen mit Anmeldung brauchen eine ID
+        run: node ./scripts/check-veranstaltungs-ids.mjs --id-pflicht
 
   dispatch_main:
     runs-on: ubuntu-latest
