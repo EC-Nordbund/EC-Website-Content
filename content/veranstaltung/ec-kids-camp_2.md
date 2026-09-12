@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 4256
 verwaltung:
   kurzBezeichnung: KCII
   anzahlPlaetze: 48

@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 4255
 verwaltung:
   kurzBezeichnung: KCI
   anzahlPlaetze: 48
