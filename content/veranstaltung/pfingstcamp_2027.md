@@ -49,7 +49,7 @@ anmeldung:
   hatFreizeitleitung: true
   hatErlaubnisKlettern: true
   hatFahrgemeinschaft: true
-  visible: false
+  visible: true
   hatEssen: true
   startAt: 2026-09-20T15:00:00+02:00
   hatGesundheit: true
