@@ -14,10 +14,10 @@ description: Wir freuen uns auf das Teencamp 2027 in Skelde in Dänemark ganz in
 featuredImage: veranstaltungen/teencamp-website.png
 images:
   - veranstaltungen/gruppenbildtc26.jpg
-  - veranstaltungen/wtc_3.jpg
-  - veranstaltungen/wtc26.jpg
   - veranstaltungen/wtc26_1.jpg
   - veranstaltungen/wtc26_2.jpg
+  - veranstaltungen/wtc_3.jpg
+  - veranstaltungen/wtc26.jpg
 juleica: false
 altersbereiche:
   teens: true
@@ -31,8 +31,9 @@ minTN: 35
 minAlter: 13
 maxAlter: 16
 tags:
-  - Teens
   - Freizeit
+  - Dänemark
+  - Teencamp
 warteliste:
   allgemein: false
   männlich: false
@@ -54,10 +55,11 @@ anmeldung:
   hatErlaubnisFahrrad: true
   hatErlaubnisSchwimmen: true
   hatErlaubnisSichEntfernen: true
+  extraFields: []
   hatFreizeitleitung: true
   hatErlaubnisKlettern: true
   hatFahrgemeinschaft: true
-  visible: false
+  visible: true
   hatEssen: true
   startAt: 2026-09-20T15:00:00+02:00
   hatGesundheit: true
