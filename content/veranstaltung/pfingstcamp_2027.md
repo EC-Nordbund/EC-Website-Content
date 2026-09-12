@@ -13,10 +13,10 @@ description: Gemeinsam Pfingsten in Karlsminde erleben, mit Strand, Wald,
   Feuerstelle, Aasee und viel guter Laune.
 featuredImage: veranstaltungen/pfingstcamp-website.png
 images:
+  - veranstaltungen/karlmsinde_c_tobias_krahe.webp
   - veranstaltungen/wpc_1.jpg
   - veranstaltungen/wpc_2.jpg
   - veranstaltungen/wpc_3.jpg
-  - veranstaltungen/karlmsinde_c_tobias_krahe.jpg
   - veranstaltungen/wpc_4.jpg
 juleica: false
 altersbereiche:
