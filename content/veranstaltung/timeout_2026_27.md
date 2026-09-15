@@ -1,4 +1,8 @@
 ---
+verwaltung:
+  kurzBezeichnung: TO
+  anzahlPlaetze: 25
+  briefID: 3
 title: TimeOut 2026/27
 begin: 2026-12-29
 ende: 2027-01-02
