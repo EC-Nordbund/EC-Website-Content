@@ -14,6 +14,9 @@ description: Gemeinsam wollen wir nach Slowenien fahren und dort das Haus und
 featuredImage: veranstaltungen/j-e-freizeit-website.png
 images:
   - veranstaltungen/jes27_1.jpg
+  - veranstaltungen/jess27_5.jpg
+  - veranstaltungen/jess27_7.jpg
+  - veranstaltungen/jess27_6.jpg
   - veranstaltungen/jes27_4.jpg
   - veranstaltungen/jes27_3.jpeg
   - veranstaltungen/jes27_2.jpeg
