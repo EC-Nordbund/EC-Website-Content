@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 4259
 verwaltung:
   kurzBezeichnung: TO
   anzahlPlaetze: 25

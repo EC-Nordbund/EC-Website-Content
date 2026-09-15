@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 4257
 verwaltung:
   kurzBezeichnung: rech
   anzahlPlaetze: 21
