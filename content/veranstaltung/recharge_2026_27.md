@@ -1,4 +1,9 @@
 ---
+verwaltung:
+  kurzBezeichnung: rech
+  anzahlPlaetze: 21
+  hatGWarteliste: true
+  briefID: 4
 title: rECharge 2026/27
 begin: 2026-12-29
 ende: 2027-01-02
