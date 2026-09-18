@@ -41,7 +41,7 @@ anmeldung:
   hatEssen: true
   startAt: ""
   hatGesundheit: true
-  disabled: false
+  disabled: true
 ---
 Beim Connect geht es darum, dich mit Menschen aus anderen EC Orten zu connecten.
 Gemeinsam starten wir am Nachmittag im Jugend-Gottesdienst Format mit Musik, Gebet, Zeit zum Ankommen und damit, etwas über den zu hören, der uns alle vereint.
