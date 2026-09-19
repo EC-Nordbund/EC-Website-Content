@@ -7,8 +7,8 @@ verwaltung:
   briefID: 3
   anzahlPlaetzeWeiblich: ""
 title: Jugendfreizeit 2027
-begin: 2027-07-17
-ende: 2027-07-24
+begin: 2027-07-16
+ende: 2027-07-23
 description: Eine Jugendfreizeit direkt in den Dünen? Das darfst du nicht verpassen!
 featuredImage: veranstaltungen/jugendfreizeit-tibelbild.png
 images:
