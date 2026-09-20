@@ -31,7 +31,7 @@ tags:
   - Dänemark
   - Sommer
 warteliste:
-  allgemein: false
+  allgemein: true
   männlich: false
   weiblich: false
 anzahlung: 42
