@@ -15,8 +15,8 @@ featuredImage: veranstaltungen/pfingstcamp-website.png
 images:
   - veranstaltungen/karlmsinde_c_tobias_krahe.webp
   - veranstaltungen/wpc_1.jpg
-  - veranstaltungen/wpc_2.jpg
   - veranstaltungen/wpc_3.jpg
+  - veranstaltungen/wpc_2.jpg
   - veranstaltungen/wpc_4.jpg
 juleica: false
 altersbereiche:
@@ -40,7 +40,17 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-preise: []
+preise:
+  - label: Frühbucher
+    ende: 2026-10-31
+    preis: 70
+  - label: Normal
+    ende: 2027-04-02
+    preis: 80
+    begin: 2026-11-01
+  - label: Last-Minute
+    begin: 2027-04-02
+    preis: 90
 anmeldung:
   hatErlaubnisBoot: true
   hatErlaubnisFahrrad: true
