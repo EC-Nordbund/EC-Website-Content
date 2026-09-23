@@ -97,10 +97,6 @@ folders:
     description: Kinder- und Jugendschutz
     folders: {}
     files:
-      - filename: download/Krisenintervention/(4) Verdacht in Bezug auf einen
-          Mitarbeiter oder Leiter.pdf
-        title: (4) Vermutung in Bezug auf einen Mitarbeiter oder Leiter.pdf
-        description: ""
       - filename: download/Krisenintervention/Leitlinien sexuelle Gewalt.pdf
         title: Leitlinien sexuelle Gewalt.pdf
         description: ""
