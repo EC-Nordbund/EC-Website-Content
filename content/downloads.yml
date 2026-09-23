@@ -97,21 +97,6 @@ folders:
     description: Kinder- und Jugendschutz
     folders: {}
     files:
-      - filename: download/Krisenintervention/Leitlinien sexuelle Gewalt.pdf
-        title: Leitlinien sexuelle Gewalt.pdf
-        description: ""
-      - filename: download/Krisenintervention/Selbstverpflichtung.pdf
-        title: Selbstverpflichtung.pdf
-        description: ""
-      - filename: download/Krisenintervention/Meldebogen für eine schriftliche
-          Beschwerde.docx
-        title: Meldebogen für eine schriftliche Beschwerde.docx
-        description: ""
-      - filename: download/Krisenintervention/Dokumentationsbogen bei Verdacht oder
-          Bericht von sexualisierter Gewalt.docx
-        title: Dokumentationsbogen bei Verdacht oder Bericht von sexualisierter
-          Gewalt.docx
-        description: ""
       - filename: download/Krisenintervention/1_im_personlichen_umfeld_-_ich_habe_eine_vermutung.pdf
         title: (1) Im persönlichen Umfeld - Ich habe eine Vermutung
       - filename: download/Krisenintervention/2_im_personlichen_umfeld_-_mir_wird_etwas_anvertraut.pdf
@@ -120,3 +105,18 @@ folders:
         title: (3) Kinder untereinander - Ich mache eine Beobachtung
       - filename: download/Krisenintervention/4_vermutung_in_bezug_auf_mitarbeitende_oder_leitende.pdf
         title: (4) Vermutung in Bezug auf Mitarbeitende oder Leitende
+      - filename: download/Krisenintervention/Dokumentationsbogen bei Verdacht oder
+          Bericht von sexualisierter Gewalt.docx
+        title: Dokumentationsbogen bei Verdacht oder Bericht von sexualisierter
+          Gewalt.docx
+        description: ""
+      - filename: download/Krisenintervention/Meldebogen für eine schriftliche
+          Beschwerde.docx
+        title: Meldebogen für eine schriftliche Beschwerde.docx
+        description: ""
+      - filename: download/Krisenintervention/Selbstverpflichtung.pdf
+        title: Selbstverpflichtung.pdf
+        description: ""
+      - filename: download/Krisenintervention/Leitlinien sexuelle Gewalt.pdf
+        title: Leitlinien sexuelle Gewalt.pdf
+        description: ""
