@@ -9,7 +9,9 @@ verwaltung:
   briefID: 2
 title: EC-Kids-Camp II 2027
 begin: 2027-08-02
+ende: 2027-08-12
 description: Sommer. Ferien. Karlsminde.
+featuredImage: veranstaltungen/ec-kids-camp-website_1_.png
 images:
   - veranstaltungen/ljf2_a013949.jpg
   - veranstaltungen/ljf2_mg_2674.jpg
@@ -17,8 +19,6 @@ images:
 juleica: false
 altersbereiche:
   kids: true
-ende: 2027-08-12
-featuredImage: veranstaltungen/ec-kids-camp-website_1_.png
 veranstaltungsort: Karlsminde
 lat: "54.5"
 long: "9.9484807"
@@ -34,7 +34,7 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
-anzahlung: 50
+anzahlung: 24
 preise:
   - label: Frühbucher
     ende: 2026-10-31
