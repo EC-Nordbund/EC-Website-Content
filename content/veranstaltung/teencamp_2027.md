@@ -4,7 +4,7 @@ verwaltung:
   hatGWarteliste: false
   kannVorortBezahltWerden: false
   kurzBezeichnung: TC
-  anzahlPlaetze: 50
+  anzahlPlaetze: 60
   briefID: 4
 title: Teencamp 2027
 begin: 2027-07-03
