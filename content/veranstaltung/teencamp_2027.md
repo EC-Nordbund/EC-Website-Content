@@ -38,6 +38,7 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
+anzahlung: 42
 preise:
   - label: Frühbucher
     begin: 2026-09-11
