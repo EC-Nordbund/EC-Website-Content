@@ -40,6 +40,7 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
+anzahlung: 60
 preise:
   - label: Normal
     preis: 600
