@@ -25,6 +25,7 @@ plz: "6792"
 ort: Havneby DK
 minTN: 10
 minAlter: 20
+maxAlter: ""
 tags:
   - junge Erwachsene
   - Rømø
@@ -33,6 +34,7 @@ warteliste:
   allgemein: false
   männlich: false
   weiblich: false
+anzahlung: 16
 preise:
   - label: Frühbucher
     begin: 2026-08-26
