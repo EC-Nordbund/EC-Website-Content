@@ -16,9 +16,9 @@ images:
 juleica: false
 altersbereiche:
   kids: false
-  teens: true
-  jugend: true
-  je: true
+  teens: false
+  jugend: false
+  je: false
 veranstaltungsort: EC-Ferienlager KArlsminde
 lat: "54.499943"
 long: "9.948017"
