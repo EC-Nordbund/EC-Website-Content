@@ -8,6 +8,11 @@ ende: 2026-10-10
 description: Wir arbeiten gemeinsam an unserem Ferienlager, um es für die Saison
   vorzubereiten. Sei bei diesen besonderen Tagen dabei!
 featuredImage: veranstaltungen/karlsminde_aufbautage-website.png
+images:
+  - veranstaltungen/1000076675.jpg
+  - veranstaltungen/1000047965.jpg
+  - veranstaltungen/1000085580.jpg
+  - veranstaltungen/1000085579.jpg
 juleica: false
 altersbereiche:
   kids: false
