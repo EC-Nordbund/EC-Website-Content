@@ -49,11 +49,12 @@ Es gibt **jede Menge abwechslungsreiche Aufgaben**:
 
 * Bungalows reinigen und ausstatten
 * Küchenausstattung säubern und einräumen
-* Boote vorbereiten und ins Wasser bringen
 * Reparatur- und Instandhaltungsarbeiten
 * Baumschnitt und Pflege des Außengeländes
 
-Ob handwerklich geschickt, ordnungsliebend oder einfach motiviert – **jede helfende Hand ist willkommen**. Timo und sein Team übernehmen die Aufgabenverteilung vor Ort, sodass für jede und jeden etwas Passendes dabei ist.
+Ob handwerklich geschickt, ordnungsliebend oder einfach motiviert – **jede helfende Hand ist willkommen**. Der Arbeitskreis Karlsminde übernimmt die Aufgabenverteilung vor Ort, sodass für jede und jeden etwas Passendes dabei ist.
+
+Neben der Arbeit bleibt natürlich auch Zeit für Gemeinschaft: Abends möchten wir den Tag gemütlich am Lagerfeuer ausklingen lassen – mit Gesprächen, Wärme und einer guten Portion Karlsminde-Atmosphäre.
 
 **Bitte meldet euch vorher an**, damit wir besser planen können. Wir freuen uns auf eine produktive, fröhliche und gemeinschaftliche Zeit in Karlsminde!
 
