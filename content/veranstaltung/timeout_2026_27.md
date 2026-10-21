@@ -29,6 +29,7 @@ minAlter: 16
 tags:
   - Freizeit
   - Rømø
+  - Silvester
 warteliste:
   allgemein: false
   männlich: false
