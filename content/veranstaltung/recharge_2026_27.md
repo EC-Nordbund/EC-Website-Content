@@ -27,7 +27,7 @@ minTN: 10
 minAlter: 20
 maxAlter: ""
 tags:
-  - junge Erwachsene
+  - Freizeit
   - Rømø
   - Silvester
 warteliste:
