@@ -82,6 +82,6 @@ Plan dir diese besondere Zeit im Jahr ein und komm mit nach Rømø, um gemeinsam
 *E﻿ine Info für alle, die noch die Silvesterfreizeit der letzten Jahre im Kopf haben:*\
 *Die ehemalige Time Out (18+) wurde in zwei Freizeiten aufgeteilt.*  \
 *Wir möchten nun mit der Time Out Jugendlichen ab 16 Jahren die Möglichkeit geben, eine Silvesterfreizeit zu erleben und gleichzeitig Erwachsenen eine Freizeit anbieten, die sich stärker an junge Erwachsene richtet.
-Wer mit bspw. 22 Jahren gerne gemeinsam mit seinen Freunden unter 20 Junterwegs sein möchte, ist bei der Time Out herzlich willkommen. Wer lieber ausschließlich mit Erwachsenen unterwegs sein möchte, findet in der Recharge die passende Freizeit.ahren* 
+Wer mit bspw. 22 Jahren gerne gemeinsam mit seinen Freunden unter 20 Jahren unterwegs sein möchte, ist bei der Time Out herzlich willkommen. Wer lieber ausschließlich mit Erwachsenen unterwegs sein möchte, findet in der Recharge die passende Freizeit.* 
 
 *Da die beiden Häuser nah beieinander liegen, können problemlos freizeitübergreifend Fahrgemeinschaftengebildet werden.*
