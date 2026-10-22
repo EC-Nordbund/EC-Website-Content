@@ -76,4 +76,12 @@ Komm mit, wenn es am Ende des Jahres auf die schöne Insel Rømø geht.
 
 Wir werden gemeinsam die letzten Stunden des Jahres genießen, Gemeinschaft erleben, das Zusammensein feiern und Zeit mit Gott verbringen.\
 Gemeinsam werden wir das alte Jahr mit Gott beschließen und das neue Jahr mit ihm starten. \
-Plan dir diese besondere Zeit im Jahr ein und komm mit nach Rømø, um gemeinsam aufzutanken, zur Ruhe zu kommen und einfach die Gemeinschaft mit anderen zu genießen.
+Plan dir diese besondere Zeit im Jahr ein und komm mit nach Rømø, um gemeinsam aufzutanken, zur Ruhe zu kommen und einfach die Gemeinschaft mit anderen zu genießen.\
+\
+\
+*E﻿ine Info für alle, die noch die Silvesterfreizeit der letzten Jahre im Kopf haben:*\
+*Die ehemalige Time Out (18+) wurde in zwei Freizeiten aufgeteilt.*  \
+*Wir möchten nun mit der Time Out Jugendlichen ab 16 Jahren die Möglichkeit geben, eine Silvesterfreizeit zu erleben und gleichzeitig Erwachsenen eine Freizeit anbieten, die sich stärker an junge Erwachsene richtet.
+Wer mit bspw. 22 Jahren gerne gemeinsam mit seinen Freunden unter 20 Junterwegs sein möchte, ist bei der Time Out herzlich willkommen. Wer lieber ausschließlich mit Erwachsenen unterwegs sein möchte, findet in der Recharge die passende Freizeit.ahren* 
+
+*Da die beiden Häuser nah beieinander liegen, können problemlos freizeitübergreifend Fahrgemeinschaftengebildet werden.*
