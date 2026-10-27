@@ -7,9 +7,9 @@ verwaltung:
 title: TimeOut 2026/27
 begin: 2026-12-29
 ende: 2027-01-02
-description: Am Ende des Jahres werden wir werden gemeinsam die letzten Stunden
-  des Jahres genießen, Gemeinschaft erleben, das Zusammensein feiern und Zeit
-  mit Gott verbringen.
+description: Am Ende des Jahres werden wir gemeinsam die letzten Stunden des
+  Jahres genießen, Gemeinschaft erleben, das Zusammensein feiern und Zeit mit
+  Gott verbringen.
 featuredImage: veranstaltungen/time_out-jugend-website.png
 images:
   - veranstaltungen/img_1543_-_kopie.jpg
