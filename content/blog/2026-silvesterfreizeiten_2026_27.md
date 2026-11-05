@@ -6,7 +6,7 @@ description: Was hat es eigentlich mit den beiden unterschiedlichen
 featuredImage: blog/titelbild_blogbeitrag_silvesterfreizeiten202627.png
 ---
 „Fürchte dich nicht, denn ich bin mit dir; hab keine Angst, denn ich bin dein Gott!“\
-- Jesaja 41,10
+-Jesaja 41,10
 
 ![](blog/silvesterfreizeiten_202627_kurzerklarung.png)
 
