@@ -3,8 +3,8 @@ veranstaltungsID: 4256
 verwaltung:
   kurzBezeichnung: KCII
   anzahlPlaetze: 48
-  anzahlPlaetzeWeiblich: 24
-  anzahlPlaetzeMaennlich: 24
+  anzahlPlaetzeWeiblich: 18
+  anzahlPlaetzeMaennlich: 30
   hatGWarteliste: true
   briefID: 2
 title: EC-Kids-Camp II 2027
