@@ -51,9 +51,12 @@ folders:
     title: Design und Vorlagen
     description: Verschiedene Designs und Vorlagen
     files:
-      - filename: download/Design und Vorlagen/Vorlage EC-Sitzungsprotokoll.dotx
-        title: Vorlage EC-Sitzungsprotokoll.dotx
-        description: Vorlage für Sitzungen
+      - filename: download/Design und Vorlagen/ec-sitzungsprotokoll_vorlage.docx
+        title: Vorlage EC-Sitzungsprotokoll
+        description: Protokollvorlage für Sitzungen
+      - filename: download/Design und Vorlagen/ec-tagesordnung_vorlage.docx
+        title: Vorlage EC-Tagesordnung
+        description: Tagesordnungsvorlage für Sitzungen
     folders: {}
   Dokumente:
     title: Dokumente
