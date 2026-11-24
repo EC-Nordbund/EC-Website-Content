@@ -25,7 +25,7 @@ plz: "6792"
 ort: Havneby DK
 minTN: 10
 minAlter: 20
-maxAlter: ""
+maxAlter: 99
 tags:
   - Freizeit
   - Rømø
