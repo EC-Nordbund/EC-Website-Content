@@ -12,6 +12,8 @@ description: Du arbeitest mit Schutzbefohlenen und möchtest dich fortbilden, um
   besser im Thema Kindeswohl geschult zu sein? Dann ist diese Schulung ist für
   dich!
 featuredImage: veranstaltungen/website_titelbilf_kindeswohl.png
+images:
+  - veranstaltungen/dsc_1755.jpg
 juleica: true
 altersbereiche:
   kids: false
