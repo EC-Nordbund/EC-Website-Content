@@ -1,4 +1,5 @@
 ---
+veranstaltungsID: 4260
 verwaltung:
   hatGWarteliste: false
   kannVorortBezahltWerden: false
