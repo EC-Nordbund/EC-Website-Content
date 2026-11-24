@@ -1,5 +1,4 @@
 ---
-veranstaltungsID: 4260
 verwaltung:
   hatGWarteliste: false
   kannVorortBezahltWerden: false
@@ -28,7 +27,6 @@ ort: Bünsdorf
 minAlter: 13
 maxAlter: 99
 tags:
-  - JULEICA-Fortbildung
   - Schulung
 warteliste:
   allgemein: false
@@ -43,7 +41,7 @@ anmeldung:
   extraFields:
     - type: select
       required: true
-      label: JULEICA-Bescheinigung
+      label: Ich möchte eine JULEICA-Fortbildungsbescheinigung vor Ort bekommen.
       name: Bescheinigung
       err: Bitte wähle aus, ob du eine Fortbildungsbescheinigung ausgedruckt vor Ort
         bekommen möchtest-
