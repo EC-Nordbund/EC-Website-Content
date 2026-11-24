@@ -1,5 +1,4 @@
 ---
-veranstaltungsID: 4260
 verwaltung:
   hatGWarteliste: false
   kannVorortBezahltWerden: false
@@ -13,6 +12,8 @@ description: Du arbeitest mit Schutzbefohlenen und möchtest dich fortbilden, um
   besser im Thema Kindeswohl geschult zu sein? Dann ist diese Schulung ist für
   dich!
 featuredImage: veranstaltungen/website_titelbilf_kindeswohl.png
+images:
+  - veranstaltungen/dsc_1755.jpg
 juleica: true
 altersbereiche:
   kids: false
@@ -28,7 +29,6 @@ ort: Bünsdorf
 minAlter: 13
 maxAlter: 99
 tags:
-  - JULEICA-Fortbildung
   - Schulung
 warteliste:
   allgemein: false
@@ -43,7 +43,7 @@ anmeldung:
   extraFields:
     - type: select
       required: true
-      label: JULEICA-Bescheinigung
+      label: Ich möchte eine JULEICA-Fortbildungsbescheinigung vor Ort bekommen.
       name: Bescheinigung
       err: Bitte wähle aus, ob du eine Fortbildungsbescheinigung ausgedruckt vor Ort
         bekommen möchtest-
