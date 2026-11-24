@@ -24,7 +24,7 @@ plz: "24794"
 ort: Bünsdorf
 minTN: 35
 minAlter: 14
-maxAlter: ""
+maxAlter: 99
 tags: []
 warteliste:
   allgemein: false
