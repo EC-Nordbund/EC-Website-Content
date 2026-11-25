@@ -61,6 +61,12 @@ anmeldung:
         - "Workshop 1: Kinder stark machen (Wie rede ich mit Kindern über das
           Thema)"
         - "Workshop 2: Gespräch mit Betroffenen und Beschuldigten"
+    - type: checkbox
+      required: false
+      name: Fotoerlaubnis
+      label: Ich bin damit einverstanden, dass Fotos von mir gemacht werden und für
+        Publikationen verwendet werden. Bilder für Publikationen werden
+        sorgfältig und gewissenhaft ausgesucht.
   hatFreizeitleitung: true
   hatErlaubnisKlettern: false
   hatFahrgemeinschaft: true
