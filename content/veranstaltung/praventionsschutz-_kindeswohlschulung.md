@@ -65,8 +65,7 @@ anmeldung:
       required: false
       name: Fotoerlaubnis
       label: "Optional: Ich bin damit einverstanden, dass Fotos von mir gemacht werden
-        und für Publikationen verwendet werden. Bilder für Publikationen werden
-        sorgfältig und gewissenhaft ausgesucht."
+        und für Publikationen verwendet werden."
   hatFreizeitleitung: true
   hatErlaubnisKlettern: false
   hatFahrgemeinschaft: true
